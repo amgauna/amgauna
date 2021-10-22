@@ -3,12 +3,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)](https://www.linkedin.com/in/amgauna/) 
 
-### Senior Business Systems Analyst at** <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a> 
+### Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a> 
 
 ### I dabbled in Management Techniques in 1983, and have a lot of experience with routine office administrative work.
  
-### I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc. I graduated in computer programming in 1987, studied: 
- <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="29px" height="29px"></a> Pascal, Cobol, SQL.
+### I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc. I graduated in computer programming in 1987, studied: Pascal, Cobol, SQL e 
+ <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="29px" height="29px"></a>
  
 ### Languages and Tools
  
