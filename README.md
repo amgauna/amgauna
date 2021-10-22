@@ -7,7 +7,7 @@ Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="
 
 ** Languages and Tools **
 
-** Eu já fiz alguns sites utilizando **
+** Eu já fiz alguns sites utilizando: |
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
@@ -15,10 +15,9 @@ Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="
 <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="21px" height="21px"></a>
 
 
-** Eu me formei em programação de computadores na década de 80 **
-** Sou Analista de Sistemas desde 2003. ** 
-** Atualmente eu estou estudando online em diversos sites **
-
+> ** Eu me formei em programação de computadores na década de 80. Sou Analista de Sistemas desde 2003.  
+> ** Atualmente eu estou estudando online em diversos sites **
+|
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/azure.svg" alt="Microsoft Azure" width="21px" height="21px"></a>
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="21px" height="21px"></a>
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="C++" width="21px" height="21px"></a>
