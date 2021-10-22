@@ -28,12 +28,14 @@
 
 ### I am currently studying online on several websites: 
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/azure-icon.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
-<a href="https://jquery.com/" title="jQuery"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="29px" height="29px"></a>
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="29px" height="29px"></a>
-<a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="29px" height="29px"></a>
-<a href="https://angular.io/" title="Angular"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular-icon.svg" alt="Angular" width="29px" height="29px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="29px" height="29px"></a>
-<a href="https://nodejs.org/" title="React.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React.js" width="29px" height="29px"></a>
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="29px" height="29px"></a>
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="29px" height="29px"></a>
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="29px" height="29px"></a>
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular-icon.svg" alt="Angular" width="29px" height="29px"></a>
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="29px" height="29px"></a>
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React.js" width="29px" height="29px"></a>
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" width="29px" height="29px"></a>
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/lavarel.svg" alt="Lavarel" width="29px" height="29px"></a>
 
 
 ### I use to work with web developer: <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="29px" height="29px"></a> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eclipse.svg" alt="Eclipse" width="29px" height="29px"></a>
