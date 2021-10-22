@@ -5,11 +5,11 @@
 >
 > **I dabbled in Management Techniques in 1983, and have a lot of experience with routine office administrative work.
 > 
-> **Senior Business Systems Analyst at** <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a> 
+> **Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a> 
 > 
-> **Languages and Tools**
+> **Languages and Tools
 > 
-> **Eu já fiz alguns sites utilizando:** 
+> **Eu já fiz alguns sites utilizando: 
 >
 > <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="29px" height="29px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="29px" height="29px"></a>
@@ -19,10 +19,10 @@
 >
 >
 > **I graduated in computer programming in 1987, studied:
-> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/pascal-icon.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
-> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-icon.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
-> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cobol-icon.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
-> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/sql-icon.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
+> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/pascal.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
+> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
+> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cobol.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
+> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/sql.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
 > 
 > **I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc.
 >   
