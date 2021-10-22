@@ -5,6 +5,10 @@
 >
 > **I dabbled in Management Techniques in 1983, and have a lot of experience with routine office administrative work.
 > 
+> **I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc.
+> **I graduated in computer programming in 1987, studied: 
+ <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="29px" height="29px"></a> Pascal, Cobol, SQL.
+>  
 > **Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a> 
 > 
 > **Languages and Tools
@@ -16,15 +20,6 @@
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="29px" height="29px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="29px" height="29px"></a>
 >
->
-> **I graduated in computer programming in 1987, studied:
- <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/pascal.svg" alt="Pascal" width="29px" height="29px"></a>
- <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="29px" height="29px"></a>
- <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cobol.svg" alt="Cobol" width="29px" height="29px"></a>
- <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/sql.svg" alt="SQL" width="29px" height="29px"></a>
-> 
-> **I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc.
->   
 > **I am currently studying online on several websites:
 > 
 > <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/azure-icon.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
@@ -41,7 +36,6 @@
 <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="29px" height="29px"></a>
 <a href="https://angular.io/" title="Angular"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular-icon.svg" alt="Angular" width="29px" height="29px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="29px" height="29px"></a>
->
 >
 > **I use Visual Studio Code:  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="29px" height="29px"></a>
 
