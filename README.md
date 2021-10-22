@@ -2,25 +2,24 @@
 ## Hi, I'm Ana Mercedes Gauna
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)](https://www.linkedin.com/in/amgauna/) 
->
-> **I dabbled in Management Techniques in 1983, and have a lot of experience with routine office administrative work.
-> 
-> **I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc.
-> **I graduated in computer programming in 1987, studied: 
+
+### I dabbled in Management Techniques in 1983, and have a lot of experience with routine office administrative work.
+ 
+### I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc. I graduated in computer programming in 1987, studied: 
  <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="29px" height="29px"></a> Pascal, Cobol, SQL.
 >  
-> **Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a> 
+> **Senior Business Systems Analyst at** <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a> 
 > 
-> **Languages and Tools
+> **Languages and Tools**
 > 
-> **Eu já fiz alguns sites utilizando: 
+> **I have already developed some websites using:** 
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="29px" height="29px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="29px" height="29px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="29px" height="29px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="29px" height="29px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="29px" height="29px"></a>
 >
-> **I am currently studying online on several websites:
+> **I am currently studying online on several websites:**
 > 
 > <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/azure-icon.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="29px" height="29px"></a>
@@ -37,6 +36,6 @@
 <a href="https://angular.io/" title="Angular"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular-icon.svg" alt="Angular" width="29px" height="29px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="29px" height="29px"></a>
 >
-> **I use Visual Studio Code:  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="29px" height="29px"></a>
+> **I use Visual Studio Code:**  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="29px" height="29px"></a>
 
 
