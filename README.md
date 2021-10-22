@@ -14,8 +14,10 @@
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="C++" width="29px" height="29px"></a> 
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C#" width="29px" height="29px"></a> 
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="29px" height="29px"></a> 
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="29px" height="29px"></a> 
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="29px" height="29px"></a> 
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/linux-tux.svg" alt="Linux" width="29px" height="29px"></a> 
-
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg" alt="Microsoft Windows" width="29px" height="29px"></a> 
 
 
 ### From 1988 to 2021 I developed some websites using:
