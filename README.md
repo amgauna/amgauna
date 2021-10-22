@@ -8,7 +8,9 @@
 ### I started in Administration Techniques in 1983, I have a lot of experience with technical jobs in the area of administration and accounting and routine office work.
  
  
-### I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc. I graduated in computer programming in 1987. I studied: programming logic, algorithm, Pascal, Delphi, Cobol, SQL, Unix, Linux, Windows, Windows Server, SQL Server, etc.
+### I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc. I graduated in computer programming in 1987. 
+
+### I studied: programming logic, algorithm, Pascal, Delphi, Cobol, SQL, Unix, Linux, Windows, Windows Server, SQL Server, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials.
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/delphi.svg" alt="Delphi" width="29px" height="29px"></a> 
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="29px" height="29px"></a>
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="C++" width="29px" height="29px"></a> 
