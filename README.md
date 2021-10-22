@@ -8,12 +8,13 @@
 ### I dabbled in Management Techniques in 1983, and have a lot of experience with routine office administrative work.
  
  
-### I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc. I graduated in computer programming in 1987, studied: programming logic, algorithm, Pascal, Cobol, SQL, etc.
+### I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc. I graduated in computer programming in 1987, studied: programming logic, algorithm, Pascal, Delphi, Cobol, SQL, Unix, Linux, Windows, Windows Server, SQL Server, etc.
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/delphi.svg" alt="Delphi" width="29px" height="29px"></a> 
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="29px" height="29px"></a>
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="C++" width="29px" height="29px"></a> 
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C#" width="29px" height="29px"></a> 
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="29px" height="29px"></a> 
-<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/linux-tux.svg" alt="Linux" width="29px" height="29px"></a> **windows, Windows Server, SQL Server, etc.**
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/linux-tux.svg" alt="Linux" width="29px" height="29px"></a> 
 
 
 
