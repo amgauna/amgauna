@@ -7,8 +7,7 @@
 
 ### I dabbled in Management Techniques in 1983, and have a lot of experience with routine office administrative work.
  
-### I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc. I graduated in computer programming in 1987, studied: Pascal, Cobol, SQL e 
- <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="29px" height="29px"></a>
+### I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc. I graduated in computer programming in 1987, studied: programming logic, algorithm, Pascal, Cobol, SQL, C, etc. 
  
 ### Languages and Tools
  
