@@ -2,7 +2,9 @@
 ## Hi, I'm Ana Mercedes Gauna
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)](https://www.linkedin.com/in/amgauna/) 
-
+>
+> **I dabbled in Management Techniques in 1983, and have a lot of experience with routine office administrative work.
+> 
 > **Senior Business Systems Analyst at** <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a> 
 > 
 > **Languages and Tools**
@@ -16,8 +18,15 @@
 <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="29px" height="29px"></a>
 >
 >
-> **Eu me formei em programação de computadores na década de 80. Sou Analista de Sistemas desde 2003.**  
-> **Atualmente eu estou estudando online em diversos sites:**
+> **I graduated in computer programming in 1987, studied:
+> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/pascal-icon.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
+> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-icon.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
+> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/cobol-icon.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
+> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/sql-icon.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
+> 
+> **I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc.
+>   
+> **I am currently studying online on several websites:
 > 
 > <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/azure-icon.svg" alt="Microsoft Azure" width="29px" height="29px"></a>
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="29px" height="29px"></a>
@@ -35,6 +44,6 @@
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="29px" height="29px"></a>
 >
 >
-> **Eu uso o Visual Studio Code:**  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="29px" height="29px"></a>
+> **I use Visual Studio Code:  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="29px" height="29px"></a>
 
 
