@@ -19,11 +19,11 @@ Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="
 ** Sou Analista de Sistemas desde 2003. ** 
 ** Atualmente eu estou estudando online em diversos sites **
 
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/azure.svg" alt="Microsoft Azure" width="21px" height="21px">
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="21px" height="21px">
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/csharp.svg" alt="C++" width="21px" height="21px">
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/cplusplus.svg" alt="C#" width="21px" height="21px">
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular.svg" alt="Angular" width="21px" height="21px">
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/azure.svg" alt="Microsoft Azure" width="21px" height="21px"></a>
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="21px" height="21px"></a>
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="C++" width="21px" height="21px"></a>
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C#" width="21px" height="21px"></a>
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular.svg" alt="Angular" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
