@@ -33,6 +33,6 @@
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="29px" height="29px"></a>
 <a href="https://nodejs.org/" title="React.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React.js" width="29px" height="29px"></a>
 
-### I use Visual Studio Code: <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="29px" height="29px"></a>
+### I use Visual Studio Code: <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="29px" height="29px"></a>, Eclipse <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eclipse.svg" alt="Eclipse" width="29px" height="29px"></a>, Anaconda <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/anaconda.svg" alt="Anaconda" width="29px" height="29px"></a>
 
 
