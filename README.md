@@ -35,7 +35,6 @@
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="29px" height="29px"></a>
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React.js" width="29px" height="29px"></a>
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" width="29px" height="29px"></a>
-<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/lavarel.svg" alt="Lavarel" width="29px" height="29px"></a>
 
 
 ### I use to work with web developer: <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="29px" height="29px"></a> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eclipse.svg" alt="Eclipse" width="29px" height="29px"></a>
