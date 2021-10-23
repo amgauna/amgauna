@@ -12,7 +12,7 @@
 
 ### I studied years ago: programming logic, algorithm, Pascal, Delphi, Cobol, SQL, Unix, Linux, Windows, Windows Server, SQL Server, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials.
 
-| Programming Languages | Technologies |
+| Technologies | Programming Languages |
 | :---: | :---: |
 | ***Front-end Languages (working)*** | <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="29px" height="29px"></a> <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="29px" height="29px"></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="29px" height="29px"></a>  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="29px" height="29px"></a> |
 | ***Back-end Languages (working)***  | <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="29px" height="29px"></a> |
