@@ -8,7 +8,7 @@
 ### I started in Administration Techniques in 1983, I have a lot of experience with technical jobs in the area of administration and accounting and routine office work.
  
  
-### I have been a Systems Analyst since 2003. I have worked for over 10 years with IT technical support, Windows technical support for users, etc. I graduated in computer programming in 1987. 
+### I have been a Systems Analyst since 2003.I worked for over 10 years with computer tech support helping windows users to use the computer and its applications. I graduated in computer programming in 1987. 
 
 ### I studied years ago: programming logic, algorithm, Pascal, Delphi, Cobol, SQL, Unix, Linux, Windows, Windows Server, SQL Server, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials.
 
