@@ -1,8 +1,10 @@
 
 Hi, I'm Ana Mercedes Gauna
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)](https://www.linkedin.com/in/amgauna/) 
 
-Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a>. I have been a Systems Analyst since 2003. I worked for over 10 years with computer tech support helping Windows users to use the computer and its applications. I graduated in computer programming in 1987. I studied years ago: programming logic, algorithm, Pascal, Delphi, Cobol, SQL, Unix, Linux, Windows, Windows Server, SQL Server, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I'm currently working and studying the changes and innovations that have taken place in several internet applications in the last few years, and that I use sometimes.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)](https://www.linkedin.com/in/amgauna/) 
+Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a>. 
+
+I have been a Systems Analyst since 2003. I worked for over 10 years with computer tech support helping Windows users to use the computer and its applications. I graduated in computer programming in 1987. I studied years ago: programming logic, algorithm, Pascal, Delphi, Cobol, SQL, Unix, Linux, Windows, Windows Server, SQL Server, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I'm currently working and studying the changes and innovations that have taken place in several internet applications in the last few years, and that I use sometimes.
 
 | Programming Languages | Technologies |
 | :---: | :---: |
