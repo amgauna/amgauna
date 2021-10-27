@@ -1,4 +1,3 @@
-[text-align:justify]
 
 ## Hi, I'm Ana Mercedes Gauna
 
@@ -26,5 +25,4 @@ Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="
 ## I am currently remembering in books (paper) and ebooks: 
 | <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="29px" height="19px">PHP7</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="19px" height="19px">JAVA</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/delphi.svg" alt="Delphi" width="19px" height="19px">Delphi</a>,  <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="19px" height="19px">C</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="C#" width="19px" height="19px">C++</a>,  <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C#" width="19px" height="19px">C++</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="19px" height="19px">MySQL</a>  <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="19px" height="19px">PostgreSQL</a> e Transsact-SQL. |
 
-<tr>
 ## I started in Administration Techniques in 1983. I have a lot of experience with technical jobs in the area of administration and accounting and routine office work.
