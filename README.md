@@ -7,13 +7,14 @@ Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="
 I have been a Systems Analyst since 2003. I worked for over 10 years with computer tech support helping Windows users to use the computer and its applications. I graduated in computer programming in 1987. I studied years ago: programming logic, algorithm, Pascal, Delphi, Cobol, SQL, Unix, Linux, Windows, Windows Server, SQL Server, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. 
 
 
-| I currently work as a web developer using: |
-| :---: | | :---: |
+I currently work as a web developer using:
+| :---: | 
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="19px" height="19px">HTML5</a>, <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="19px" height="19px">CSS3</a>,  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="19px" height="19px">JavaScript</a>,  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="19px" height="19px">Framework Bootstrap5</a>, <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="29px" height="19px">PHP7</a>, <br>
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg" alt="Microsoft Windows" width="19px" height="19px">Windows 7, Windows 8, Windows 10, Windows Server Express</a>. |
 
 
-| I currently work using the tools: | 
+I currently work using the tools: 
+| :---: |
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="19px" height="19px">Visual Studio Code</a>, <a href="https://visualstudio.microsoft.com/pt-br/vs/community/"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="19px" height="19px">Visual Studio Community</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eclipse.svg" alt="Eclipse" width="19px" height="19px">Eclipse</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/netbeans.svg" alt="NetBeans" width="19px" height="19px">Netbeans</a>,  <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/wordpress.svg" alt="wordpress" width="89px" height="19px"></a> |
 
 
