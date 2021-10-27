@@ -6,7 +6,7 @@ Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="
 
 I have been a Systems Analyst since 2003. I worked for over 10 years with computer tech support helping Windows users to use the computer and its applications. I graduated in computer programming in 1987. I studied years ago: programming logic, algorithm, Pascal, Delphi, Cobol, SQL, Unix, Linux, Windows, Windows Server, SQL Server, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I'm currently working and studying the changes and innovations that have taken place in several internet applications in the last few years, and that I use sometimes.
 
-| I'm currently working as a web developer using: |
+| I currently work as a web developer using: |
 | :---: |
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="19px" height="19px">HTML5</a>, <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="19px" height="19px">CSS3</a>,  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="19px" height="19px">JavaScript</a>,  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="19px" height="19px">Framework Bootstrap5</a>, <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="29px" height="19px">PHP7</a>, <br>
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg" alt="Microsoft Windows" width="19px" height="19px">Windows 7, Windows 8, Windows 10, Windows Server Express</a>. |
@@ -22,18 +22,18 @@ I have been a Systems Analyst since 2003. I worked for over 10 years with comput
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adsense.svg" alt="Google Adsense" width="19px" height="19px">Google AdSense</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adwords.svg" alt="Google Adword" width="19px" height="19px">Google AdWords</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-analytics.svg" alt="Google Analytics" width="19px" height="19px">Google Analytics</a>. |
 
 
-| I am currently testing |
+| I am currently testing: |
 | :---: |
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/github-icon.svg" alt="GitHub" width="19px" height="19px">Containers of GitHub</a>.
 |
 
 
-| I am currently studying |
+| I am currently studying: |
 | :---: |
 | <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="19px" height="19px"></a> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="19px" height="19px"></a> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular-icon.svg" alt="Angular" width="19px" height="19px"></a> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/vue.svg" alt="Vue.js" width="19px" height="19px"></a> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React.js" width="19px" height="19px"></a> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="19px" height="19px"></a> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="29px" height="19px"></a> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="19px" height="19px"></a> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/django.svg" alt="Django" width="19px" height="19px">Django</a> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="19px" height="19px"></a> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/azure-icon.svg" alt="Microsoft Azure" width="19px" height="19px"></a> <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" width="19px" height="19px">Docker</a>  |
 
 
-| I am currently remembering |
+| I am currently remembering: |
 | :---: |
 | <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/delphi.svg" alt="Delphi" width="19px" height="19px">Delphi</a>,  <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="19px" height="19px">C</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="C#" width="19px" height="19px">C++</a>,  <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C#" width="19px" height="19px">C++</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="19px" height="19px">MySQL</a>  <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="19px" height="19px">PostgreSQL</a> e Transsact-SQL. |
 
