@@ -1,3 +1,4 @@
+<style>text-align:justify;</style>
 
 ## Hi, I'm Ana Mercedes Gauna
 
