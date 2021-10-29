@@ -1,5 +1,7 @@
 
 # Hi, I'm Ana Gauna   
+<a href="https://github.com/amgauna"><img src="https://img.shields.io/github/followers/amgauna?label=follow&style=social" height="22" title="Follow me" align="right" alt="GitHub"></a>
+<img src="https://komarev.com/ghpvc/?username=amgauna&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt=""/>
 
 ## Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a>. 
 
@@ -29,11 +31,6 @@ I worked for over 15 years with IT service management, computer tech support hel
 ![Microsoft Technet](https://img.shields.io/badge/Microsoft%20Tecnet-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft MSDN](https://img.shields.io/badge/Microsoft%20MSDN-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-<a href="https://github.com/amgauna"><img src="https://img.shields.io/github/followers/amgauna?label=follow&style=social" height="22" title="Follow me" align="right" alt="GitHub">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=amgauna&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt="Profile views" />
 
 ![Ana Gauna's Github stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=radical)
 <img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula"/><br></a>
