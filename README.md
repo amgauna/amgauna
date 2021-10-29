@@ -23,14 +23,20 @@
 
 ## Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a>. 
 
-I worked for over 15 years with IT service management, computer tech support helping Windows users to use the computer and its ERP applications. I graduated in computer programming in 1987. I have been a Systems Analyst since 2003. I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I started in Administration Techniques in 1983. I have a lot of experience with technical jobs in the area of administration and accounting and routine office work.
+I worked for over 15 years with IT service management, computer tech support helping Windows users to use the computer and its ERP applications. I work with tech support installation and configuration of wireless equipment and applications, router, etc. I graduated in computer programming in 1987. I have been a Systems Analyst since 2003. I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I started in Administration Techniques in 1983. I have a lot of experience with technical jobs in the area of administration and accounting and routine office work.
 
 ### I work with tech support: 
 ![Windows 7](https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ![Windows 8](https://img.shields.io/badge/Windows%208-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows Server Express](https://img.shields.io/badge/Windows%20Server%20Express-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-Microsoft Office 365 Business, installation and configuration of wireless equipment and applications, router, etc. 
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
   
 ### Google SEO / Marketing (Working)  
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adsense.svg" alt="Google Adsense" width="19px" height="19px">AdSense</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adwords.svg" alt="Google Adword" width="19px" height="19px">AdWords</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-analytics.svg" alt="Google Analytics" width="19px" height="19px">Analytics</a>. 
