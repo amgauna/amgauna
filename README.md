@@ -1,31 +1,113 @@
 
 ### Hi, I'm Ana Gauna   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)](https://www.linkedin.com/in/amgauna/)   [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/amgauna/)](https://www.twitter.com/amgauna/)   [![Behance Badge](https://img.shields.io/badge/-Behance-green?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/amgauna/)](https://www.behance.net/amgauna/) 
 
-<div>
-[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
-</div>
+# Social Media / Blog
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
+![Instagram](https://img.shields.io/badge/<Instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
 
 ![Ana Gauna's Github stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=radical)
 <img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula"/><br></a>
+
+<div>
+[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/amgauna/StrapDown.js/watchers/)
+</div>
 
 ***Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a>.*** 
 
 I worked for over 15 years with IT service management, computer tech support helping Windows users to use the computer and its ERP applications. I graduated in computer programming in 1987. I have been a Systems Analyst since 2003. I studied years ago: programming logic, algorithm, Turbo C, Borland C++, Turbo Pascal, Delphi, Cobol, SQL, Unix, Linux, Microsoft Windows, Microsoft Windows Server, Microsoft SQL Server, Microsoft Office (Word, Excel, Access, Powerpoint), etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. 
 
-I currently work with tech support: <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/microsoft-windows.svg" alt="Windows" width="19px" height="19px">Windows7, Windows8, Windows10, Windows Server Express</a>, Microsoft Office 365 Business, installation and configuration of wireless equipment and applications, router, etc. 
+## I work with tech support: 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) Windows7, Windows8, Windows10, Windows Server Express</a>, Microsoft Office 365 Business, installation and configuration of wireless equipment and applications, router, etc. 
   
-I currently work as a web developer using: <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="19px" height="19px">HTML5</a>, <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="19px" height="19px">CSS3</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="19px" height="19px">JavaScript</a>,  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="19px" height="19px">Bootstrap5</a>, <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="29px" height="19px">PHP7</a>.
+## Google SEO / Marketing:  
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adsense.svg" alt="Google Adsense" width="19px" height="19px">AdSense</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adwords.svg" alt="Google Adword" width="19px" height="19px">AdWords</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-analytics.svg" alt="Google Analytics" width="19px" height="19px">Analytics</a>. 
 
-I currently work using the tools:  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="19px" height="19px">Visual Studio Code</a>, <a href="https://visualstudio.microsoft.com/pt-br/vs/community/"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="19px" height="19px">Visual Studio Community</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eclipse.svg" alt="Eclipse" width="19px" height="19px">Eclipse</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/netbeans.svg" alt="NetBeans" width="19px" height="19px">Netbeans</a>, <a href="https://wordpress.com/pt-br/">Wordpress</a>, etc. 
 
-I currently work using SEO on APIs of <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-cloud-platform.svg" alt="Google Cloud Platform" width="19px" height="19px">Google Cloud Platform:</a>  <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adsense.svg" alt="Google Adsense" width="19px" height="19px">AdSense</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adwords.svg" alt="Google Adword" width="19px" height="19px">AdWords</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-analytics.svg" alt="Google Analytics" width="19px" height="19px">Analytics</a>. 
-
-I am currently studying and testing: Containers Cloud of <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/github-icon.svg" alt="GitHub" width="19px" height="19px">GITHUB</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/azure-icon.svg" alt="Microsoft Azure" width="19px" height="19px">AZURE</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" width="19px" height="19px">DOCKER</a>.
-
-I'm currently working and studying the changes and innovations that have taken place in several internet applications in the last few years, and that I use sometimes: 
-
-I am currently studying in books (paper) and ebooks: <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="19px" height="19px">PYTHON3</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/django.svg" alt="Django" width="19px" height="19px">DJANGO</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="19px" height="19px">TYPESCRIPT</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular-icon.svg" alt="Angular" width="19px" height="19px">ANGULAR.JS</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="19px" height="19px">NODE.JS</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/vue.svg" alt="Vue.js" width="19px" height="19px">VUE.JS</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/json.svg" alt="JSON" width="19px" height="19px">JSON</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="19px" height="19px">JQUERY</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React.js" width="19px" height="19px">REACT.JS</a>. 
-
-I am reviewing, reading and studying some books (paper) and ebooks: <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="29px" height="19px">PHP7</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="19px" height="19px">JAVA</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/delphi.svg" alt="Delphi" width="19px" height="19px">Delphi</a>,  <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="19px" height="19px">C</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="C#" width="19px" height="19px">C++</a>,  <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C#" width="19px" height="19px">C++</a>, and databases: <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="19px" height="19px">MySQL</a>  <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="19px" height="19px">PostgreSQL</a> and Transact-SQL. 
+I am reviewing, reading and studying some books (paper) and ebooks: 
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="29px" height="19px">PHP7</a>, 
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="19px" height="19px">JAVA</a>, 
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/delphi.svg" alt="Delphi" width="19px" height="19px">Delphi</a>,  
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="19px" height="19px">C</a>, 
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="C#" width="19px" height="19px">C++</a>,  
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C#" width="19px" height="19px">C++</a>, 
+and databases: <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="19px" height="19px">MySQL</a>  
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="19px" height="19px">PostgreSQL</a> and Transact-SQL. 
 
 I started in Administration Techniques in 1983. I have a lot of experience with technical jobs in the area of administration and accounting and routine office work.
+
+## Languages App
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) (reviewing, studying and testing)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) (reviewing, studying and testing)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) (reviewing, studying and testing)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (studying and testing)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) (studying and testing)
+
+## Languages Front-End
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) (Working)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) (Working)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) (Working)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) (studying and testing)
+
+## Languages Back-End
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) (Working and studying)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) (reviewing, studying and testing)
+
+## Frameworks, Platforms and Libraries
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) (Working)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) (studying and testing)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) (studying and testing)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) (studying and testing)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) (studying and testing)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) (studying and testing)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) (studying and testing)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) (studying and testing)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) (studying and testing)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) (studying and testing)
+![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) (studying and testing)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+## Databases
+!!Transact-SQL](https://img.shields.io/badge/<Transact-SQL>-%23E4405F.svg?style=for-the-badge&logo=Transact-SQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) (studying and testing)
+![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) (studying and testing)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) (studying and testing)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) (I don´t like it)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) (I don´t like it)
+
+## Tools / IDEs / Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white) (I´m don´t like it)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) (studying)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) (studying)
+
+## Developer/Forums
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) (Technet | MSDN)
+
+# Containers 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) (studying)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) (studying)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) (studying)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) (studying)
+
+# Hosting / SaaS / Cloud Computing
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) (studying)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) (studying)
+
+
+
