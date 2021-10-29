@@ -7,16 +7,11 @@ I worked for over 15 years with IT service management, computer tech support hel
 
 :department_store: I'm currently working on <a href="https://www.amgauna.com.br/">Amgauna Tecnologia</a> as CEO, Tech Support Analyst & Senior Business Systems Analyst.
 <br />
-:dolar:
-<br>
-:heart: I'm passionate about tech, music, movie, televison, dog, cat and of course my family!
+:heart: I'm passionate about tech, music, movie, televison and of course my family!
 <br />
-:goat:
+:goat: my family love dog & cat 
 <br />
-:speech_balloon: Ask me about anything here:
-<a href="https://api.whatsapp.com/send?phone=5521979371230">
-<img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp"></a>
-<a href="mailto:amgauna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail"></a>
+:speech_balloon: Ask me about anything here: <a href="https://api.whatsapp.com/send?phone=5521979371230"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp"></a> <a href="mailto:amgauna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail"></a>
 <br />
 :link: My Social Networks:
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/amgauna/)
