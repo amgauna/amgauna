@@ -11,9 +11,9 @@ I worked for over 15 years with IT service management, computer tech support hel
 
 :heart: I'm passionate about tech, music, movie, televison and of course my family!
 
-:goat: my family love dog & cat 
+:goat: my family love dog & cat! 
 
-:speech_balloon: Ask me about anything here <a href="https://api.whatsapp.com/send?phone=5521979371230"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="right" alt="Whatsapp"></a> <a href="mailto:amgauna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail"></a>
+:speech_balloon: Ask me about anything here <a href="https://api.whatsapp.com/send?phone=5521979371230"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="left" alt="Whatsapp"></a> <a href="mailto:amgauna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="left" alt="Gmail"></a>
 
 ## My Social Networks:
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/amgauna/)
