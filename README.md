@@ -80,8 +80,9 @@ I worked for over 15 years with IT service management, computer tech support hel
 
 ## Developer/Forums
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Microsoft Technet](https://img.shields.io/badge/Microsoft-Tecnet-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) (Fórums: Microsoft Technet / MSDN)
-![Microsoft](https://img.shields.io/badge/Microsoft-MSDN-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Technet](https://img.shields.io/badge/Microsoft-Tecnet-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
+![Microsoft MSDN](https://img.shields.io/badge/Microsoft-MSDN-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 # Containers 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
