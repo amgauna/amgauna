@@ -77,8 +77,9 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
-### Databases (Reviewing, Studying & Testing):
+### Databases (Reviewing, Studying & Testing):  sql server management studio
 ![Microsoft SQL Server Express](https://img.shields.io/badge/Microsoft%20SQL%20Server%20Express-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Transact-SQL](https://img.shields.io/badge/Transact%20SQL-%23E4405F.svg?style=for-the-badge&logo=Transact-SQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
