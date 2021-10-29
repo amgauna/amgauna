@@ -68,8 +68,8 @@ I worked for over 15 years with IT service management, computer tech support hel
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
-### Databases (Reviewing/Studying/Testing):
-![Transact-SQL](https://img.shields.io/badge/Transact-SQL-%23E4405F.svg?style=for-the-badge&logo=Transact-SQL&logoColor=white)
+### Databases (Reviewing, Studying & Testing):
+![Transact-SQL](https://img.shields.io/badge/Transact%20SQL-%23E4405F.svg?style=for-the-badge&logo=Transact-SQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
