@@ -1,3 +1,4 @@
+<img src="github.com/amgauna/amgauna/livros-programacao.jpg" width="100% height="auto"> <br/>
 <a href="https://github.com/amgauna"><img src="https://img.shields.io/github/followers/amgauna?label=follow&style=social" height="22" title="Follow me" align="right" alt="GitHub"></a>  <img src="https://komarev.com/ghpvc/?username=amgauna&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt=""/>
 
 
