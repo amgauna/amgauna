@@ -1,5 +1,5 @@
 
-### Hi, I'm Ana Gauna   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)](https://www.linkedin.com/in/amgauna/)   [![Twitter Badge](https://img.shields.io/badge/-Twitter-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/amgauna/)](https://www.twitter.com/amgauna/)   [![Behance Badge](https://img.shields.io/badge/-Behance-rose?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/amgauna/)](https://www.behance.net/amgauna/) 
+### Hi, I'm Ana Gauna   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)](https://www.linkedin.com/in/amgauna/)   [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/amgauna/)](https://www.twitter.com/amgauna/)   [![Behance Badge](https://img.shields.io/badge/-Behance-green?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/amgauna/)](https://www.behance.net/amgauna/) 
 
 ![Ana Gauna's Github stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=radical)
 
