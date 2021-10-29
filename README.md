@@ -1,7 +1,11 @@
 
 ### Hi, I'm Ana Gauna
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)](https://www.linkedin.com/in/amgauna/) ***Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a>.*** 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)](https://www.linkedin.com/in/amgauna/) 
+
+![Ana Gauna's Github stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=radical)
+
+***Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a>.*** 
 
 I worked for over 15 years with IT service management, computer tech support helping Windows users to use the computer and its ERP applications. I graduated in computer programming in 1987. I have been a Systems Analyst since 2003. I studied years ago: programming logic, algorithm, Turbo C, Borland C++, Turbo Pascal, Delphi, Cobol, SQL, Unix, Linux, Microsoft Windows, Microsoft Windows Server, Microsoft SQL Server, Microsoft Office (Word, Excel, Access, Powerpoint), etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. 
 
