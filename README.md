@@ -1,20 +1,17 @@
 
 # Hi, I'm Ana Gauna   
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)](https://www.linkedin.com/in/amgauna/)   [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/amgauna/)](https://www.twitter.com/amgauna/)   [![Behance Badge](https://img.shields.io/badge/-Behance-green?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/amgauna/)](https://www.behance.net/amgauna/) 
-
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
-![Instagram](https://img.shields.io/badge/<Instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/amgauna/)](https://www.twitter.com/amgauna/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/amgauna/)](https://www.facebook.com/amgauna/)  
+[![Instagram](https://img.shields.io/badge/<Instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/amgauna/)](https://www.facebook.com/amgauna/) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/amgauna/)](https://www.behance.net/amgauna/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)](https://www.linkedin.com/in/amgauna/) 
+[![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white&link=https://www.meetup.com/amgauna/)](https://www.meetup.com/amgauna/) 
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://anagaunatech.blogspot.com)](https://https://anagaunatech.blogspot.com) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://www.medium.com/amgauna/)](https://www.medium.com/amgauna/)
 
 
 ![Ana Gauna's Github stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=radical)
