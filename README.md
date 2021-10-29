@@ -43,7 +43,7 @@ I worked for over 15 years with IT service management, computer tech support hel
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP7](https://img.shields.io/badge/php%207-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PHP7](https://img.shields.io/badge/php7-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Languages Front-End & Back-end) (Reviewing, Studying & Testing):
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
