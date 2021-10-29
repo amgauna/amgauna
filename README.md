@@ -62,7 +62,7 @@ I worked for over 15 years with IT service management, computer tech support hel
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ## Databases
-!!Transact-SQL](https://img.shields.io/badge/<Transact-SQL>-%23E4405F.svg?style=for-the-badge&logo=Transact-SQL&logoColor=white)
+![Transact-SQL](https://img.shields.io/badge/<Transact-SQL>-%23E4405F.svg?style=for-the-badge&logo=Transact-SQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
