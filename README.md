@@ -38,8 +38,7 @@ I worked for over 15 years with IT service management, computer tech support hel
 ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
   
-### Google SEO / Marketing (Working)  
-<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adsense.svg" alt="Google Adsense" width="19px" height="19px">AdSense</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adwords.svg" alt="Google Adword" width="19px" height="19px">AdWords</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-analytics.svg" alt="Google Analytics" width="19px" height="19px">Analytics</a>. 
+### Google SEO / Marketing (Working):  <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adsense.svg" alt="Google Adsense" width="19px" height="19px">AdSense</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adwords.svg" alt="Google Adword" width="19px" height="19px">AdWords</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-analytics.svg" alt="Google Analytics" width="19px" height="19px">Analytics</a>. 
 
 ### Languages App (Reviewing/Studying/Testing)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
