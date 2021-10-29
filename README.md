@@ -11,6 +11,7 @@
 :speech_balloon: Ask me about anything here:  <a href="https://api.whatsapp.com/send?phone=5521979371230"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="middle" alt="Whatsapp"></a>  <a href="mailto:amgauna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="middle" alt="Gmail"></a>
 
 :heart: I'm passionate about tech, music, movie, televison and of course my family!
+
 :goat: my family love dog & cat! 
 
 ![Ana Gauna's Github stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=radical)
