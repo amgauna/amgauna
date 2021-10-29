@@ -1,5 +1,7 @@
 
-# Hi, I'm Ana Gauna   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)](https://www.linkedin.com/in/amgauna/)   [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/amgauna/)](https://www.twitter.com/amgauna/)   [![Behance Badge](https://img.shields.io/badge/-Behance-green?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/amgauna/)](https://www.behance.net/amgauna/) 
+# Hi, I'm Ana Gauna   
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)](https://www.linkedin.com/in/amgauna/)   [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/amgauna/)](https://www.twitter.com/amgauna/)   [![Behance Badge](https://img.shields.io/badge/-Behance-green?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/amgauna/)](https://www.behance.net/amgauna/) 
 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -19,7 +21,7 @@
 <img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula"/><br></a>
 
 
-## Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a>.*** 
+## Senior Business Systems Analyst at <a href="https://www.amgauna.com.br" target="_blank">Amgauna Tecnologia</a>. 
 
 I worked for over 15 years with IT service management, computer tech support helping Windows users to use the computer and its ERP applications. I graduated in computer programming in 1987. I have been a Systems Analyst since 2003. I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I started in Administration Techniques in 1983. I have a lot of experience with technical jobs in the area of administration and accounting and routine office work.
 
