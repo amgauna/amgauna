@@ -14,13 +14,13 @@
 💜 😃 I'm passionate about 🖥️ 🎵 🎦 🎄 🥞 🍫 🍓 🥤 🍇 🍊 🥓 🍔 🍕 🌭 🍦 🧁 🍰 !!!
 
 ❤️ and passionate of course my 👩‍👧 & my pets 🐶 😺 !!!
-<img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula&link=https://www.github.com/amgauna/">
 
 ⭐ Statistics <br/>
 
 <div align="center">
-![Ana Gauna GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=reactdark&custom_title=Contribution+Graph&link=https://www.github.com/amgauna/)] 
-![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=dracula&link=https://www.github.com/amgauna/)]
+<img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula&link=https://www.github.com/amgauna/">
+![Ana Gauna GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=reactdark&custom_title=Contribution+Graph)(https://www.github.com/amgauna/)] 
+![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=dracula)](https://www.github.com/amgauna/)]
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=dracula&link=https://www.github.com/amgauna/">
 </div>
 
