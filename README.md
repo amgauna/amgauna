@@ -22,8 +22,8 @@
 ⭐ Statistics <br/>
 <div> 
   
-<img width="350px" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=dracula&link=https://www.github.com/amgauna/">  
-<img width="350px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula&link=https://www.github.com/amgauna/">  
+<img width="350px" height="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=dracula&link=https://www.github.com/amgauna/">  
+<img width="350px" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula&link=https://www.github.com/amgauna/">  
   
 ![Ana Gauna GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=reactdark&custom_title=Contribution+Grap&width="50%") 
 </div>
