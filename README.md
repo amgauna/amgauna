@@ -3,10 +3,9 @@
 
 # Hi, I'm Ana Gauna 
 
-
 <p align="justify"> I worked for over 15 years with IT service management, computer tech support helping Windows users to use the computer and its ERP applications. I have been a Systems Analyst since 2003. I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I graduated in computer programming in 1987. I started in Administration Techniques in 1983. I have a lot of experience with technical jobs in the area of administration and accounting and routine office work.</p>
 
-***Focus: Study the technologies & innovations that were born in the 21st century. ![image](https://user-images.githubusercontent.com/11474885/139512768-98f713ae-efdd-48a9-8599-e977d44978d5.png)
+### Focus: Study the technologies & innovations that were born in the 21st century. ![image](https://user-images.githubusercontent.com/11474885/139512768-98f713ae-efdd-48a9-8599-e977d44978d5.png width="25px" height="25px")
 
 :department_store: I'm currently working on <a href="https://www.amgauna.com.br/" target="_blank">Amgauna Tecnologia</a> as CEO, Technical Support Analyst & Senior Business Systems Analyst.
 
@@ -18,7 +17,7 @@
 
 ![Ana Gauna's Github stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=radical) <img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula"/><br></a>
 
-## My Social Networks:
+### My Social Networks:
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/amgauna/)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/amgauna/)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/amgauna/)
