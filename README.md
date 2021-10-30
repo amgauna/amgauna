@@ -1,12 +1,13 @@
 
 <div align="right">
 <a href="https://github.com/amgauna"><img src="https://img.shields.io/github/followers/amgauna?label=follow&style=social" height="22" title="Follow me" align="" alt="GitHub"></a>  <img src="https://komarev.com/ghpvc/?username=amgauna&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="" alt=""/>
-<img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula&link=https://www.github.com/amgauna/">
+<img width="48%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula&link=https://www.github.com/amgauna/">
 </div>
 
 ### 👩‍💼 Hi, I'm Ana Gauna 
 
 <p align="justify"> 🖥️ 🖨️ I worked for over 15 years with IT service management, computer tech support helping Windows users to use the computer and its ERP applications. I have been a Systems Analyst since 2003. I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I graduated in computer programming in 1987. I started in Administration Techniques in 1983. I have a lot of experience with technical jobs in the area of administration and accounting and routine office work.</p>
+
 
 🏫 👩‍🎓 Study the technologies & innovations that were born in the 21st century! 
 
@@ -18,13 +19,15 @@
 
 ❤️ and passionate of course my 👩‍👧 & my pets 🐶 😺 !!!
 
-⭐ Statistics <br/>
 
+⭐ Statistics <br/>
 <div>  
 ![Ana Gauna GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=reactdark&custom_title=Contribution+Graph)
+  
 ![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=dracula) 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=dracula&link=https://www.github.com/amgauna/">
 </div>
+
 
 🏠 My Social Networks: <br />
 
@@ -44,6 +47,7 @@
 ![Microsoft MSDN](https://img.shields.io/badge/Microsoft%20MSDN-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
+
 💼 👩‍💼 I work with tech support installation and configuration of wireless equipment and applications, etc: <br />
 
 ![Windows 7](https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -58,6 +62,7 @@
 ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
   
+  
 💼 👩‍💼 Google SEO / Marketing (Working): <br /> 
 
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adsense.svg" alt="Google Adsense" width="29px" height="29px">
@@ -70,6 +75,7 @@
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-%23E4405F.svg?style=for-the-badge&logo=Analytics&logoColor=rose)
 </a> 
 
+
 💼 👩‍💼 Languages Front-End & Back-end) (Working): <br />
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,6 +84,7 @@
 ![PHP7](https://img.shields.io/badge/php7-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 🏫 👩‍🎓 Languages, Frameworks, Front-End & Back-end) (Reviewing, Studying & Testing): <br />
 
@@ -88,6 +95,7 @@
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=C-SHARP&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
+
 
 🏫 👩‍🎓 Frameworks, Platforms and Libraries (Working, Studying & Testing): <br />
 
@@ -102,6 +110,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
+
 🏫 👩‍🎓 Databases (Reviewing, Studying & Testing): <br />
 
 ![Microsoft SQL Server Express](https://img.shields.io/badge/Microsoft%20SQL%20Server%20Express-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -110,6 +119,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 💼 👩‍💼 Tools/IDEs/Editors (Working): <br />
 
@@ -120,17 +130,17 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
+
 💼 🏫 👩‍🎓 Containers (Working, Studying & Testing): <br />
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+
 🏫 👩‍🎓 Hosting/SaaS/ ☁️ Cloud Computing (Studying): <br />
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-%23E4405F.svg?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white)
-
-
 
