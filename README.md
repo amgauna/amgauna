@@ -14,7 +14,7 @@
 ❤️ and passionate of course my 👩‍👧 & my pets 🐶 😺 !!!
 
 
-## ⭐ Statistics <br/>
+### ⭐ Statistics <br/>
 <div>
 <a href="https://github.com/amgauna"><img src="https://img.shields.io/github/followers/amgauna?label=follow&style=social" height="22" title="Follow me" align="right" alt="GitHub-Followers"></a>  <img src="https://komarev.com/ghpvc/?username=amgauna&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt="GitHub-Profile"/> <br>
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula&link=https://www.github.com/amgauna/"> 
@@ -24,7 +24,7 @@
 </div>
 
 
-🏠 My Social Networks: <br />
+### 🏠 My Social Networks: <br />
 
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/amgauna/)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/amgauna/)
