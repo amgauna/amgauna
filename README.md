@@ -13,7 +13,7 @@
 
 💜 😃 I'm passionate about 🖥️ 🎵 🎦 🎄 🥞 🍫 🍓 🥤 🍇 🍊 🥓 🍔 🍕 🌭 🍦 🧁 🍰 !!!
 
-❤️ and passionate of course my 👩‍👧, my pets 🐶 & 😺 !!!
+❤️ and passionate of course my 👩‍👧 & my pets 🐶 😺 !!!
 
 ![Ana Gauna's Github stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=radical) <img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula"/><br></a>
 
