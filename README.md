@@ -1,7 +1,7 @@
 
 <a href="https://github.com/amgauna"><img src="https://img.shields.io/github/followers/amgauna?label=follow&style=social" height="22" title="Follow me" align="right" alt="GitHub"></a>  <img src="https://komarev.com/ghpvc/?username=amgauna&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt=""/>
 
-# 👩‍💼 Hi, I'm Ana Gauna 
+### 👩‍💼 Hi, I'm Ana Gauna 
 
 <p align="justify"> 🖥️ 🖨️ I worked for over 15 years with IT service management, computer tech support helping Windows users to use the computer and its ERP applications. I have been a Systems Analyst since 2003. I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I graduated in computer programming in 1987. I started in Administration Techniques in 1983. I have a lot of experience with technical jobs in the area of administration and accounting and routine office work.</p>
 
@@ -17,7 +17,7 @@
 
 ![Ana Gauna's Github stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=radical) <img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula"/><br></a>
 
-### 🏠 My Social Networks:
+🏠 My Social Networks:
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/amgauna/)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/amgauna/)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/amgauna/)
@@ -34,7 +34,7 @@
 ![Microsoft MSDN](https://img.shields.io/badge/Microsoft%20MSDN-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### 💼 👩‍💼 I work with tech support installation and configuration of wireless equipment and applications, etc:
+💼 👩‍💼 I work with tech support installation and configuration of wireless equipment and applications, etc:
 ![Windows 7](https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 8](https://img.shields.io/badge/Windows%208-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -47,7 +47,7 @@
 ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
   
-### 💼 👩‍💼 Google SEO / Marketing (Working):     
+💼 👩‍💼 Google SEO / Marketing (Working):     
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adsense.svg" alt="Google Adsense" width="29px" height="29px">
 ![Google AdSense](https://img.shields.io/badge/Google%20AdSense-%23E4405F.svg?style=for-the-badge&logo=AdSense%20Web%20Services&logoColor=orange)
 </a> 
@@ -58,7 +58,7 @@
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-%23E4405F.svg?style=for-the-badge&logo=Analytics&logoColor=rose)
 </a> 
 
-###  💼 👩‍💼 Languages Front-End & Back-end) (Working):
+💼 👩‍💼 Languages Front-End & Back-end) (Working):
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -66,7 +66,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🏫 👩‍🎓 Languages, Frameworks, Front-End & Back-end) (Reviewing, Studying & Testing):
+🏫 👩‍🎓 Languages, Frameworks, Front-End & Back-end) (Reviewing, Studying & Testing):
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white)
@@ -75,7 +75,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
 
-### 🏫 👩‍🎓 Frameworks, Platforms and Libraries (Working, Studying & Testing):
+🏫 👩‍🎓 Frameworks, Platforms and Libraries (Working, Studying & Testing):
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -87,7 +87,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
-### 🏫 👩‍🎓 Databases (Reviewing, Studying & Testing):  sql server management studio
+🏫 👩‍🎓 Databases (Reviewing, Studying & Testing):  sql server management studio
 ![Microsoft SQL Server Express](https://img.shields.io/badge/Microsoft%20SQL%20Server%20Express-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Transact-SQL](https://img.shields.io/badge/Transact%20SQL-%23E4405F.svg?style=for-the-badge&logo=Transact-SQL&logoColor=white)
@@ -95,7 +95,7 @@
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 💼 👩‍💼 Tools/IDEs/Editors (Working):
+💼 👩‍💼 Tools/IDEs/Editors (Working):
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
@@ -103,12 +103,12 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
-### 💼 🏫 👩‍🎓 Containers (Working, Studying & Testing):
+💼 🏫 👩‍🎓 Containers (Working, Studying & Testing):
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🏫 👩‍🎓 Hosting/SaaS/ ☁️ Cloud Computing (Studying):
+🏫 👩‍🎓 Hosting/SaaS/ ☁️ Cloud Computing (Studying):
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-%23E4405F.svg?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white)
