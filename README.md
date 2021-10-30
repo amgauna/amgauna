@@ -48,8 +48,8 @@
 ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
   
 ### 💼 👩‍💼 Google SEO / Marketing (Working):     
-<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adsense.svg" alt="Google Adsense" width="29px" height="29px">
-![Google AdSense](https://img.shields.io/badge/Google%20AdSense-%23E4405F.svg?style=for-the-badge&logo=AdSense%20Web%20Services&logoColor=white)
+![Google AdSense]<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adsense.svg" alt="Google Adsense" width="29px" height="29px">
+(https://img.shields.io/badge/Google%20AdSense-%23E4405F.svg?style=for-the-badge&logo=AdSense%20Web%20Services&logoColor=white)
 </a> 
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adwords.svg" alt="Google Adword" width="29px" height="29px">
 ![Google AdWords](https://img.shields.io/badge/Google%20AdWords-%23E4405F.svg?style=for-the-badge&logo=AdWords&logoColor=white)</a> 
