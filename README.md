@@ -105,7 +105,7 @@
 ### 🏫 👩‍🎓 Hosting/SaaS/ ☁️ Cloud Computing (Studying):
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-AWS-%23E4405F.svg?style=for-the-badge&logo=AWS&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/AWS-%23E4405F.svg?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white)
 
 
 
