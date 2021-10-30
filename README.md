@@ -96,8 +96,8 @@
 🏫 👩‍🎓 Databases (Reviewing, Studying & Testing): <br />
 
 ![Microsoft SQL Server Express](https://img.shields.io/badge/Microsoft%20SQL%20Server%20Express-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Transact-SQL](https://img.shields.io/badge/Transact%20SQL-%23E4405F.svg?style=for-the-badge&logo=Transact-SQL&logoColor=white)
+![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
