@@ -45,7 +45,10 @@
 ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
   
-### 💼 👩‍💼 Google SEO / Marketing (Working):  <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adsense.svg" alt="Google Adsense" width="19px" height="19px">AdSense</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adwords.svg" alt="Google Adword" width="19px" height="19px">AdWords</a>, <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-analytics.svg" alt="Google Analytics" width="19px" height="19px">Analytics</a>. 
+### 💼 👩‍💼 Google SEO / Marketing (Working):     
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adsense.svg" alt="Google Adsense" width="19px" height="19px">AdSense</a>    
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adwords.svg" alt="Google Adword" width="19px" height="19px">AdWords</a>    
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-analytics.svg" alt="Google Analytics" width="19px" height="19px">Analytics</a>. 
 
 ###  💼 👩‍💼 Languages Front-End & Back-end) (Working):
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
