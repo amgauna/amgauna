@@ -48,13 +48,15 @@
 ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
   
 ### 💼 👩‍💼 Google SEO / Marketing (Working):     
-![Google AdSense]<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adsense.svg" alt="Google Adsense" width="29px" height="29px">
-(https://img.shields.io/badge/Google%20AdSense-%23E4405F.svg?style=for-the-badge&logo=AdSense%20Web%20Services&logoColor=white)
+<a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adsense.svg" alt="Google Adsense" width="29px" height="29px">
+![Google AdSense](https://img.shields.io/badge/Google%20AdSense-%23E4405F.svg?style=for-the-badge&logo=AdSense%20Web%20Services&logoColor=orange)
 </a> 
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-adwords.svg" alt="Google Adword" width="29px" height="29px">
-![Google AdWords](https://img.shields.io/badge/Google%20AdWords-%23E4405F.svg?style=for-the-badge&logo=AdWords&logoColor=white)</a> 
+![Google AdWords](https://img.shields.io/badge/Google%20AdWords-%23E4405F.svg?style=for-the-badge&logo=AdWords&logoColor=green)
+</a> 
 <a><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-analytics.svg" alt="Google Analytics" width="29px" height="29px">
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-%23E4405F.svg?style=for-the-badge&logo=Analytics&logoColor=white)</a> 
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-%23E4405F.svg?style=for-the-badge&logo=Analytics&logoColor=rose)
+</a> 
 
 ###  💼 👩‍💼 Languages Front-End & Back-end) (Working):
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
