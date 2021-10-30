@@ -18,10 +18,10 @@
 ⭐ Statistics <br/>
 
 <div align="center">
-![Ana Gauna Github stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=radical)(https://github.com/amgauna")]
+![Ana Gauna Github stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=radical)](https://github.com/amgauna)
 <img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=dracula"><a href="https://github.com/amgauna"></a>
-[![Ana Gauna GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/amgauna)]
+[![Ana Gauna GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/amgauna)
 </div>
 
 🏠 My Social Networks: <br />
