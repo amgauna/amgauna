@@ -3,7 +3,7 @@
 
 # 👩‍💼 Hi, I'm Ana Gauna 
 
-<p align="justify"> I worked for over 15 years with IT service management, computer tech support helping Windows users to use the computer and its ERP applications. I have been a Systems Analyst since 2003. I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I graduated in computer programming in 1987. I started in Administration Techniques in 1983. I have a lot of experience with technical jobs in the area of administration and accounting and routine office work.</p>
+<p align="justify"> 🖥️ 🖨️ I worked for over 15 years with IT service management, computer tech support helping Windows users to use the computer and its ERP applications. I have been a Systems Analyst since 2003. I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I graduated in computer programming in 1987. I started in Administration Techniques in 1983. I have a lot of experience with technical jobs in the area of administration and accounting and routine office work.</p>
 
 🏫 👩‍🎓 Study the technologies & innovations that were born in the 21st century! 
 
@@ -11,7 +11,7 @@
 
 🌐 Ask me about anything here:  📱 <a href="https://api.whatsapp.com/send?phone=5521979371230"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="middle" alt="Whatsapp"></a>  📫 <a href="mailto:amgauna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="middle" alt="Gmail"></a>
 
-💜 😃 I'm passionate about technology, 🖥️ 📓 🎵 🎦 🎄 🥞 🍫 🍓 🥤 🍇 🍊 🥓 🍔 🍕 🌭 🍦 🧁 🍰
+💜 😃 I'm passionate about 🖥️ 🎵 🎦 🎄 🥞 🍫 🍓 🥤 🍇 🍊 🥓 🍔 🍕 🌭 🍦 🧁 🍰
 
 ❤️ and of course my 👩‍👧, my pets 🐶 & 😺!
 
