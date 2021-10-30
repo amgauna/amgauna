@@ -6,7 +6,7 @@
 
 <p align="justify"> I worked for over 15 years with IT service management, computer tech support helping Windows users to use the computer and its ERP applications. I have been a Systems Analyst since 2003. I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I graduated in computer programming in 1987. I started in Administration Techniques in 1983. I have a lot of experience with technical jobs in the area of administration and accounting and routine office work.</p>
 
-:focus: Study the technologies & innovations that were born in the 21st century. :-)
+***Focus: Study the technologies & innovations that were born in the 21st century. ![image](https://user-images.githubusercontent.com/11474885/139512768-98f713ae-efdd-48a9-8599-e977d44978d5.png)
 
 :department_store: I'm currently working on <a href="https://www.amgauna.com.br/" target="_blank">Amgauna Tecnologia</a> as CEO, Technical Support Analyst & Senior Business Systems Analyst.
 
