@@ -18,20 +18,20 @@
 ⭐ Statistics <br/>
 
 <div align="center">
-[![Ana Gauna GitHub Stats Graph](https://github-readme-streak-stats.herokuapp.com/?user=amgauna)](https://github.com/amgauna)
+1- [![Ana Gauna GitHub Stats Graph](https://github-readme-streak-stats.herokuapp.com/?user=amgauna)](https://github.com/amgauna)
 
-![Ana Gauna Github stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=radical) 
+2- ![Ana Gauna Github stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=radical) 
 
-<img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula"/></a>
+3- <img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula"/></a>
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&hide_border=true&theme=onedark">
+4- <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&hide_border=true&theme=onedark">
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=onedark">
+5- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=onedark">
  <a href="https://github.com/amgauna">
  
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=onedark&line_height=27" alt="Github Stats"/>
+6- <img align="center" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=onedark&line_height=27" alt="Github Stats"/>
   
-[![Ana Gauna GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/amgauna)
+7- [![Ana Gauna GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/amgauna)
 </div>
 
 🏠 My Social Networks: <br />
