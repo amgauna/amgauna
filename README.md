@@ -18,7 +18,7 @@
 ⭐ Statistics <br/>
 
 <div align="center">
-1- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=dracula&custom_title=Contribution+Graph)]
+1- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=reactdark&custom_title=Contribution+Graph)]
 
 ![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=dracula)]
 <img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula">
