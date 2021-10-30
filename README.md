@@ -9,7 +9,7 @@
 
 💼 👩‍💼 I'm currently working on <a href="https://www.amgauna.com.br/" target="_blank">Amgauna Tecnologia</a> as CEO, Technical Support Analyst & Senior Business Systems Analyst.
 
-📫 Ask me about anything here:  📱 <a href="https://api.whatsapp.com/send?phone=5521979371230"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="middle" alt="Whatsapp"></a>  📫 <a href="mailto:amgauna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="middle" alt="Gmail"></a>
+🌐 Ask me about anything here:  📱 <a href="https://api.whatsapp.com/send?phone=5521979371230"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="middle" alt="Whatsapp"></a>  📫 <a href="mailto:amgauna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="middle" alt="Gmail"></a>
 
 ❤️ 😃 I'm passionate about technology, 🖥️ 📓 🎵 🎦 🍦 🧁 🍰 🥞 🍫 and of course my 👩‍👧, my pets 🐶 & 🐱!
 
