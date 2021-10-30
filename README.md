@@ -18,15 +18,13 @@
 ⭐ Statistics <br/>
 
 <div align="center">
-1- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/amgauna)
+1- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=draculak&custom_title=Contribution+Graph)]
 
-2- ![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=dracula)](https://github.com/amgauna)
+2- ![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=dracula)]
   
-3- [![GitHub Stats Graph](https://github-readme-streak-stats.herokuapp.com/?user=amgauna)](https://github.com/amgauna)
+3- <img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula">
   
-4- <img width="320em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=dracula">
-  
-5- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=dracula"><a href="https://github.com/amgauna"></a>  
+4- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=dracula">
 </div>
 
 🏠 My Social Networks: <br />
