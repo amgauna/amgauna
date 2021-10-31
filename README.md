@@ -19,7 +19,7 @@
 ### 🏆 GitHub Profile Trophy:
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=amgauna&column=8&theme=buefy&frame=vue&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=amgauna&column=8&theme=default&frame=true&no-bg=true"/>
 </a>
 
 ---
