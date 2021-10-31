@@ -34,7 +34,7 @@
 </div>
 
 ---
-### 🧡 Github Top Languages:
+### 🧡 Github Top Languages Statistics:
 
 <div>  
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=vue&link=https://www.github.com/amgauna/">   
