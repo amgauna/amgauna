@@ -15,9 +15,9 @@
   
 💜 😃 I'm passionate about 🖥️ 🎵 🎦 🎄 🥞 🍫 🍓 🥤 🍇 🍊 🥓 🍔 🍕 🌭 🍦 🧁 🍰 !!!
 
-❤️ and passionate of course my 👩‍👧 & my pets 🐶 😺 !!!
+❤️ 👩‍ and passionate of course my 👧 & my pets 🐶 😺 !!!
 
-### 🏠 My Social Networks: <br />
+### 🔗 🏠 My Social Networks: <br />
 
 <a href="https://www.twitter.com/amgauna/"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.facebook.com/amgauna/"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
