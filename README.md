@@ -17,6 +17,7 @@
 
 ❤️ 👩‍ and passionate of course my 👧 & my pets 🐶 😺 !!!
 
+---
 ### 🔗 🏠 My Social Networks: <br />
 
 <a href="https://www.twitter.com/amgauna/"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
