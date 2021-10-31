@@ -20,8 +20,8 @@
 ### 🏠 My Social Networks: <br />
 
 
-![Twitter](https://www.twitter.com/amgauna/?&link=https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/amgauna/)
+![Twitter]<a href="https://www.twitter.com/amgauna/">(https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+![Facebook]<a href=https://www.facebook.com/amgauna/">(https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/amgauna/)
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/amgauna/)
 ![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)
