@@ -23,7 +23,7 @@
 
 <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/"> 
   
-![Amgauna Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amgauna&theme=default&align="left")
+![Amgauna Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amgauna&theme=default&months=12&align="left")
 </div>
 
 ---
