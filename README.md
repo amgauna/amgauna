@@ -33,10 +33,10 @@
 
 | | |
 | :--: | :--: | 
-| <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=vue&link=https://www.github.com/amgauna/"> |
-| ![Amgauna Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amgauna&theme=vue&align="right") |  
-| <img width="45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=vue&link=https://www.github.com/amgauna/"> |   
-| ![Amgauna Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amgauna&theme=vue&align="right") |
+| <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=vue&link=https://www.github.com/amgauna/"> |
+| ![Amgauna Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amgauna&theme=vue) |  
+| <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=vue&link=https://www.github.com/amgauna/"> |   
+| ![Amgauna Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amgauna&theme=vue) |
   
 </div>
 
