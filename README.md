@@ -14,12 +14,27 @@
 ❤️ and passionate of course my 👩‍👧 & my pets 🐶 😺 !!!
 
 
-### ⭐ Statistics <br/>
+### 🏆 GitHub Profile Trophy:
+---
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=amgauna&column=8&theme=buefy&no-frame=true&no-bg=true"/>
+</a>
+
+
+### ⭐ GitHub Statistics:
+---
+
 <div>
 <a href="https://github.com/amgauna"><img src="https://img.shields.io/github/followers/amgauna?label=follow&style=social&link=https://www.github.com/amgauna/" height="22" title="Follow me" align="right" alt="GitHub-Followers"></a>  <img src="https://komarev.com/ghpvc/?username=amgauna&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow&link=https://www.github.com/amgauna/" title="Profile views" align="right" alt="GitHub-Profile"/> <br>
   
 ![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&&link=https://www.github.com/amgauna/&align="right") 
 <img width="480px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=buefy&link=https://www.github.com/amgauna/">  
+
+![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&theme=buefy&show_icons=true&count_private=true)
+
+![Ana Gauna Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amgauna&theme=solarized_light)
+![Ana Gauna Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amgauna&theme=solarized_light)
+![Ana Gauna Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amgauna&theme=solarized_light)
   
 ![Ana Gauna GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=buefy&link=https://www.github.com/amgauna/&custom_title=Contribution+Grap&width="50%") 
 
@@ -28,6 +43,7 @@
 
 
 ### 🏠 My Social Networks: <br />
+---
 
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/amgauna/)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/amgauna/)
