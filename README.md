@@ -20,9 +20,9 @@
 <br>
 <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=darkred&link=https://www.github.com/amgauna/"> <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=darkred&link=https://www.github.com/amgauna/">
   
-![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darkred&&link=https://www.github.com/amgauna/&align="right")
-  
 ![Ana Gauna GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=buefy&link=https://www.github.com/amgauna/&custom_title=Contribution+Grap&width="50%") 
+  
+![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darkred&&link=https://www.github.com/amgauna/&align="right")  
 </div>
 
 
