@@ -19,7 +19,7 @@
 ❤️ and passionate of course my 👩‍👧 & my pets 🐶 😺 !!!
 
 ---
-### ⭐ GitHub Statistics:
+### ⭐ GitHub Statistics (@amgauna):
 
 <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/"> 
   
@@ -27,7 +27,7 @@
 </div>
 
 ---
-### 🧡 Github Top Languages Statistics:
+### 🧡 Github Top Languages Statistics (@amgauna):
 
 <div>  
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=default&link=https://www.github.com/amgauna/">   
@@ -37,7 +37,7 @@
 </div>
 
 ---
-### 🏆 GitHub Profile Trophy:
+### 🏆 GitHub Profile Trophy (@amgauna):
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=amgauna&column=8&theme=default&frame=true&no-bg=true"/>
