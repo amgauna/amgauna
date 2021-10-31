@@ -32,7 +32,7 @@
   
 ![Amgauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&&link=https://www.github.com/amgauna/&align="right")
   
-![Amgauna Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amgauna&theme=vue&align="left")
+![Amgauna Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amgauna&theme=buefy&align="left")
 
 <img width="45%" height="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=vue&link=https://www.github.com/amgauna/">   
  
