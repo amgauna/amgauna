@@ -17,6 +17,24 @@
 
 ❤️ and passionate of course my 👩‍👧 & my pets 🐶 😺 !!!
 
+### 🏠 My Social Networks: <br />
+
+
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/amgauna/)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/amgauna/)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/amgauna/)
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/amgauna/)
+![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amgauna/)
+![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white&link=https://www.meetup.com/amgauna/)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://www.telegram.com/amgauna/)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521979371230)
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://anagaunatech.blogspot.com)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://www.medium.com/amgauna/)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://https://stackoverflow.com/users/story/13494129/)
+![Microsoft Technet](https://img.shields.io/badge/Microsoft%20Tecnet-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&link=https://social.technet.microsoft.com/profile/ana%20gauna/?ws=usercard-hover)
+![Microsoft MSDN](https://img.shields.io/badge/Microsoft%20MSDN-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&link=https://social.msdn.microsoft.com/profile/ana%20gauna/?ws=usercard-hover)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&link=https://docs.microsoft.com/pt-br/users/amgauna/)
+  
 ---
 ### ⭐ GitHub Statistics (@amgauna):
 
