@@ -22,7 +22,7 @@
   
 ![Ana Gauna GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=buefy&link=https://www.github.com/amgauna/&custom_title=Contribution+Grap&width="50%") 
 
-<img width="480px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=darkred&link=https://www.github.com/amgauna/">
+<img width="450px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=darkred&link=https://www.github.com/amgauna/">
 </div>
 
 
