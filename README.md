@@ -30,11 +30,13 @@
 <br>
   
 ![Amgauna Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amgauna&theme=vue)
-  
-![Amgauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&&link=https://www.github.com/amgauna/&align="right") 
-  
-<img width="480px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=buefy&link=https://www.github.com/amgauna/">   
 
+<br> 
+  
+![Amgauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&&link=https://www.github.com/amgauna/&align="right") <img width="480px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=buefy&link=https://www.github.com/amgauna/">   
+
+<br>
+  
 <img width="320px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=buefy&link=https://www.github.com/amgauna/">
   
 ![Amgauna Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amgauna&theme=default)
