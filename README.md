@@ -39,8 +39,8 @@
   
 <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=buefy&link=https://www.github.com/amgauna/">
   
-![Amgauna Repo Stats](https://github-profile-compact-cards.vercel.app/api/cards/repos-per-language?username=amgauna&theme=default)
-![Amgauna Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amgauna&theme=default)
+![Amgauna Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amgauna&theme=vue)
+![Amgauna Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amgauna&theme=vue)
 </div>
 
 ---
