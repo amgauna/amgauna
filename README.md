@@ -30,10 +30,10 @@
 ![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&&link=https://www.github.com/amgauna/&align="right") 
 <img width="480px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=buefy&link=https://www.github.com/amgauna/">  
 
-![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&theme=buefy&show_icons=true&count_private=true)
-
 ![Ana Gauna Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amgauna&theme=solarized_light)
+  
 ![Ana Gauna Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amgauna&theme=solarized_light)
+  
 ![Ana Gauna Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amgauna&theme=solarized_light)
   
 ![Ana Gauna GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=buefy&link=https://www.github.com/amgauna/&custom_title=Contribution+Grap&width="50%") 
