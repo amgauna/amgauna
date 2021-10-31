@@ -19,7 +19,7 @@
 ### 🏆 GitHub Profile Trophy:
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=amgauna&column=8&theme=buefy&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=amgauna&column=8&theme=buefy&frame=vue&no-bg=true"/>
 </a>
 
 ---
@@ -32,8 +32,8 @@
 ![Amgauna Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amgauna&theme=vue)
 
 <br> 
-<img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=buefy&link=https://www.github.com/amgauna/">  
-<img width="480px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=buefy&link=https://www.github.com/amgauna/">   
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=vue&link=https://www.github.com/amgauna/">  
+<img width="480px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=vue&link=https://www.github.com/amgauna/">   
 <br>
     
 ![Amgauna Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amgauna&theme=vue)
