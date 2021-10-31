@@ -34,13 +34,12 @@
 ![Ana Gauna Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=buefy&link=https://www.github.com/amgauna&custom_title=Contribution+Grap&width="50%") 
 
 <img width="395px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=buefy&link=https://www.github.com/amgauna/">
+
+![Amgauna Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amgauna&theme=solarized_dark)
+![Amgauna Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amgauna&theme=solarized_dark)
+![Amgauna Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amgauna&theme=solarized_dark)
 </div>
 
-![Ana Gauna Stats per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amgauna&theme=solarized_light&link=https://www.github.com/amgauna)  
-
-![Ana Gauna Stats per Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amgauna&theme=solarized_light&link=https://www.github.com/amgauna)  
-
-![Ana Gauna Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amgauna&theme=solarized_light&link=https://www.github.com/amgauna)  
 ---
 ### 🏠 My Social Networks: <br />
 
