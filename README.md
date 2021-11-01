@@ -36,7 +36,7 @@
 ---
 ### ⭐ GitHub Statistics (@amgauna):
 
-![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&&link=https://www.github.com/amgauna/&width=40%&align=right)<img width="40%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/"> 
+![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&&link=https://www.github.com/amgauna/&width="30"%&align="right")<img width="30%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/"> 
   
 ![Amgauna Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amgauna&theme=default&months=12&align="left")
 </div>
