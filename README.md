@@ -56,6 +56,6 @@
 ### 🏆 GitHub Profile Trophy (@amgauna):
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=amgauna&column=9&rank=S,AAA&theme=default&frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=amgauna&column=9&rank=S&theme=default&frame=true&no-bg=true"/>
 </a>
 
