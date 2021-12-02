@@ -2,12 +2,12 @@
 <a href="https://github.com/amgauna"><img src="https://img.shields.io/github/followers/amgauna?label=follow&style=social&link=https://www.github.com/amgauna/" height="22" title="Follow me" align="right" alt="GitHub-Followers"></a> <img src="https://komarev.com/ghpvc/?username=amgauna&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow&link=https://www.github.com/amgauna/" title="Profile views" align="right" alt="GitHub-Profile"/> 
 
 ### 👩‍💼 Hi, I'm Ana Gauna 
-
 ---
   
-<p align="justify"> 🖥️ 🖨️ I have been a Systems Analyst since 2003. I graduated in computer programming in 1987. I started in Administration Techniques in 1983. I have been working since 1985, I have experience in project administration, service management, IT technical support, Windows Server, wireless network, web developer, graphic designer, marketing, SEO, ERP (HR/Accounting) and routine office work.
-
+<p align="justify"> 
 💼 👩‍💼 I'm currently working on <a href="https://www.amgauna.com.br/" target="_blank">Amgauna Tecnologia</a> as Senior Business Systems Analyst, Data Analyst, Technical Support Analyst, Web Developer & Graphic Desiner.
+
+🖥️ 🖨️ I have been a Systems Analyst since 2003. I graduated in computer programming in 1987. I started in Administration Techniques in 1983. I have been working since 1985, I have experience in project administration, service management, IT technical support, Windows Server, wireless network, web developer, graphic designer, marketing, SEO, ERP (HR/Accounting) and routine office work.
 
 🌐 📪 Ask me about anything here:  📱 <a href="https://api.whatsapp.com/send?phone=5521979371230"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="middle" alt="Whatsapp"></a>  📧 <a href="mailto:amgauna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="middle" alt="Gmail"></a>
 
