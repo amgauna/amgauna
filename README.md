@@ -16,7 +16,8 @@
 💜 😃 I'm passionate about 🖥️ 🎵 🎦 🎄 🥞 🍫 🍓 🥤 🍇 🍊 🥓 🍔 🍕 🌭 🍦 🧁 🍰 !!!
 
 ❤️ 👩‍ and passionate of course my 👧 & my pets 🐶 😺 !!!
-
+</p>
+  
 ---
 ### 🔗 🏠 My Social Networks: <br />
 
