@@ -37,7 +37,7 @@
 ---
 ### ⭐ GitHub Statistics (@amgauna):
   
-![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&link=https://www.github.com/amgauna/&width="200px")<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/" width="200px"> 
+![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&width="300px"&link=https://www.github.com/amgauna/)<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/" width="300px"> 
 
 ---
 ### 🧡 Github Top Languages Statistics (@amgauna):
