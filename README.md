@@ -44,4 +44,4 @@
 
 <img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=default&link=https://www.github.com/amgauna/">   
  
-![Amgauna Repo Stats](https://github-profile-cards.vercel.app/api/cards/repo-per-language?username=amgauna&theme=default&width="30%"&align="right")  
+![Amgauna Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repo-per-language?username=amgauna&theme=default&width="30%"&align="right")  
