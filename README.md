@@ -9,7 +9,7 @@
 
 👩‍🎓 Study the technologies & innovations that were born in the 21st century! I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. 
   
-👩‍👧 ❤️ I love my 👧 🐶 😺, and I like 🖥️ 🎵 🎦 🎄 🥞 🍫 🍓 🥤 🍇 🍊 🥓 🍔 🍕 🌭 🍦 🧁 🍰 !!!
+👩‍👧 I love my 👧 🐶 😺, and I like ❤️ 🖥️ 🎵 🎦 🎄 🌹 🥞 🍫 🍓 🥤 🍇 🍊 🥓 🍔 🍕 🌭 🍦 🧁 🍰 !!!
  
 </p>
 
