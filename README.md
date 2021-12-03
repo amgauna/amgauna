@@ -5,14 +5,11 @@
 ---
   
 <p align="justify"> 
-💼 👩‍💼 I'm currently working on <a href="https://www.amgauna.com.br/" target="_blank">Amgauna Tecnologia</a> as Senior Business Systems Analyst, Data Analyst, Project  Management, Technical Support Analyst, Web Developer & Graphic Desiner.
-
-🖥️ 🖨️ I have been a Systems Analyst since 2003. I graduated in computer programming in 1987. I started in Administration Techniques in 1983. I have been working since 1985, I have experience in project administration, service management, IT technical support, Windows Server, wireless network, web developer, graphic designer, marketing, SEO, ERP (HR/Accounting) and routine office work.
+🖥️ 👩‍💼 I'm currently working as a Senior Business Systems Analyst, Data Analyst, Project Management, Technical Support Analyst, Web Developer & Graphic Designer. I have been working since 1985. I have experience in project administration, service management, IT technical support, Windows Server, web developer, graphic designer, marketing, SEO, ERP, routine office work, etc. I have been a Systems Analyst since 2003, graduated in computer programming in 1987 and started in Administration Techniques in 1983.
 
 🏫 👩‍🎓 Study the technologies & innovations that were born in the 21st century! I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. 
   
 💜 😃 I'm passionate about 🖥️ 🎵 🎦 🎄 🥞 🍫 🍓 🥤 🍇 🍊 🥓 🍔 🍕 🌭 🍦 🧁 🍰 !!!
-
 ❤️ 👩‍ and passionate of course my 👧 & my pets 🐶 😺 !!!
 </p>
 
