@@ -18,6 +18,7 @@
 ❤️ 👩‍ and passionate of course my 👧 & my pets 🐶 😺 !!!
 </p>
 
+  
 ---
 ### 🧡 Github Top Languages Statistics (@amgauna):
 
@@ -25,11 +26,13 @@
  
 ![Amgauna Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amgauna&theme=default&width="30%"&align="right")  
 
+  
 ---
 ### ⭐ GitHub Statistics (@amgauna):
   
 ![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&width="300px"&link=https://www.github.com/amgauna/)<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/" width="300px"> 
 
+  
 ---
 ### 🔗 🏠 My Social Networks: <br />
 
@@ -45,4 +48,4 @@
 <a href="https://social.technet.microsoft.com/profile/ana%20gauna/"> ![Microsoft Technet](https://img.shields.io/badge/Microsoft%20Tecnet-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)</a>
 <a href="https://social.msdn.microsoft.com/profile/ana%20gauna/?ws=usercard-hover"> ![Microsoft MSDN](https://img.shields.io/badge/Microsoft%20MSDN-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)</a>
 <a href="https://docs.microsoft.com/pt-br/users/amgauna/"> ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)</a>
-  
+---  
