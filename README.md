@@ -9,8 +9,8 @@
 
 🏫 👩‍🎓 Study the technologies & innovations that were born in the 21st century! I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. 
   
-💜 😃 I'm passionate about 🖥️ 🎵 🎦 🎄 🥞 🍫 🍓 🥤 🍇 🍊 🥓 🍔 🍕 🌭 🍦 🧁 🍰 !!!
-❤️ 👩‍ and passionate of course my 👧 & my pets 🐶 😺 !!!
+❤️ 👩‍ I love my 👧 🐶 😺, and I like 🖥️ 🎵 🎦 🎄 🥞 🍫 🍓 🥤 🍇 🍊 🥓 🍔 🍕 🌭 🍦 🧁 🍰 !!!
+ 
 </p>
 
   
