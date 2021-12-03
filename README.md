@@ -1,15 +1,15 @@
 <div>  
 <a href="https://github.com/amgauna"><img src="https://img.shields.io/github/followers/amgauna?label=follow&style=social&link=https://www.github.com/amgauna/" height="22" title="Follow me" align="right" alt="GitHub-Followers"></a> <img src="https://komarev.com/ghpvc/?username=amgauna&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow&link=https://www.github.com/amgauna/" title="Profile views" align="right" alt="GitHub-Profile"/> 
 
-### 👩‍💼 Hi, I'm Ana Gauna 
+### 👩 Hi, I'm Ana Gauna 
 ---
   
 <p align="justify"> 
-🖥️ 👩‍💼 I'm currently working as a Senior Business Systems Analyst, Data Analyst, Project Management, Technical Support Analyst, Web Developer & Graphic Designer. I have been working since 1985. I have experience in project administration, service management, IT technical support, Windows Server, web developer, graphic designer, marketing, SEO, ERP, routine office work, etc. I have been a Systems Analyst since 2003, graduated in computer programming in 1987 and started in Administration Techniques in 1983.
+👩‍💼 I'm currently working as a Senior Business Systems Analyst, Data Analyst, Project Management, Technical Support Analyst, Web Developer & Graphic Designer. I have been working since 1985. I have experience in project administration, service management, IT technical support, Windows Server, web developer, graphic designer, marketing, SEO, ERP, routine office work, etc. I have been a Systems Analyst since 2003, graduated in computer programming in 1987 and started in Administration Techniques in 1983.
 
-🏫 👩‍🎓 Study the technologies & innovations that were born in the 21st century! I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. 
+👩‍🎓 Study the technologies & innovations that were born in the 21st century! I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. 
   
-❤️ 👩‍ I love my 👧 🐶 😺, and I like 🖥️ 🎵 🎦 🎄 🥞 🍫 🍓 🥤 🍇 🍊 🥓 🍔 🍕 🌭 🍦 🧁 🍰 !!!
+👩‍👧 ❤️ I love my 👧 🐶 😺, and I like 🖥️ 🎵 🎦 🎄 🥞 🍫 🍓 🥤 🍇 🍊 🥓 🍔 🍕 🌭 🍦 🧁 🍰 !!!
  
 </p>
 
@@ -29,7 +29,7 @@
 
   
 ---
-### 🔗 🏠 My Social Networks: <br />
+### 🏠 My Social Networks: <br />
 
 <a href="https://www.twitter.com/amgauna/"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.facebook.com/amgauna/"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
