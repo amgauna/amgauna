@@ -9,8 +9,6 @@
 
 🖥️ 🖨️ I have been a Systems Analyst since 2003. I graduated in computer programming in 1987. I started in Administration Techniques in 1983. I have been working since 1985, I have experience in project administration, service management, IT technical support, Windows Server, wireless network, web developer, graphic designer, marketing, SEO, ERP (HR/Accounting) and routine office work.
 
-🌐 📪 Ask me about anything here:  📱 <a href="https://api.whatsapp.com/send?phone=5521979371230"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" title="Text me" align="middle" alt="Whatsapp"></a>  📧 <a href="mailto:amgauna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="middle" alt="Gmail"></a>
-
 🏫 👩‍🎓 Study the technologies & innovations that were born in the 21st century! I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. 
   
 💜 😃 I'm passionate about 🖥️ 🎵 🎦 🎄 🥞 🍫 🍓 🥤 🍇 🍊 🥓 🍔 🍕 🌭 🍦 🧁 🍰 !!!
