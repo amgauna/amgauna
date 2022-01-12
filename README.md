@@ -23,7 +23,7 @@
   
 ![Github Most Commit Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna&theme=default)
 
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=amgauna&layout=compact&langs_count=20&theme=default&link=https://www.github.com/amgauna/") 
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/wakatime/?username=amgauna&layout=compact&langs_count=20&theme=default&link=https://www.github.com/amgauna/"> 
   
 ![Github Stats](https://github-readme-stats.vercel.app/api/?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&width="40%"&link="https://www.github.com/amgauna/")
   
