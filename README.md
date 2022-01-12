@@ -23,7 +23,9 @@
   
 ![Github Most Commit Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna&theme=default)
   
-![Github Stats](https://github-readme-stats.vercel.app/api/?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&width="50%"&link=https://www.github.com/amgauna/)<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/" width="300px"> 
+![Github Stats](https://github-readme-stats.vercel.app/api/?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&width="50%"&link=https://www.github.com/amgauna/)
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/" width="50%"> 
 
   
 ---
