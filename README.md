@@ -17,9 +17,9 @@
 ---
 ### 🧡 Github Top Languages Statistics (@amgauna):
 
-<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=10&theme=default&link=https://www.github.com/amgauna/">   
+<img width="35%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=10&theme=default&link=https://www.github.com/amgauna/">   
  
-![Amgauna Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amgauna&theme=default&width="30%"&align="right")  
+![Amgauna Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amgauna&theme=default&width="35%"&align="right")  
 
   
 ---
@@ -27,7 +27,7 @@
   
 ![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&width="300px"&link=https://www.github.com/amgauna/)<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/" width="300px"> 
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=amgauna&theme=default&hide_title=true&hide_border=true)](https://github.com/amgauna)
+[![Ana Gauna Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=amgauna&theme=dracula&hide_title=false&hide_border=false)](https://github.com/amgauna/)
 
   
 ---
