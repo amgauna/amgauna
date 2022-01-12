@@ -1,7 +1,7 @@
 <div>  
 <a href="https://github.com/amgauna"><img src="https://img.shields.io/github/followers/amgauna?label=follow&style=social&link=https://www.github.com/amgauna/" height="22" title="Follow me" align="right" alt="GitHub-Followers"></a> <img src="https://komarev.com/ghpvc/?username=amgauna&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow&link=https://www.github.com/amgauna/" title="Profile views" align="right" alt="GitHub-Profile"/> 
 
-### 👩 Hi, I'm Ana Gauna 
+👩 Hi, I'm Ana Gauna 
 ---
   
 <p align="justify"> 
@@ -15,7 +15,7 @@
 
   
 ---
-### 🧡 Github Top Languages Statistics (@amgauna):
+🧡 Github Top Languages Statistics (@amgauna):
 
 <img width="35%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=10&theme=default&link=https://www.github.com/amgauna/">   
  
@@ -23,15 +23,15 @@
 
   
 ---
-### ⭐ GitHub Statistics (@amgauna):
+⭐ GitHub Statistics (@amgauna):
   
-![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&width="300px"&link=https://www.github.com/amgauna/)<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/" width="300px"> 
+![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api/?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&width="300px"&link=https://www.github.com/amgauna/)<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/" width="300px"> 
 
-[![Ana Gauna Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?&username=amgauna&theme=dracula&title=true&border=true)](https://github.com/amgauna/)
+[![Ana Gauna Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&username=amgauna&theme=dracula&show_icons=true&hide_border=true&link=https://www.github.com/amgauna/)
 
   
 ---
-### 🏠 My Social Networks: <br />
+🏠 My Social Networks: <br />
 
 <a href="https://www.twitter.com/amgauna/"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.facebook.com/amgauna/"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
