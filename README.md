@@ -17,13 +17,13 @@
 ---
 🧡 Github Top Languages Statistics (@amgauna):
 
-<img width="35%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=10&theme=default&link=https://www.github.com/amgauna/">   
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=10&theme=default&link=https://www.github.com/amgauna/">   
  
-![Repo Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&theme=solarized_light&username=amgauna&link="https://www.github.com/amgauna/")
+![Github Repo Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&theme=solarized_light&show_icons=true&username=amgauna&link="https://www.github.com/amgauna/")
   
-![Most Commit Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&theme=solarized_light&username=amgauna&&link=https://www.github.com/amgauna/)
+![Github Most Commit Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&theme=solarized_light&show_icons=true&username=amgauna&link="https://www.github.com/amgauna/")
   
-![Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?&theme=solarized_light&username=amgauna&link="https://www.github.com/amgauna/")
+![Github Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?&theme=solarized_light&show_icons=true&username=amgauna&link="https://www.github.com/amgauna/")
   
   
 ---
@@ -32,8 +32,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api/?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&width="300px"&link=https://www.github.com/amgauna/)<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/" width="300px"> 
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=buefy&link=https://www.github.com/amgauna/&custom_title=Contribution+Grap&width="50%") 
-
-<img width="395px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=full&langs_count=16&theme=buefy&link=https://www.github.com/amgauna/">
 
   
 ---
