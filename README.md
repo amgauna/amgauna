@@ -19,21 +19,21 @@
 
 <img width="35%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=10&theme=default&link=https://www.github.com/amgauna/">   
  
-![Ana Gauna Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amgauna&theme=solarized_light)
+![Repo Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&theme=solarized_light&username=amgauna&link="https://www.github.com/amgauna/")
   
-![Ana Gauna Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amgauna&theme=solarized_light)
+![Most Commit Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&theme=solarized_light&username=amgauna&&link=https://www.github.com/amgauna/)
   
-![Ana Gauna Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amgauna&theme=solarized_light)
+![Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?&theme=solarized_light&username=amgauna&link="https://www.github.com/amgauna/")
   
   
 ---
 ⭐ GitHub Statistics (@amgauna):
   
-![Ana Gauna Github Stats](https://github-readme-stats.vercel.app/api/?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&width="300px"&link=https://www.github.com/amgauna/)<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/" width="300px"> 
+![Github Stats](https://github-readme-stats.vercel.app/api/?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&width="300px"&link=https://www.github.com/amgauna/)<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/" width="300px"> 
   
-![Ana Gauna GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=buefy&link=https://www.github.com/amgauna/&custom_title=Contribution+Grap&width="50%") 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amgauna&theme=buefy&link=https://www.github.com/amgauna/&custom_title=Contribution+Grap&width="50%") 
 
-<img width="395px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=16&theme=buefy&link=https://www.github.com/amgauna/">
+<img width="395px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=full&langs_count=16&theme=buefy&link=https://www.github.com/amgauna/">
 
   
 ---
