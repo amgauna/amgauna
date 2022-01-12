@@ -17,13 +17,13 @@
 ---
 ⭐⭐⭐ Github Top Languages Statistics (@amgauna):
 
-<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=10&theme=default&link=https://www.github.com/amgauna/">   
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=20&theme=default&link=https://www.github.com/amgauna/">   
  
 ![Github Repos Per Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&theme=default)
   
 ![Github Most Commit Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna&theme=default)
   
-![Github Stats](https://github-readme-stats.vercel.app/api/?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&width="300px"&link=https://www.github.com/amgauna/)<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/" width="300px"> 
+![Github Stats](https://github-readme-stats.vercel.app/api/?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy&width="50%"&link=https://www.github.com/amgauna/)<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default&link=https://www.github.com/amgauna/" width="300px"> 
 
   
 ---
