@@ -29,6 +29,7 @@
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna&theme=default">
 
+![Github-Personal-Access-Token-API](https://github-readme-stats.vercel.app/api/?&username=amgauna&theme=default&token="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")   
   
 ---
 🏠 My Social Networks: <br />
