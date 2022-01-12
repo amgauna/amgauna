@@ -19,8 +19,6 @@
 
 <img width="35%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=10&theme=default&link=https://www.github.com/amgauna/">   
  
-![Amgauna Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amgauna&theme=default&width="35%"&align="right")  
-
   
 ---
 ⭐ GitHub Statistics (@amgauna):
