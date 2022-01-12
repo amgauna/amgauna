@@ -17,7 +17,7 @@
 ---
 ⭐⭐⭐ Github Top Languages Statistics (@amgauna):
 
-<img src="https://github-readme-stats.vercel.app/api/?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default">
+<img src="https://github-readme-stats.vercel.app/api/?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default&token=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">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default"> 
 
@@ -27,9 +27,8 @@
   
 <img src="https://github-readme-stats.vercel.app/api/wakatime/?&amgauna&layout=compact&&theme=default&link=https://www.github.com/amgauna/"> 
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna&theme=default">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna&theme=default&token=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>
 
-![Github-Personal-Access-Token-API](https://github-readme-stats.vercel.app/api/?&username=amgauna&theme=default&token="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")   
   
 ---
 🏠 My Social Networks: <br />
