@@ -17,7 +17,7 @@
 ---
 ⭐⭐⭐ Github Top Languages Statistics (@amgauna):
 
-<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=12&theme=default&link=https://www.github.com/amgauna/">   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=12&theme=default&link=https://www.github.com/amgauna/">   
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime/?&amgauna&layout=compact&langs_count=12&theme=default&link=https://www.github.com/amgauna/"> 
   
