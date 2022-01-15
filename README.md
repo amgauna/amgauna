@@ -29,7 +29,14 @@
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna&theme=default">
 
-<codersrank-timeline username="amgauna&#Tech%20Skills"" type="workexperience"></codersrank-timeline>
+<codersrank-timeline username="amgauna" type="workexperience"></codersrank-timeline>
+                                             
+<p align="center">
+	<a href="https://profile.codersrank.io/user/amgauna#Tech%20Skills">
+	
+	<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=amgauna&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white"></a>
+</p>
+
   
 ---
 🏠 My Social Networks: <br />
