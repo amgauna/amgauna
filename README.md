@@ -29,8 +29,9 @@
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna&theme=default">
 
-<script src="https://unpkg.com/@codersrank/timeline@x.x.x/codersrank-timeline.min.js"></script>
+<script src="https://unpkg.com/@codersrank/timeline@x.x.x/codersrank-timeline.min.js">
 <codersrank-timeline username="amgauna" type="workexperience"></codersrank-timeline><a href="https://profile.codersrank.io/user/amgauna#Tech%30Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=amgauna&padding=15&labels=true&legend=true&tooltip=false&max-labels=36&branding=true&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,JQuery,Angular,React,Vue&show-other-skills=true&bg=white"></a>
+</script>
 </p>
 
   
