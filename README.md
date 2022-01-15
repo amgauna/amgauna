@@ -29,6 +29,7 @@
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna&theme=default">
 
+<codersrank-timeline username="amgauna&#Tech%20Skills"" type="workexperience"></codersrank-timeline>
   
 ---
 🏠 My Social Networks: <br />
