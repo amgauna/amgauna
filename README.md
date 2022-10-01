@@ -17,7 +17,9 @@
 ---
 ⭐⭐⭐ Github Top Languages Statistics (@amgauna):
 
-<img src="https://github-readme-stats.vercel.app/api/?&username=amgauna&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default">
+<p align = "center">
+
+<img src="https://github-readme-stats.vercel.app/api/?&username=amgauna&show_icons=true&cache_seconds=86400&line_height=27&theme=default">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default"> 
 
@@ -28,9 +30,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna&theme=default">
 
 <codersrank-timeline username="amgauna" type="workexperience"></codersrank-timeline><a href="https://profile.codersrank.io/user/amgauna#Tech%30Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=amgauna&padding=15&labels=true&legend=true&tooltip=false&max-labels=36&branding=true&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,JQuery,Angular,React,Vue&show-other-skills=true&bg=white"></a>
-</p>
 
-  
+</p>
+ 
 ---
 🏠 My Social Networks: <br />
 
