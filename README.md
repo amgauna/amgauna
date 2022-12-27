@@ -5,7 +5,7 @@
 ---
   
 <p align="justify"> 
-👩‍💼 I'm currently working at <a href="http://www.amgauna.com.br">Amgauna Technology</a>. I have been working experience since 1985, as a Senior Business Systems Analyst, IT Technical Support Analyst, Data Analyst, Web Developer, Graphic Designer, project administration, service management, windows server, marketing, SEO, ERP Systems, and routine office work. My first website is from 1998. I've graduated as a data processing technologist since 2003, graduated as a computer programmer since 1997, and graduated in administration techniques since 1983.
+👩‍💼 I have been working experience since 1985, as a Software Analyst, IT Technical Support Analyst, Data Analyst, Web Developer, Graphic Designer, project administration, service management, windows server, digital marketing and routine office work. My first website is from 1998. I've graduated as a data processing technologist since 2003, graduated as a computer programmer since 1997, and graduated in administration techniques since 1983.
 
 👩‍🎓 Study the technologies & innovations that were born in the 21st century! I studied years ago: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. 
   
