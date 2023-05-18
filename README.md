@@ -19,9 +19,9 @@
 
 <p align = "center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=full&langs_count=30&theme=default">   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=30&theme=default">   
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&theme=default">
   
