@@ -18,8 +18,6 @@
 ⭐⭐⭐ Github Top Languages Statistics (@amgauna):
 
 <p align = "center">
-
-<img src="https://github-readme-stats.vercel.app/api/?&username=amgauna&show_icons=true&cache_seconds=86400&line_height=27&theme=default">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&hide_border=true&theme=default"> 
 
