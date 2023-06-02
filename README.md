@@ -15,33 +15,33 @@
 
   
 ---
-⭐⭐⭐ Github Top Languages Statistics (@amgauna):
+⭐⭐⭐ Github Top Languages Statistics (@amgauna58rj):
 
 <p align = "center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna58rj&theme=default"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=30&theme=default">   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna58rj&layout=compact&langs_count=30&theme=default">   
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&theme=default">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna58rj&theme=default">
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna&theme=default">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna58rj&theme=default">
 
 </p>
  
 ---
 🏠 My Social Networks: <br />
 
-<a href="https://www.twitter.com/amgauna/"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.facebook.com/amgauna/"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
-<a href="https://www.instagram.com/amgauna/"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://www.behance.net/amgauna/"> ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)</a>
+<a href="https://www.twitter.com/amgauna58rj/"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.facebook.com/amgauna58rj/"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="https://www.instagram.com/amgauna58rj/"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.behance.net/amgauna58rj/"> ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/amgauna/"> ![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
 <a href="https://www.meetup.com/pt-BR/members/224719753/"> ![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)</a>
-<a href="https://anagaunatech.blogspot.com"> ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
+<a href="https://mulhertech.blogspot.com"> ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
 <a href="https://medium.com/@anagauna"> ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://stackoverflow.com/users/story/13494129/">![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
-<a href="https://social.technet.microsoft.com/profile/ana%20gauna/"> ![Microsoft Technet](https://img.shields.io/badge/Microsoft%20Tecnet-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)</a>
-<a href="https://social.msdn.microsoft.com/profile/ana%20gauna/?ws=usercard-hover"> ![Microsoft MSDN](https://img.shields.io/badge/Microsoft%20MSDN-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)</a>
+<a href="https://social.technet.microsoft.com/profile/ana%20mercedes%20gauna/"> ![Microsoft Technet](https://img.shields.io/badge/Microsoft%20Tecnet-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)</a>
+<a href="https://social.msdn.microsoft.com/profile/ana%20mercedes%20gauna/?ws=usercard-hover"> ![Microsoft MSDN](https://img.shields.io/badge/Microsoft%20MSDN-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)</a>
 <a href="https://docs.microsoft.com/pt-br/users/amgauna/"> ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)</a>
 ---  
