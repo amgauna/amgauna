@@ -43,5 +43,5 @@
 <a href="https://stackoverflow.com/users/story/13494129/">![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
 <a href="https://social.technet.microsoft.com/profile/ana%20mercedes%20gauna/"> ![Microsoft Technet](https://img.shields.io/badge/Microsoft%20Tecnet-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)</a>
 <a href="https://social.msdn.microsoft.com/profile/ana%20mercedes%20gauna/?ws=usercard-hover"> ![Microsoft MSDN](https://img.shields.io/badge/Microsoft%20MSDN-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)</a>
-<a href="https://docs.microsoft.com/pt-br/users/amgauna/"> ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)</a>
+<a href="https://docs.microsoft.com/pt-br/users/amgauna58rj/"> ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)</a>
 ---  
