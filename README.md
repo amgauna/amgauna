@@ -19,13 +19,13 @@
 
 <p align = "center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna58rj&theme=default"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anagaunatech&theme=default"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna58rj&layout=compact&langs_count=30&theme=default">   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagaunatech&layout=compact&langs_count=30&theme=default">   
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna58rj&theme=default">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=anagaunatech&theme=default">
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna58rj&theme=default">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=anagaunatech&theme=default">
 
 </p>
  
