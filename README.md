@@ -1,7 +1,7 @@
 <div>  
 <a href="https://github.com/anagaunadev"><img src="https://img.shields.io/github/followers/anagaunadev?label=follow&style=social&link=https://www.github.com/anagaunadev/" height="22" title="Follow me" align="right" alt="GitHub-Followers"></a> <img src="https://komarev.com/ghpvc/?username=anagaunadev&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow&link=https://www.github.com/anagaunadev/" title="Profile views" align="right" alt="GitHub-Profile"/> 
 
-👩 Hi, I'm Ana Gauna 
+👩 Hi, I'm Ana Mercedes Gauna 
 ---
   
 <p align="justify"> 
