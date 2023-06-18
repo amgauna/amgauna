@@ -15,26 +15,26 @@
 
   
 ---
-⭐⭐⭐ Github Top Languages Statistics (@amgauna58rj):
+⭐⭐⭐ Github Top Languages Statistics (@AnaGaunaDev):
 
 <p align = "center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anagaunatech&theme=default"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anagaunadev&theme=default"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagaunatech&layout=compact&langs_count=30&theme=default">   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagaunadev&layout=compact&langs_count=30&theme=default">   
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=anagaunatech&theme=default">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=anagaunadev&theme=default">
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=anagaunatech&theme=default">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=anagaunadev&theme=default">
 
 </p>
  
 ---
 🏠 My Social Networks: <br />
 
-<a href="https://www.twitter.com/amgauna58rj/"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.facebook.com/amgauna58rj/"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
-<a href="https://www.instagram.com/amgauna58rj/"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.twitter.com/anagaunatech/"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.facebook.com/anagaunatech/"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="https://www.instagram.com/anagaunatech/"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://www.behance.net/amgauna/"> ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/amgauna/"> ![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
 <a href="https://www.meetup.com/pt-BR/members/224719753/"> ![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)</a>
