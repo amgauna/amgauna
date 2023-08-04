@@ -10,23 +10,22 @@
 ⭐ <b> Github Top Languages: </b>
 
  <div align="center">  
-<a href="https://github.com/anagaunadev"> 
+ <a href="https://github.com/anagaunadev"> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=anagaunadev&theme=default" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=anagaunadev&theme=default" />
   </a>
 </div>
 
 ---
-👩🏻 Hi, I'm Ana Mercedes Gauna 
 <div align="right">   
 <a href="https://github.com/anagaunadev">
 <img src="https://img.shields.io/github/followers/anagaunadev?label=follow&style=social&link=https://www.github.com/anagaunadev/" 
- title="Follow me" alt="Followers" />
-</a> 
+ title="Follow me" alt="Followers" /> </a> 
 <img src="https://komarev.com/ghpvc/?username=anagaunadev&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow&link=https://www.github.com/anagaunadev/" title="Profile views" alt="Profile views" /> 
 </div>
  
---- 
+👩🏻 <b> Hi, I'm Ana Mercedes Gauna </b>
+
 <p align="justify"> 
 👩🏻‍💻 I have been working experience since 1985, as a Software Analyst, Windows Technical Support Analyst, Windows Server Analyst, Data Analyst, Web Developer, FrontEnd, BackEnd, Graphic Designer, project administration, service management, digital marketing and routine office work, in Rio de Janeiro, RJ, Brazil. </p>
 
@@ -39,7 +38,7 @@
 💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
 
 ---
-⭐ Github Total Contributions :
+⭐ <b> Github Total Contributions: </b>
 
 <div align="center">  
 <a href="https://github.com/anagaunadev">
