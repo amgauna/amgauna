@@ -1,9 +1,10 @@
-⭐ <b> Github Most Used Languages: </b>
+⭐ <b> Github Total Contributions: </b>
 
- <div align="center">  
-<a href="https://github.com/anagaunadev"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagaunadev&layout=compact&langs_count=28&theme=default" /> 
-</a>
+<div align="center">  
+<a href="https://github.com/anagaunadev">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anagaunadev&theme=default"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anagaunadev&theme=default" />  
+  </a>
 </div>
 
 ---
@@ -29,16 +30,6 @@
 👩🏻‍🎓 I'm currently studying the technologies & innovations that were born in the 21st century! I studied in 1997: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. </p>
   
 💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
-
----
-⭐ <b> Github Total Contributions: </b>
-
-<div align="center">  
-<a href="https://github.com/anagaunadev">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anagaunadev&theme=default"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anagaunadev&theme=default" />  
-  </a>
-</div>
  
 ---
 ⭐ <b> Github Top Languages: </b>
@@ -50,6 +41,15 @@
   <a href="https://github.com/anagaunadev">  
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=anagaunadev&theme=default" />
   </a>
+</div>
+
+---
+⭐ <b> Github Most Used Languages: </b>
+
+ <div align="center">  
+<a href="https://github.com/anagaunadev"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagaunadev&layout=compact&langs_count=28&theme=default" /> 
+</a>
 </div>
 
 ---
