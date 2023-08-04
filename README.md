@@ -7,7 +7,7 @@
 ---
   
 <p align="justify"> 
-👩‍💼 I have been working experience since 1985, as a Software Analyst, Windows Technical Support Analyst, Windows Server Analyst, Data Analyst, Web Developer, Graphic Designer, project administration, service management, digital marketing and routine office work, in Rio de Janeiro, RJ, Brazil. 
+👩‍💼 I have been working experience since 1985, as a Software Analyst, Windows Technical Support Analyst, Windows Server Analyst, Data Analyst, Web Developer, FrontEnd, BackEnd, Graphic Designer, project administration, service management, digital marketing and routine office work in Rio de Janeiro, RJ, Brazil. 
   
 🪟 My first website is from 1998 (http://registro.br). I've graduated as a data processing technologist since 2003, graduated as a computer programmer since 1997, and graduated in administration techniques since 1983.
 
