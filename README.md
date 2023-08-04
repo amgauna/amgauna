@@ -17,7 +17,8 @@
 </div>
 
 ---
-<div align="center">   
+👩🏻 Hi, I'm Ana Mercedes Gauna 
+<div align="right">   
 <a href="https://github.com/anagaunadev">
 <img src="https://img.shields.io/github/followers/anagaunadev?label=follow&style=social&link=https://www.github.com/anagaunadev/" 
  title="Follow me" alt="Followers" />
@@ -25,9 +26,6 @@
 <img src="https://komarev.com/ghpvc/?username=anagaunadev&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow&link=https://www.github.com/anagaunadev/" title="Profile views" alt="Profile views" /> 
 </div>
  
----
-👩🏻 Hi, I'm Ana Mercedes Gauna 
-
 --- 
 <p align="justify"> 
 👩🏻‍💻 I have been working experience since 1985, as a Software Analyst, Windows Technical Support Analyst, Windows Server Analyst, Data Analyst, Web Developer, FrontEnd, BackEnd, Graphic Designer, project administration, service management, digital marketing and routine office work, in Rio de Janeiro, RJ, Brazil. </p>
