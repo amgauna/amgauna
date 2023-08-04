@@ -17,9 +17,14 @@
 ---
 ⭐⭐⭐ Github Top Languages Statistics (@AnaGaunaDev):
 
-<p align = "center">
+<div align="center">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anagaunadev&theme=default"> 
+
+  <a href="https://github.com/anagaunadev">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anagaunadev&theme=default" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anagaunadev&theme=default" />
+  </a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagaunadev&layout=compact&langs_count=30&theme=default">   
 
@@ -27,7 +32,7 @@
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=anagaunadev&theme=default">
 
-</p>
+</div>
  
 ---
 🏠 My Social Networks: <br />
