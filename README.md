@@ -35,7 +35,7 @@
 </div>
 
 ---
-⭐ Github Total Languages :
+⭐ Github Most Used Languages :
 
  <div align="center">  
 <a href="https://github.com/anagaunadev"> 
