@@ -33,7 +33,7 @@
 🪟 I've graduated as a data processing technologist since 2003. I've graduated as a computer programmer since 1997 and my first website with own domain is from 1998. I've graduated in administration techniques since 1983. I studied in the city of Rio de Janeiro, RJ, Brazil. </p>
 
 <p align="justify"> 
-👩🏻‍🎓 I am studying the technologies & innovations that were born in the 21st century! I studied in 1997: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. </p>
+👩🏻‍🎓 I'm currently studying the technologies & innovations that were born in the 21st century! I studied in 1997: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. </p>
   
 💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
 
