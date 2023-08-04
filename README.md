@@ -11,7 +11,7 @@
 
 <div align="center">  
   <a href="https://github.com/anagaunadev"> 
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&user=anagaunadev&theme=default" />
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=anagaunadev&theme=default" />
   </a>
   <a href="https://github.com/anagaunadev">  
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=anagaunadev&theme=default" />
