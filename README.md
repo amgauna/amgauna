@@ -27,7 +27,7 @@
 👩🏻 <b> Hi, I'm Ana Mercedes Gauna </b>
 
 <p align="justify"> 
-👩🏻‍💻 I have been working experience since 1985, as a Software Analyst, Windows Technical Support Analyst, Windows Server Analyst, Data Analyst, Web Developer, FrontEnd, BackEnd, Graphic Designer, project administration, service management, digital marketing and routine office work, in Rio de Janeiro, RJ, Brazil. </p>
+👩🏻‍💻 I am a woman, mother of a daughter who is already an adult. I have been working experience since 1985, as a Software Analyst, Windows Technical Support Analyst, Windows Server Analyst, Data Analyst, Web Developer, FrontEnd, BackEnd, Graphic Designer, project administration, service management, digital marketing and routine office work, in Rio de Janeiro, RJ, Brazil. </p>
 
 <p align="justify"> 
 🪟 I've graduated as a data processing technologist since 2003. I've graduated as a computer programmer since 1997 and my first website with own domain is from 1998. I've graduated in administration techniques since 1983. I studied in the city of Rio de Janeiro, RJ, Brazil. </p>
