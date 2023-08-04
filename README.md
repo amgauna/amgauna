@@ -2,17 +2,19 @@
 
  <div align="center">  
 <a href="https://github.com/anagaunadev"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagaunadev&layout=compact&langs_count=30&theme=default" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagaunadev&layout=compact&langs_count=28&theme=default" /> 
 </a>
 </div>
 
 --- 
 ⭐ <b> Github Top Languages: </b>
 
- <div align="center">  
- <a href="https://github.com/anagaunadev"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=anagaunadev&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=anagaunadev&theme=default" />
+<div align="center">  
+  <a href="https://github.com/anagaunadev"> 
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=anagaunadev&theme=default" />
+  </a>
+  <a href="https://github.com/anagaunadev">  
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=anagaunadev&theme=default" />
   </a>
 </div>
 
@@ -20,8 +22,11 @@
 <div align="right">   
 <a href="https://github.com/anagaunadev">
 <img src="https://img.shields.io/github/followers/anagaunadev?label=follow&style=social&link=https://www.github.com/anagaunadev/" 
- title="Follow me" alt="Followers" /> </a> 
+ title="Follow me" alt="Followers" /> 
+</a> 
+<a href="https://github.com/anagaunadev">
 <img src="https://komarev.com/ghpvc/?username=anagaunadev&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow&link=https://www.github.com/anagaunadev/" title="Profile views" alt="Profile views" /> 
+</a>
 </div>
  
 👩🏻 <b> Hi, I'm Ana Mercedes Gauna </b>
