@@ -15,21 +15,32 @@
 
   
 ---
-⭐ Github Statistics :
+⭐ Github Total Contributions :
 
 <div align="center">  
 <a href="https://github.com/anagaunadev">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anagaunadev&theme=default"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anagaunadev&theme=default" />  
----  
+  </a>
+</div>
+
+--- 
+⭐ Github Top Languages :
+
+ <div align="center">  
+<a href="https://github.com/anagaunadev"> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=anagaunadev&theme=default" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=anagaunadev&theme=default" />
+  </a>
+</div>
+
 ---
+⭐ Github Total Languages :
+
+ <div align="center">  
+<a href="https://github.com/anagaunadev"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagaunadev&layout=compact&langs_count=30&theme=default" /> 
 </a>
 </div>
  
 ---
-🏠 My Social Networks: <br />
-
----  
