@@ -3,20 +3,6 @@
   <img src="https://img.shields.io/github/followers/anagaunadev?label=follow&style=social&link=https://www.github.com/anagaunadev/" title="Follow me" alt="Followers"></a> 
 <img src="https://komarev.com/ghpvc/?username=anagaunadev&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow&link=https://www.github.com/anagaunadev/" title="Profile views" alt="Profile"/> 
 
-👩🏻 Hi, I'm Ana Mercedes Gauna 
----
-  
-<p align="justify"> 
-👩🏻‍💻 I have been working experience since 1985, as a Software Analyst, Windows Technical Support Analyst, Windows Server Analyst, Data Analyst, Web Developer, FrontEnd, BackEnd, Graphic Designer, project administration, service management, digital marketing and routine office work, in Rio de Janeiro, RJ, Brazil. </p>
-
-<p align="justify"> 
-🪟 I've graduated as a data processing technologist since 2003. I've graduated as a computer programmer since 1997 and my first website with own domain is from 1998. I've graduated in administration techniques since 1983. I studied in the city of Rio de Janeiro, RJ, Brazil. </p>
-
-<p align="justify"> 
-👩🏻‍🎓 I am studying the technologies & innovations that were born in the 21st century! I studied in 1997: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. </p>
-  
-💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
-
 ---
 ⭐ Github Most Used Languages :
 
@@ -35,6 +21,22 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=anagaunadev&theme=default" />
   </a>
 </div>
+
+---
+
+👩🏻 Hi, I'm Ana Mercedes Gauna 
+---
+  
+<p align="justify"> 
+👩🏻‍💻 I have been working experience since 1985, as a Software Analyst, Windows Technical Support Analyst, Windows Server Analyst, Data Analyst, Web Developer, FrontEnd, BackEnd, Graphic Designer, project administration, service management, digital marketing and routine office work, in Rio de Janeiro, RJ, Brazil. </p>
+
+<p align="justify"> 
+🪟 I've graduated as a data processing technologist since 2003. I've graduated as a computer programmer since 1997 and my first website with own domain is from 1998. I've graduated in administration techniques since 1983. I studied in the city of Rio de Janeiro, RJ, Brazil. </p>
+
+<p align="justify"> 
+👩🏻‍🎓 I am studying the technologies & innovations that were born in the 21st century! I studied in 1997: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. </p>
+  
+💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
 
 ---
 ⭐ Github Total Contributions :
