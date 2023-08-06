@@ -1,20 +1,20 @@
 ⭐ <b> Github Total Contributions: </b>
 
 <div align="center">  
-<a href="https://github.com/anagaunadev">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anagaunadev&theme=default"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anagaunadev&theme=default" />  
+<a href="https://github.com/amgauna">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amgauna&theme=default" />  
   </a>
 </div>
 
 ---
 <div align="right">   
-<a href="https://github.com/anagaunadev">
-<img src="https://img.shields.io/github/followers/anagaunadev?label=follow&style=social&link=https://www.github.com/anagaunadev/" 
+<a href="https://github.com/amgauna">
+<img src="https://img.shields.io/github/followers/amgauna?label=follow&style=social&link=https://www.github.com/amgauna/" 
  title="Follow me" alt="Followers" /> 
 </a> 
-<a href="https://github.com/anagaunadev">
-<img src="https://komarev.com/ghpvc/?username=anagaunadev&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow&link=https://www.github.com/anagaunadev/" title="Profile views" alt="Profile views" /> 
+<a href="https://github.com/amgauna">
+<img src="https://komarev.com/ghpvc/?username=amgauna&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow&link=https://www.github.com/amgauna/" title="Profile views" alt="Profile views" /> 
 </a>
 </div>
 
@@ -35,11 +35,11 @@
 ⭐ <b> Github Top Languages: </b>
 
 <div align="center">  
-  <a href="https://github.com/anagaunadev"> 
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=anagaunadev&theme=default" />
+  <a href="https://github.com/amgauna"> 
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&theme=default" />
   </a>
-  <a href="https://github.com/anagaunadev">  
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=anagaunadev&theme=default" />
+  <a href="https://github.com/amgauna">  
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna&theme=default" />
   </a>
 </div>
 
