@@ -31,7 +31,7 @@
 💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
  
 ---
-⭐ <b> Github Top Languages from ANA MERCEDES GAUNA: </b>
+⭐ <b> Github Top Languages (ANA MERCEDES GAUNA): </b>
 
 <div align="center">  
   <a href="https://github.com/amgauna"> 
@@ -43,7 +43,7 @@
 </div>
 
 ---
-⭐ <b> Github Most Used Languages from ANA MERCEDES GAUNA: </b>
+⭐ <b> Github Most Used Languages (ANA MERCEDES GAUNA): </b>
 
  <div align="center">  
 <a href="https://github.com/amgauna"> 
