@@ -1,4 +1,4 @@
-⭐ <b> Github Total Contributions: </b>
+⭐ <b> Github Total Contributions from ANA MERCEDES GAUNA: </b>
 
 <div align="center">  
 <a href="https://github.com/amgauna">
@@ -17,7 +17,7 @@
 </a>
 </div>
 
-👩🏻 <b> Hi, I'm Ana Mercedes Gauna </b>
+👩🏻 <b> Hi, I'm ANA MERCEDES GAUNA: </b>
 
 <p align="justify"> 
 👩🏻‍💻 I am a woman, a mother, my daughter is already an adult. I have been working experience since 1985, as a Software Analyst, Windows Technical Support Analyst, Windows Server Analyst, Data Analyst, Web Developer, FrontEnd, BackEnd, Graphic Designer, project administration, service management, digital marketing and routine office work, in Rio de Janeiro, RJ, Brazil. </p>
@@ -31,7 +31,7 @@
 💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
  
 ---
-⭐ <b> Github Top Languages: </b>
+⭐ <b> Github Top Languages from ANA MERCEDES GAUNA: </b>
 
 <div align="center">  
   <a href="https://github.com/amgauna"> 
@@ -43,7 +43,7 @@
 </div>
 
 ---
-⭐ <b> Github Most Used Languages: </b>
+⭐ <b> Github Most Used Languages from ANA MERCEDES GAUNA: </b>
 
  <div align="center">  
 <a href="https://github.com/amgauna"> 
