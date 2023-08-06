@@ -1,4 +1,4 @@
-⭐ <b> Github Total Contributions from ANA MERCEDES GAUNA: </b>
+⭐ <b> Github Total Contributions - ANA MERCEDES GAUNA </b>
 
 <div align="center">  
 <a href="https://github.com/amgauna">
