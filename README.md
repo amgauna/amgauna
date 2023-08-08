@@ -35,8 +35,8 @@
 
 <div align="center">
  <a href="https://github.com/amgauna/github-readme-stats" />
-  <img width=300 height=200 src="https://github-readme-stats.vercel.app/api?username=amgauna&langs_count=30&show_icons=true&theme=default" />
-  <img width=300 height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> 
+  <img width=300 height=300 src="https://github-readme-stats.vercel.app/api?username=amgauna&langs_count=30&show_icons=true&theme=default" />
+  <img width=200 height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> 
  </a>
  
 ---
