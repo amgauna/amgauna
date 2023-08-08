@@ -1,13 +1,3 @@
-⭐ <b> Github Total Contributions - ANA MERCEDES GAUNA (@amgauna)</b>
-
-<div align="center">  
-<a href="https://github.com/amgauna/github-readme-stats">
-  <img width=400 height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default">
-  <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default">
-</a>
-</div>
-
----
 <div align="right">   
 <a href="https://github.com/amgauna/">
 <img src="https://img.shields.io/github/followers/amgauna?label=follow&style=social&link=https://www.github.com/amgauna/" 
@@ -30,7 +20,17 @@
 👩🏻‍🎓 I'm currently studying the technologies & innovations that were born in the 21st century! I studied in 1997: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. </p>
   
 💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
- 
+
+---
+⭐ <b> Github Total Contributions - ANA MERCEDES GAUNA (@amgauna)</b>
+
+<div align="center">  
+<a href="https://github.com/amgauna/github-readme-stats">
+  <img width=400 height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default">
+  <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default">
+</a>
+</div>
+
 ---
 ⭐ <b> Github Top Languages - ANA MERCEDES GAUNA (@amgauna)</b>
 
