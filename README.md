@@ -51,3 +51,21 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amgauna&theme=default" />  
 </a>
 </div>
+
+---
+
+<a href="https://github.com/amgauna/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amgauna" />
+</a>
+<a href="https://github.com/amgauna/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=29&card_width=320" />
+</a>
+
+---
+
+<a href="https://github.com/amgauna/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amgauna&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/amgauna/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amgauna&repo=convoychat" />
+</a>
