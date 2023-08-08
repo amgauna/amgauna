@@ -3,15 +3,9 @@
 <div align="center">  
 <a href="https://github.com/amgauna">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaguna&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaguna&show_icons=true&theme=vamp">
   </a>
 </div>
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=dark">
-  <source srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=vamp">
-</picture>
-
 ---
 <div align="right">   
 <a href="https://github.com/amgauna">
