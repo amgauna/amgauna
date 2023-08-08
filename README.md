@@ -2,8 +2,8 @@
 
 <div align="center">  
 <a href="https://github.com/amgauna/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default">
+  <img width=300 height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default">
+  <img width=300 height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default">
 </a>
   </a>
 </div>
