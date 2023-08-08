@@ -38,6 +38,9 @@
   <a href="https://github.com/amgauna/github-readme-stats">
      <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&theme=default" />
   </a>
+</div>
+
+<div align="center">  
   <a href="https://github.com/amgauna/github-readme-stats">  
      <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna&theme=default" />
   </a>
@@ -47,15 +50,13 @@
 ⭐ <b> Github Most Used Languages - ANA MERCEDES GAUNA (@amgauna)</b>
 
  <div align="center">  
-<a href="https://github.com/amgauna/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&link="https://github.com/amgauna/github-readme-stats"&theme=default"> 
+     <a href="https://github.com/amgauna/convoychat" />
+     <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=29&card_width=320" />
+ </a>
+ </div>
+  
+<div align="center">  
+  <a href="https://github.com/amgauna/github-readme-stats" />
   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amgauna&theme=default" />  
 </a>
 </div>
-
----
-
-<a href="https://github.com/amgauna/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=29&card_width=320" />
-</a>
-
