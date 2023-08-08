@@ -1,8 +1,8 @@
-⭐ <b> Github Total Contributions - ANA MERCEDES GAUNA </b>
+⭐ <b> Github Total Contributions - ANA MERCEDES GAUNA (@amgauna)</b>
 
 <div align="center">  
 <a href="https://github.com/amgauna">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default)
+  ![Amgauna's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default">
   </a>
 </div>
@@ -18,7 +18,7 @@
 </a>
 </div>
 
-👩🏻 <b> Hi, I'm ANA MERCEDES GAUNA: </b>
+👩🏻 <b> Hi, I'm ANA MERCEDES GAUNA (@amgauna) </b>
 
 <p align="justify"> 
 👩🏻‍💻 I am a woman, a mother, my daughter is already an adult. I have been working experience since 1985, as a Software Analyst, Windows Technical Support Analyst, Windows Server Analyst, Data Analyst, Web Developer, FrontEnd, BackEnd, Graphic Designer, project administration, service management, digital marketing and routine office work, in Rio de Janeiro, RJ, Brazil. </p>
@@ -32,7 +32,7 @@
 💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
  
 ---
-⭐ <b> Github Top Languages - ANA MERCEDES GAUNA </b>
+⭐ <b> Github Top Languages - ANA MERCEDES GAUNA (@amgauna)</b>
 
 <div align="center">  
   <a href="https://github.com/amgauna"> 
@@ -44,7 +44,7 @@
 </div>
 
 ---
-⭐ <b> Github Most Used Languages - ANA MERCEDES GAUNA </b>
+⭐ <b> Github Most Used Languages - ANA MERCEDES GAUNA (@amgauna)</b>
 
  <div align="center">  
 <a href="https://github.com/amgauna"> 
