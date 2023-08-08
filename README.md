@@ -2,6 +2,7 @@
 
 <div align="center">  
 <a href="https://github.com/amgauna">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default">
   </a>
 </div>
