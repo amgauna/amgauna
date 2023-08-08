@@ -31,6 +31,14 @@
 </div>
 
 ---
+⭐ <b> Github Stats </b>
+
+<div align="center">
+ <a href="https://github.com/amgauna/github-readme-stats" />
+  <img width=500 height=100% src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> 
+ </a>
+
+---
 ⭐ <b> Github Most Used Languages </b>
 
  <div align="center">  
@@ -48,14 +56,5 @@
      <img width=500 height=100% src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&langs_count=30&username=amgauna&theme=default" />
   </a>
 </div>
-
----
-⭐ <b> Github Stats </b>
-
-<div align="center">
- <a href="https://github.com/amgauna/github-readme-stats" />
-  <img width=500 height=100% src="https://github-readme-stats.vercel.app/api?username=amgauna&langs_count=30&show_icons=true&theme=default" />
-  <img width=500 height=100% src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> 
- </a>
  
 ---
