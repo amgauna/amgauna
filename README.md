@@ -26,8 +26,7 @@
 -
 <div align="center">  
 <a href="https://github.com/amgauna/github-readme-stats">
-  <img width=500 height=500 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default">
-  <img width=300 height=300 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" />  
+  <img width=500 height=500 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default"> 
 </a>
 </div>
 
@@ -41,6 +40,9 @@
  <a href="https://github.com/amgauna/github-readme-stats" />
   <img width=400 height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=amgauna&langs_count=30&show_icons=true&theme=default">
 </a>
+ <a href="https://github.com/amgauna/github-readme-stats" />
+  <img width=300 height=300 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> 
+ </a>
 </div>
 
 ---
