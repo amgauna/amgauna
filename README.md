@@ -25,8 +25,8 @@
 ⭐ <b> Github Total Contributions - ANA MERCEDES GAUNA (@amgauna)</b>
 -
 <div align="center">  
-<a href="https://github.com/amgauna/github-readme-stats">
-  <img width=500 height=500 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default"> 
+<a href="https://github.com/amgauna/github-readme-stats" />
+  <img width=500 height=500 src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> 
 </a>
 </div>
 
@@ -34,14 +34,10 @@
 ⭐ <b> Github Most Used Languages - ANA MERCEDES GAUNA (@amgauna)</b>
 -
  <div align="center">  
-     <a href="https://github.com/amgauna/convoychat" />
-     <img width=400 height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=320" /> 
-     </a>
- <a href="https://github.com/amgauna/github-readme-stats" />
-  <img width=400 height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=amgauna&langs_count=30&show_icons=true&theme=default">
-</a>
- <a href="https://github.com/amgauna/github-readme-stats" />
-  <img width=300 height=300 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> 
+     <a href="https://github.com/amgauna/github-readme-stats" />
+     <img width=400 height=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=320" /> 
+  <img width=400 height=400 src="https://github-readme-stats.vercel.app/api?username=amgauna&langs_count=30&show_icons=true&theme=default">
+  <img width=300 height=300 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> 
  </a>
 </div>
 
@@ -49,10 +45,8 @@
 ⭐ <b> Github Top Languages - ANA MERCEDES GAUNA (@amgauna)</b>
 -
 <div align="center">  
-  <a href="https://github.com/amgauna/github-readme-stats">
-     <img width=400 height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&langs_count=30&username=amgauna&theme=default" />
-  </a>
-  <a href="https://github.com/amgauna/github-readme-stats">  
-     <img width=400 height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&langs_count=30&username=amgauna&theme=default" />
+  <a href="https://github.com/amgauna/github-readme-stats" />
+     <img width=400 height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&langs_count=30&username=amgauna&theme=default" />
+     <img width=400 height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&langs_count=30&username=amgauna&theme=default" />
   </a>
 </div>
