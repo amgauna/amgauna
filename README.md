@@ -2,21 +2,14 @@
 
 <div align="center">  
 <a href="https://github.com/amgauna">
-  ![Amgauna's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaguna&show_icons=true">
   </a>
 </div>
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=amaguna&show_icons=true" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=dark">
+  <source srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=vamp">
 </picture>
 
 ---
