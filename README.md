@@ -47,7 +47,7 @@
 
  <div align="center">  
 <a href="https://github.com/amgauna"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=pie&langs_count=28&theme=default" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=pie&link="https://github.com/amgauna/github-readme-stats"&theme=default"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amgauna&theme=default" />  
 </a>
 </div>
