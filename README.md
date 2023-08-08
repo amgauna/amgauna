@@ -3,7 +3,7 @@
 <div align="center">  
 <a href="https://github.com/amgauna">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaguna&show_icons=true&theme=vamp">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaguna&show_icons=true&theme=dark">
   </a>
 </div>
 ---
@@ -47,7 +47,7 @@
 
  <div align="center">  
 <a href="https://github.com/amgauna"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=compact&langs_count=28&theme=default" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgauna&layout=pie&langs_count=28&theme=default" /> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amgauna&theme=default" />  
 </a>
 </div>
