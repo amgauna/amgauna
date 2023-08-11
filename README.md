@@ -35,7 +35,7 @@
 
 <div align="center">
  <a href="https://github.com/amgauna/github-readme-stats" />
-  <img width=500 height=300 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> 
+  <img width=500 height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> 
  </a>
 
 ---
@@ -43,7 +43,7 @@
 
  <div align="center">  
      <a href="https://github.com/amgauna/github-readme-stats" />
-     <img width=500 height=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=320" />
+     <img width=500 height=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=320" />
      </a>
 </div>
 
@@ -52,8 +52,8 @@
 
 <div align="center">  
   <a href="https://github.com/amgauna/github-readme-stats" />
-     <img width=500 height=300 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&langs_count=30&username=amgauna&theme=default" />
-     <img width=500 height=300 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&langs_count=30&username=amgauna&theme=default" />
+     <img width=500 height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&langs_count=30&username=amgauna&theme=default" />
+     <img width=500 height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&langs_count=30&username=amgauna&theme=default" />
   </a>
 </div>
  
