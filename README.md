@@ -41,10 +41,12 @@
      </a>
  </div>
  
- <div align="right">
+ <div align="right top">
   <a href="https://github.com/amgauna/github-readme-stats" />
      <img width=300 height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&langs_count=30&username=amgauna&theme=default" />
   </a>
+ </div>
+  <div align="right botton">
   <a href="https://github.com/amgauna/github-readme-stats" />
      <img width=300 height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&langs_count=30&username=amgauna&theme=default" />
   </a>
