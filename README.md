@@ -19,23 +19,20 @@
 💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
 
 ---
-⭐ <b> Github Stats & Total Contributions </b>
+⭐ <b> Github Stats ⭐ Total Contributions ⭐ Most Used Languages ⭐ Top Languages </b>
 
 <div class="container"> 
  <div class="row">
 <a href="https://github.com/amgauna/github-readme-stats" />
   <img width=400 height=auto align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> 
-  <img width=300 height=auto align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> 
+  <img width=400 height=auto align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=320" />
  </a>
 </div> </div>
-
----
-⭐ <b> Github Most Used Languages & Top Languages </b>
 
 <div class="container">   
  <div class="row">
    <a href="https://github.com/amgauna/github-readme-stats" />
-     <img width=400 height=auto align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=320" />
+    <img width=300 height=auto align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" />
      <img width=300 height=auto align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&langs_count=30&username=amgauna&theme=default" />
      <img width=300 height=auto align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&langs_count=30&username=amgauna&theme=default" />
   </a>  
