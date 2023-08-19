@@ -12,17 +12,14 @@
 
 <div class="col-1" wight="50%" align="justify"> 
  
-I am Brazilian, female, mother of an adult daughter. I studied, live and work in the South Zone of the City of Rio de Janeiro, RJ, Brazil.  💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
+I am Brazilian, female, 58 years old, mother, I have an adult daughter. Since 1987 I work using a computer with a modem, I used IRC with several BBS in Brazil. Since 1995 I have been using the internet in Brazil. I live and work in the City of Rio de Janeiro, RJ, Brazil.
+💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🍰.
 
-Since 1983 until today, I am an Administration Technician and I have worked performing services in the areas of administration, marketing and accounting, for companies in Rio de Janeiro, RJ, Brazil.
+In 1983 I graduated as an Administration Technician. In 1987 I graduated as a Computer Programmer (I completed a technical course lasting 12 months), I studied operating systems, programming logic, algorithms, databases, programming languages, C, Pascal, Cobol, SQL, since 1998 I have websites with their own domain registration on the internet. Since then I have been working with services in the areas of administration, marketing and accounting for companies in Rio de Janeiro, RJ, Brazil.
 
-Since 1987 until today, I've been a Computer Programmer, I've studied operating systems, programming logic, algorithms, databases, programming languages, C, Pascal, Cobol, SQL, etc. months). Since 1998 I have websites with their own domain registration on the internet.
+In 2003 I concluded a superior course of Technology in Data Processing. I have a professional registration at CRA-RJ: 03-03161 as a Technologist in Data Processing. Since then I have been working as IT Manager, Technical Project Administration Manager, providing technical support services, installation and configuration (software and wireless equipment), systems analysis, software analysis, data analysis, web development of websites and blogs , front-end, back-end), graphic designer, digital marketing (Google Marketing Platform), with services for companies in Rio de Janeiro, RJ, Brazil.
 
-Since 2003 until today, I am a Technologist in Data Processing, I have a professional registration at CRA-RJ: 03-03161. I already worked as IT Manager, Project Administration Analyst, Software Analyst, Data Processing Analyst, Web Developer (FrontEnd and BackEnd), Graphic Designer, Digital Marketing Analyst (Google Marketing Platform), with services for companies in Rio de Janeiro, RJ, Brazil.
-
-From 1996 to 2022, I worked as a Windows Technical Support Analyst giving technical support on Microsoft Windows, Microsoft Windows Server, Office 365 (Word, Excel, Powerpoint, Outlook), computer assembly, software installation and configuration, installation and configuration of various equipment: ethernet network, wireless network, routers, computers, notebooks, printers, etc., for companies in Rio de Janeiro, RJ, Brazil.
-
-Since 2015 until today, I've been working as a freelancer on the internet, and I'm back to making websites on the internet. I have completed and completed higher education (2003). I am currently re-reading several books, handouts and tutorials. I bought new books on Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, SQL, JQuery, AngularJS, NodeJS, VueJS, Java, Python, etc.
+Currently, I'm working as a freelancer on the internet and I'm back to making websites on the internet. I have completed and completed higher education (2003). Currently, I am rereading several books, handouts and tutorials. I bought several new books: Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, SQL, JQuery, Angular.JS, Node.JS, Vue.JS, Java, Python, etc.
 </div>
 
 ---
