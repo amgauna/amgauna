@@ -19,10 +19,7 @@
 💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
 
 ---
-⭐ <b> Github Stats ⭐ Total Contributions ⭐ Most Used Languages ⭐ Top Languages </b>
-
-<div class="container"> 
-<div class="row">
+⭐ <b> Github Stats Most Used Languages & Top Languages </b>
 
 <div class="left"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
@@ -36,13 +33,14 @@
 <img width="350" height="auto" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&langs_count=30&username=amgauna&theme=default" /> </a>
 </div> 
 
+---
+⭐ <b> Github Stats Total Contributions </b>
+
 <div class="botton"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
 <img width="300" height="auto" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> </a>
 <a href="https://github.com/amgauna/github-readme-stats" />
 <img width="400" height="auto" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> </a>  
 </div> 
-
-</div> </div>
 
 ---
