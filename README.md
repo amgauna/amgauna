@@ -24,7 +24,7 @@
 
 <div class="top-left"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
-<img width="425" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=320" /> </a>
+<img width="400" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=320" /> </a>
 </div>
 
 <div class="top-right">
@@ -40,7 +40,7 @@
 
 <div class="right"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
-<img width="300" height="auto" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> </a>
-<a href="https://github.com/amgauna/github-readme-stats" />
 <img width="440" height="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> </a>  
+<a href="https://github.com/amgauna/github-readme-stats" />
+<img width="300" height="auto" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> </a>
 </div> 
