@@ -29,7 +29,7 @@
  </a>
 </div> 
 
-<div class="container align="right"> 
+<div class="container" align="right"> 
    <a href="https://github.com/amgauna/github-readme-stats" />
     <img width=400 height=auto align="top right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=320" />
     <img width=300 height=auto align="top right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" />
