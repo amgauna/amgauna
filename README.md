@@ -20,7 +20,7 @@
 
 
 ---
-⭐ <b> Github Stats: </b> <b color="violet"> Most Used Languages & Top Languages </b>
+⭐ <b> Github Stats: </b> <b style="color:violet;"> Most Used Languages & Top Languages </b>
 
 <div class="top-left"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
@@ -36,7 +36,7 @@
 
 
 ---
-⭐ <b> Github Stats: </b> <b color="green"> Total Contributions </b>
+⭐ <b> Github Stats: </b> <b style="color:green;"> Total Contributions </b>
 
 <div class="right"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
