@@ -32,25 +32,22 @@
 ---
 ⭐ <b> Github Most Used Languages & Top Languages </b>
 
+<div class=container">
 <div class="row">
- <div class=container">
-  
- <div align="left">  
-     <a href="https://github.com/amgauna/github-readme-stats" />
+
+   
+     <a href="https://github.com/amgauna/github-readme-stats" align="left" />
      <img width=300 height=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=320" />
      </a>
- </div>
- 
- <div align="right top">
-  <a href="https://github.com/amgauna/github-readme-stats" />
+
+  <a href="https://github.com/amgauna/github-readme-stats" align="right top" />
      <img width=300 height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&langs_count=30&username=amgauna&theme=default" />
   </a>
- </div>
-  <div align="right botton">
-  <a href="https://github.com/amgauna/github-readme-stats" />
+
+  <a href="https://github.com/amgauna/github-readme-stats" align="right botton" />
      <img width=300 height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&langs_count=30&username=amgauna&theme=default" />
   </a>
-</div>
+  
 </div> </div>
 
 ---
