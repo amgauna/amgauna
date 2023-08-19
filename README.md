@@ -8,11 +8,11 @@
 </a>
 </div>
 
-👩🏻 <b> Hi, I'm ANA MERCEDES GAUNA </b>
+👩🏻‍💻 <b> Hi, I'm ANA MERCEDES GAUNA </b>
 
 <div class="col-1" wight="50%" align="justify"> 
  
-👩🏻‍💻 I am Brazilian, female, mother of an adult daughter. I studied, live and work in the South Zone of the City of Rio de Janeiro, RJ, Brazil.  💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
+I am Brazilian, female, mother of an adult daughter. I studied, live and work in the South Zone of the City of Rio de Janeiro, RJ, Brazil.  💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
 
 Since 1983 until today, I am an Administration Technician and I have worked performing services in the areas of administration, marketing and accounting, for companies in Rio de Janeiro, RJ, Brazil.
 
