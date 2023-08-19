@@ -32,9 +32,8 @@
 ---
 ⭐ <b> Github Most Used Languages & Top Languages </b>
 
-<div class=container">
+<div class="container">
 <div class="row">
-
    
      <a href="https://github.com/amgauna/github-readme-stats" align="left" />
      <img width=300 height=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=320" />
