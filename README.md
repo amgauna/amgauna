@@ -21,7 +21,7 @@
 ---
 ⭐ <b> Github Stats ⭐ Total Contributions ⭐ Most Used Languages ⭐ Top Languages </b>
 
-<div class="container"> 
+<div class="container right"> 
  <div class="row">
 <a href="https://github.com/amgauna/github-readme-stats" />
   <img width=400 height=auto align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> 
@@ -29,7 +29,7 @@
  </a>
 </div> </div>
 
-<div class="container">   
+<div class="container left">   
  <div class="row">
    <a href="https://github.com/amgauna/github-readme-stats" />
     <img width=300 height=auto align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" />
