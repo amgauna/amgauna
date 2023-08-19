@@ -12,11 +12,17 @@
 
 <div class="col-1" wight="50%" align="justify"> 
  
-👩🏻‍💻 I am a woman, a mother, my daughter is already an adult. I have been working experience since 1985, as a Software Analyst, Windows Technical Support Analyst, Windows Server Analyst, Data Analyst, Web Developer, FrontEnd, BackEnd, Graphic Designer, project administration, service management, digital marketing and routine office work, in Rio de Janeiro, RJ, Brazil. 
+👩🏻‍💻 I am Brazilian, female, mother of an adult daughter. I studied, live and work in the South Zone of the City of Rio de Janeiro, RJ, Brazil.  💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
 
-👩🏻‍🎓 I've graduated as a data processing technologist since 2003. I've graduated as a computer programmer since 1987, studied: programming logic, algorithm, programing languages, etc. My first website with own domain is from 1998. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I've graduated in administration techniques since 1983. I studied in the city of Rio de Janeiro, RJ, Brazil. 
+Since 1983 until today, I am an Administration Technician and I have worked performing services in the areas of administration, marketing and accounting, for companies in Rio de Janeiro, RJ, Brazil.
 
-💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
+Since 1987 until today, I've been a Computer Programmer, I've studied operating systems, programming logic, algorithms, databases, programming languages, C, Pascal, Cobol, SQL, etc. months). Since 1998 I have websites with their own domain registration on the internet.
+
+Since 2003 until today, I am a Technologist in Data Processing, I have a professional registration at CRA-RJ: 03-03161. I already worked as IT Manager, Project Administration Analyst, Software Analyst, Data Processing Analyst, Web Developer (FrontEnd and BackEnd), Graphic Designer, Digital Marketing Analyst (Google Marketing Platform), with services for companies in Rio de Janeiro, RJ, Brazil.
+
+From 1996 to 2022, I worked as a Windows Technical Support Analyst giving technical support on Microsoft Windows, Microsoft Windows Server, Office 365 (Word, Excel, Powerpoint, Outlook), computer assembly, software installation and configuration, installation and configuration of various equipment: ethernet network, wireless network, routers, computers, notebooks, printers, etc., for companies in Rio de Janeiro, RJ, Brazil.
+
+Since 2015 until today, I've been working as a freelancer on the internet, and I'm back to making websites on the internet. I have completed and completed higher education (2003). I am currently re-reading several books, handouts and tutorials. I bought new books on Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, SQL, JQuery, AngularJS, NodeJS, VueJS, Java, Python, etc.
 </div>
 
 ---
