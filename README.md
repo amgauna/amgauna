@@ -11,12 +11,13 @@
 👩🏻 <b> Hi, I'm ANA MERCEDES GAUNA </b>
 
 <div class="col-1" wight="50%" align="justify"> 
-👩🏻‍💻 I am a woman, a mother, my daughter is already an adult. I have been working experience since 1985, as a Software Analyst, Windows Technical Support Analyst, Windows Server Analyst, Data Analyst, Web Developer, FrontEnd, BackEnd, Graphic Designer, project administration, service management, digital marketing and routine office work, in Rio de Janeiro, RJ, Brazil. <br>
-👩🏻‍🎓 I've graduated as a data processing technologist since 2003. I've graduated as a computer programmer since 1987, studied: programming logic, algorithm, programing languages, etc. My first website with own domain is from 1998. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I've graduated in administration techniques since 1983. I studied in the city of Rio de Janeiro, RJ, Brazil. 
-</div>
  
-💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
+👩🏻‍💻 I am a woman, a mother, my daughter is already an adult. I have been working experience since 1985, as a Software Analyst, Windows Technical Support Analyst, Windows Server Analyst, Data Analyst, Web Developer, FrontEnd, BackEnd, Graphic Designer, project administration, service management, digital marketing and routine office work, in Rio de Janeiro, RJ, Brazil. 
 
+👩🏻‍🎓 I've graduated as a data processing technologist since 2003. I've graduated as a computer programmer since 1987, studied: programming logic, algorithm, programing languages, etc. My first website with own domain is from 1998. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I've graduated in administration techniques since 1983. I studied in the city of Rio de Janeiro, RJ, Brazil. 
+
+💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
+</div>
 
 ---
 ⭐ <b> Github Stats: Most Used Languages & Top Languages </b>
