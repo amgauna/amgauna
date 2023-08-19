@@ -20,7 +20,7 @@
 
 
 ---
-⭐ <b> Github Stats Most Used Languages & Top Languages </b>
+⭐ <b> Github Stats: </b> <b color="violet"> Most Used Languages & Top Languages </b>
 
 <div class="top-left"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
@@ -36,11 +36,11 @@
 
 
 ---
-⭐ <b> Github Stats Total Contributions </b>
+⭐ <b> Github Stats: </b> <b color="green"> Total Contributions </b>
 
 <div class="right"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
-<img width="440" height="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> </a>  
+<img width="450" height="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> </a>  
 <a href="https://github.com/amgauna/github-readme-stats" />
-<img width="300" height="auto" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> </a>
+<img width="320" height="auto" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> </a>
 </div> 
