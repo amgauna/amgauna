@@ -23,13 +23,15 @@
 
  <div class="row">
   
-<div class="container" align="left"> 
+<div class="container"> 
+
+<div class="col-6"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
   <img width=400 height=auto align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> 
  </a>
 </div> 
 
-<div class="container" align="right"> 
+<div class="col-6"> 
    <a href="https://github.com/amgauna/github-readme-stats" />
     <img width=400 height=auto align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=320" />
     <img width=300 height=auto align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" />
@@ -38,6 +40,6 @@
   </a>  
 </div> 
 
-</div>
+</div> </div>
 
 ---
