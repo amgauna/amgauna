@@ -14,28 +14,19 @@
 👩🏻‍💻 I am a woman, a mother, my daughter is already an adult. I have been working experience since 1985, as a Software Analyst, Windows Technical Support Analyst, Windows Server Analyst, Data Analyst, Web Developer, FrontEnd, BackEnd, Graphic Designer, project administration, service management, digital marketing and routine office work, in Rio de Janeiro, RJ, Brazil. </p>
 
 <p align="justify"> 
-🪟 I've graduated as a data processing technologist since 2003. I've graduated as a computer programmer since 1997 and my first website with own domain is from 1998. I've graduated in administration techniques since 1983. I studied in the city of Rio de Janeiro, RJ, Brazil. </p>
-
-<p align="justify"> 
-👩🏻‍🎓 I'm currently studying the technologies & innovations that were born in the 21st century! I studied in 1997: programming logic, algorithm, programing languages, etc. I am currently remembering what I studied years ago, reading books, handouts and tutorials. </p>
-  
+👩🏻‍🎓 I've graduated as a data processing technologist since 2003. I've graduated as a computer programmer since 1987, studied: programming logic, algorithm, programing languages, etc. My first website with own domain is from 1998. I am currently remembering what I studied years ago, reading books, handouts and tutorials. I've graduated in administration techniques since 1983. I studied in the city of Rio de Janeiro, RJ, Brazil. </p>
+ 
 💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🌭🍰.
 
 ---
-⭐ <b> Github Total Contributions </b>
+⭐ <b> Github Stats & Total Contributions </b>
 
 <div align="center"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
-  <img width=500 height=100% src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> 
+  <img width=300 height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> 
 </a>
-</div>
-
----
-⭐ <b> Github Stats </b>
-
-<div align="center">
  <a href="https://github.com/amgauna/github-readme-stats" />
-  <img width=500 height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> 
+  <img width=300 height=300 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> 
  </a>
 
 ---
@@ -43,7 +34,7 @@
 
  <div align="center">  
      <a href="https://github.com/amgauna/github-readme-stats" />
-     <img width=500 height=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=320" />
+     <img width=300 height=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=320" />
      </a>
 </div>
 
@@ -52,8 +43,8 @@
 
 <div align="center">  
   <a href="https://github.com/amgauna/github-readme-stats" />
-     <img width=500 height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&langs_count=30&username=amgauna&theme=default" />
-     <img width=500 height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&langs_count=30&username=amgauna&theme=default" />
+     <img width=300 height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&langs_count=30&username=amgauna&theme=default" />
+     <img width=300 height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&langs_count=30&username=amgauna&theme=default" />
   </a>
 </div>
  
