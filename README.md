@@ -21,7 +21,7 @@
 
 ---
 ### ✨ Currently Working
-* 1993 to 2022 - I worked with Windows Technical Support, installation and configuration of various wireless equipment and applications, SQL data backup, SQL data restoration, computer assembly, management of technical projects, implementation of ERP systems, etc.
+* 1993 to 2022 - I worked with Windows Technical Support, installation and configuration of various wireless equipment and applications, SQL data backup/restoration, computer assembly, management of technical projects, implementation of ERP systems, etc.
 * Senior Systems Analyst, Data Analyst, Software Analyst, Web Developer Sites & Blogs (Front-end/Back-end).
 * Graphic Designer - Creating and editing images with Adobe Photoshop and Corel Draw. I use Adobe Behance.
 * Digital Marketing Analyst (Google Marketing Platform: Google AdSense, Google AdWords, Google Analytics).
