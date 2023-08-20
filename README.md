@@ -33,7 +33,7 @@
 * 1995 - I started using the internet in Rio de Janeiro, RJ, Brazil.
 * 1998 - My first website with my own domain at Registro.BR.
 * Website - https://www.anagauna.eti.br and https://www.anagauna.dev.br
-* Blog - <a href="https://mulhertech.blogspot.com">MulherTech Blogger)</a> | 
+* Blog - <a href="https://mulhertech.blogspot.com">MulherTech (Blogger)</a> | 
          <a href="https://anagaunatech.wordpress.com">AnaGaunaTech (Wordpress)</a> | 
          <a href="https://medium.com/@anagauna">@anagauna (Medium)</a>
 
@@ -49,10 +49,10 @@
 ---
 ### ✨ Microsoft Technical Forums (2010-2023)
 * Since 2010 I used the Microsoft Technet and Microsoft MSDN technical forums.
-* Forums Microsoft TechNet - https://social.technet.microsoft.com/profile/amgauna/
-* Forums Microsoft MSDN - https://social.msdn.microsoft.com/profile/amgauna/
-* Courses Microsoft Learn - https://learn.microsoft.com/en-us/users/amgauna/
-* Microsoft Community - https://answers.microsoft.com/pt-br/profile/54fbbb44-9dc0-44a4-90ec-bc55b88a9711/
+* <a href="https://learn.microsoft.com/en-us/users/amgauna/">Microsoft Learn |
+  Fórums <a href="https://social.technet.microsoft.com/profile/amgauna/">Technet</a> e  
+         <a href="https://social.msdn.microsoft.com/profile/amgauna/">MSDN</a> | 
+         <a href="https://answers.microsoft.com/pt-br/profile/54fbbb44-9dc0-44a4-90ec-bc55b88a9711/">Microsoft Community</a>
 
 ---
 ### ✨ Completed Courses
