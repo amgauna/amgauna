@@ -20,7 +20,7 @@ CRA-RJ: 03-03161, professional registration as Technologist in Data Processing. 
 
 Currently, I'm working on the internet managing web projects, as a web developer, frontend, backend, creating websites and blogs with my own domain registration, graphic design, digital marketing (Google Marketing Platform), in Rio de Janeiro, RJ, Brazil.
 
-I bought new books and am rereading handouts and tutorials: Information Security, ISO 27001, ISO 27002, ISO 27003, PMI, Cobit, Itil, Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, SQL, JQuery, Angular.JS, Node.JS, Vue.JS, Java, Python, etc. I'm testing the online execution of several codes.
+In 2015 I bought new books and I'm rereading handouts and tutorials: Information Security, ISO 27001, ISO 27002, ISO 27003, PMI, Cobit, Itil, Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, SQL, JQuery, Angular.JS, Node.JS, Vue.JS, Java, Python, etc. I'm testing the online execution of several codes.
 </div>
 
 ---
