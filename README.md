@@ -41,12 +41,12 @@
 ### ✨ Social Media
 * GitHUB - https://github.com/amgauna/
 * Dev Community - https://dev.to/amgauna/
+* Adobe Behance - https://www.behance.net/amgauna/
+* Linkedin - https://www.linkedin.com/in/amgauna/
 * X (Twitter) - https://twitter.com/amgauna/
 * Facebook - https://www.facebook.com/anagaunatech/
 * Instagram - https://www.instagram.com/amgauna/
-* Linkedin - https://www.linkedin.com/in/amgauna/
 * TikTok - https://www.tiktok.com/@anamgauna
-* Adobe Behance - https://www.behance.net/amgauna/
 * Koo App - https://www.kooapp.com/profile/amgauna
 * Tumblr - https://www.tumblr.com/amgauna/
 * Flickr - https://www.flickr.com/photos/amgauna/
