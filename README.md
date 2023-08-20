@@ -11,16 +11,19 @@
 👩🏻‍💻 <b> Hi, I'm ANA MERCEDES GAUNA </b>
 
 <div class="col-1" wight="50%" align="justify"> 
- 
-I am Brazilian, female, 58 years old, mother, I have an adult daughter. Since 1987 I work using a computer with a modem, I used IRC with several BBS in Brazil. Since 1995 I have been using the internet in Brazil. I live and work in the City of Rio de Janeiro, RJ, Brazil.
 
+I am Brazilian, female, 58 years old, mother, I have an adult daughter. Since 1987 I work using a computer with a modem, I used IRC with several BBS in Brazil. Since 1995 I have been using the internet in Brazil. I work since 1985 until today, with services in the areas of information technology, administration area, marketing area, accounting area, for several companies. I live and work in the City of Rio de Janeiro, RJ, Brazil.
 💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🍰.
 
-In 1983 I graduated as an Administration Technician. In 1987 I graduated as a Computer Programmer (I completed a technical course lasting 12 months), I studied operating systems, programming logic, algorithms, databases, programming languages, C, Pascal, Cobol, SQL, since 1998 I have websites with their own domain registration on the internet. Since then I have been working with services in the areas of administration, marketing and accounting for companies in Rio de Janeiro, RJ, Brazil.
+In 1983, he completed the Administration Techniques course (a professional high school course lasting 3 years).
+In 1987, he completed the Computer Programming course (technical course lasting 12 months).
+In 2003 I completed the Data Processing Technology course (3-year course).
+CRA-RJ: 03-03161, professional registration as Technologist in Data Processing.
+Since 1998 I have registered at http://registro.br managing some sites with their own domain registration on the internet.
 
-In 2003 I concluded a superior course of Technology in Data Processing. I have a professional registration at CRA-RJ: 03-03161 as a Technologist in Data Processing. Since then I have been working as IT Manager, Technical Project Administration Manager, providing technical support services, installation and configuration (software and wireless equipment), systems analysis, software analysis, data analysis, web development of websites and blogs , front-end, back-end), graphic designer, digital marketing (Google Marketing Platform), with services for companies in Rio de Janeiro, RJ, Brazil.
+Currently, I'm working on the internet managing web projects, as a web developer, frontend, backend, creating websites and blogs with my own domain registration, graphic design, digital marketing (Google Marketing Platform), providing services, in Rio de Janeiro, RJ, Brazil.
 
-Currently, I'm working as a freelancer on the internet and I'm back to making websites on the internet. I have completed and completed higher education (2003). Currently, I am rereading several books, handouts and tutorials. I bought several new books: Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, SQL, JQuery, Angular.JS, Node.JS, Vue.JS, Java, Python, etc.
+Currently, I am rereading several books, handouts and tutorials. I bought several new books: Information Security, ISO 27001, ISO 27002, ISO 27003, PMI, Cobit, Itil, Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, SQL, JQuery, Angular.JS, Node .JS, Vue.JS, Java, Python, etc. I'm testing the online execution of several codes.
 </div>
 
 ---
