@@ -53,8 +53,8 @@
   <a href="https://www.tiktok.com/@anamgauna">TikTok</a> | 
   <a href="https://www.kooapp.com/profile/amgauna/">Koo</a> |
   <a href="https://www.tumblr.com/amgauna/">Tumblr</a> | 
-  <a href="https://www.flickr.com/photos/amgauna/">Flickr</a>
-  <a href="https://dev.to/amgauna/">DEV.To</a> 
+  <a href="https://www.flickr.com/photos/amgauna/">Flickr</a> | 
+  <a href="https://dev.to/amgauna/">DEV Community</a> 
 
 ---
 ### ✨ Microsoft Technical Forums (2010-2023)
