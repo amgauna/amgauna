@@ -35,6 +35,7 @@
 * 2010 to 2023 - I used the Microsoft Technet and Microsoft MSDN technical forums.
 * Forums Microsoft TechNet = <a href="https://social.technet.microsoft.com/profile/amgauna/">https://social.technet.microsoft.com/profile/amgauna/</a>
 * Forums Microsoft MSDN = <a href="https://social.msdn.microsoft.com/profile/amgauna/">https://social.msdn.microsoft.com/profile/amgauna/</a>
+* Courses Microsoft Learn = <a href="https://learn.microsoft.com/en-us/users/amgauna/">https://learn.microsoft.com/en-us/users/amgauna/</a>
 
 ---
 ### ✨ Completed Courses
