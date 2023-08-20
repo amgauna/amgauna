@@ -39,8 +39,10 @@
 
 ---
 ### ✨ Social Media
-* <a href="https://github.com/amgauna/">GitHub</a> | <a href="https://dev.to/amgauna/">Dev.To</a> | 
-  <a href="https://www.behance.net/amgauna/">Adobe Behance</a> | <a href="https://www.linkedin.com/in/amgauna/">Linkedin</a> | 
+* <a href="https://github.com/amgauna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="auto" />GitHub</a> |
+  <a href="https://dev.to/amgauna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dev/dev-original.svg" width="30" height="auto" />Dev.To</a> | 
+  <a href="https://www.behance.net/amgauna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="30" height="auto" /> Adobe Behance</a> |
+  <a href="https://www.linkedin.com/in/amgauna/">Linkedin</a> | 
   <a href="https://twitter.com/amgauna/">X (Twitter)</a> | <a href="https://www.facebook.com/anagaunatech/">Facebook</a> | 
   <a href="https://www.instagram.com/amgauna/">Instagram</a> | <a href="https://www.tiktok.com/@anamgauna">TikTok</a> | 
   <a href="https://www.kooapp.com/profile/amgauna/">Koo</a> | <a href="https://www.tumblr.com/amgauna/">Tumblr</a> | 
