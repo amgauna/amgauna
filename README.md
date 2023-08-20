@@ -43,7 +43,10 @@
 * TikTok - https://www.tiktok.com/@anamgauna
 * Tumblr - https://www.tumblr.com/amgauna
 * Adobe Behance - https://www.behance.net/amgauna/
-* 2010 to 2023 - I used the Microsoft Technet and Microsoft MSDN technical forums.
+
+---
+### Microsoft Technical Forums (2010-2023)
+* Since 2010 I used the Microsoft Technet and Microsoft MSDN technical forums.
 * Forums Microsoft TechNet - https://social.technet.microsoft.com/profile/amgauna/
 * Forums Microsoft MSDN - https://social.msdn.microsoft.com/profile/amgauna/
 * Courses Microsoft Learn - https://learn.microsoft.com/en-us/users/amgauna/
