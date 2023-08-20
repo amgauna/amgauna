@@ -51,7 +51,7 @@
   <a href="https://www.facebook.com/anagaunatech/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="auto" /></a> | 
   <a href="https://www.instagram.com/amgauna/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" height="auto" /></a> |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" height="auto" />Instagram</a> |
   <a href="https://www.tiktok.com/@anamgauna">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg" width="30" height="auto" />TikTok</a> | 
   <a href="https://www.kooapp.com/profile/amgauna/">
