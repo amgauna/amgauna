@@ -15,7 +15,7 @@
 * I live and work in the City of Rio de Janeiro, RJ, Brazil.
 
 ### ✨ Profession
-* CRA-RJ:03-03161 (professional registration): Technologist in Data Processing / Senior Systems Analyst.
+* CRA-RJ:03-03161 (professional registration): Technologist in Data Processing / Senior Systems Analyst / Data Analyst.
 * Administration Technician (1985 until present), I work with services in the areas of information technology, administration, marketing, accounting, for several companies in the City of Rio de Janeiro/RJ and São Paulo/SP, Brazil.
 
 ### ✨ Currently Working
