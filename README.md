@@ -44,9 +44,10 @@
 * Tumblr - https://www.tumblr.com/amgauna
 * Adobe Behance - https://www.behance.net/amgauna/
 * 2010 to 2023 - I used the Microsoft Technet and Microsoft MSDN technical forums.
-* Forums Microsoft TechNet - <a href="https://social.technet.microsoft.com/profile/amgauna/">https://social.technet.microsoft.com/profile/amgauna/</a>
-* Forums Microsoft MSDN - <a href="https://social.msdn.microsoft.com/profile/amgauna/">https://social.msdn.microsoft.com/profile/amgauna/</a>
-* Courses Microsoft Learn - <a href="https://learn.microsoft.com/en-us/users/amgauna/">https://learn.microsoft.com/en-us/users/amgauna/</a>
+* Forums Microsoft TechNet - https://social.technet.microsoft.com/profile/amgauna/
+* Forums Microsoft MSDN - https://social.msdn.microsoft.com/profile/amgauna/
+* Courses Microsoft Learn - https://learn.microsoft.com/en-us/users/amgauna/
+* Microsoft Community - https://answers.microsoft.com/pt-br/profile/54fbbb44-9dc0-44a4-90ec-bc55b88a9711/
 
 ---
 ### ✨ Completed Courses
