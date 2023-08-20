@@ -31,8 +31,8 @@ In 2015 I bought new books and I'm rereading handouts and tutorials: Information
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angular-original-wordmark.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg" width="50" height="50" />    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mxlinux/mxlinux-original.svg" width="50" height="50" />              
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original-wordmark.svg" width="50" height="50" />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original-wordmark.svg" width="50" height="50" />              
 </div>
 
 ---
