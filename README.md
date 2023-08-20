@@ -22,12 +22,13 @@ In 2015 I bought new books and I'm rereading handouts and tutorials: Information
 </div>
 
 <div style="display: inline_block"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="auto" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wamp/wamp-original.svg" width="60" height="auto" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="auto" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="auto" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="auto" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="60" height="auto" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" width="60" height="auto" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tsql/tsql-original.svg" width="60" height="auto" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" height="auto" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="auto"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="auto"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="60" height="auto" />         
