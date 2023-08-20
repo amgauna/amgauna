@@ -22,7 +22,7 @@
 * Windows Technical Support Analyst (1993 to December/2022).
 * Senior Systems Analyst, Data Analyst, Software Analyst, Web Developer, Front-end, Back-end, creating Sites and Blogs.
 * Graphic Designer - Creating and editing images with Adobe Photoshop and Corel Draw. I use Adobe Behance.
-* Digital Marketing Analyst (Google Marketing Platform, Google Cloud, Google AdSense, Google AdWords, Google Analytics, Google Maps APIs, Google Developers APIs).
+* Digital Marketing Analyst (Google Marketing Platform: Google AdSense, Google AdWords, Google Analytics), Google Cloud, Google Maps APIs, Google Developers APIs).
 
 ### ✨ Internet in Brazil
 * 1987 to 1995 - I used several BBS with IRC server in Rio de Janeiro, RJ, Brazil.
