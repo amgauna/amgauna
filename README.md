@@ -53,8 +53,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="50" height="auto" />
 	
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="auto" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node.svg" width="70" height="auto" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular.svg" width="70" height="auto" />   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/node.svg" width="70" height="auto" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angular.svg" width="70" height="auto" />   
 </div>
 
 ---
