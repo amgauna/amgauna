@@ -10,10 +10,8 @@
 
 # 👩🏻‍💻 Hi, I'm ANA MERCEDES GAUNA
 	
-### About me
+### About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰✨
 I am Brazilian, woman, mother, I have an adult daughter. I live and work in the City of Rio de Janeiro, RJ, Brazil.
-
-💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰✨
 
 ### Profession
 * CRA-RJ:03-03161 (professional registration): Technologist in Data Processing / Senior Systems Analyst.
