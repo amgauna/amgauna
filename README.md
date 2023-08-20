@@ -20,9 +20,10 @@
 
 ### ✨ Currently Working
 * Windows Technical Support Analyst (1993 to December/2022).
-* Senior Systems Analyst, Data Analyst, Software Analyst, Web Developer, Front-end, Back-end, creating Sites and Blogs.
+* Senior Systems Analyst, Data Analyst, Software Analyst, Web Developer Sites & Blogs (Front-end/Back-end).
 * Graphic Designer - Creating and editing images with Adobe Photoshop and Corel Draw. I use Adobe Behance.
-* Digital Marketing Analyst (Google Marketing Platform: Google AdSense, Google AdWords, Google Analytics), Google Cloud, Google Maps APIs, Google Developers APIs), Instagram APIs, Facebooks APIs, UOL PagSeguro APIs, etc.
+* Digital Marketing Analyst (Google Marketing Platform: Google AdSense, Google AdWords, Google Analytics).
+* APIs - Google Cloud, Google Developers, Google Maps, Instagram API, Facebooks API, UOL PagSeguro API, etc.
 
 ### ✨ Internet in Brazil
 * 1987 to 1995 - I used several BBS with IRC server in Rio de Janeiro, RJ, Brazil.
