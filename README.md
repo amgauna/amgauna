@@ -33,23 +33,18 @@
 * 1995 - I started using the internet in Rio de Janeiro, RJ, Brazil.
 * 1998 - My first website with my own domain at Registro.BR.
 * Website - https://www.anagauna.eti.br and https://www.anagauna.dev.br
-* Blog - <a href="https://mulhertech.blogspot.com">Blogger</a> | 
-         <a href="https://anagaunatech.wordpress.com">Wordpress</a> | 
-         <a href="https://medium.com/@anagauna">Medium</a>
+* Blog - <a href="https://mulhertech.blogspot.com">Google Blogger (MulherTech)</a> | 
+         <a href="https://anagaunatech.wordpress.com">Wordpress (AnaGaunaTech)</a> | 
+         <a href="https://medium.com/@anagauna">Medium (@anagauna)</a>
 
 ---
 ### ✨ Social Media
-* GitHUB - https://github.com/amgauna/
-* Dev Community - https://dev.to/amgauna/
-* Adobe Behance - https://www.behance.net/amgauna/
-* Linkedin - https://www.linkedin.com/in/amgauna/
-* X (Twitter) - https://twitter.com/amgauna/
-* Facebook - https://www.facebook.com/anagaunatech/
-* Instagram - https://www.instagram.com/amgauna/
-* TikTok - https://www.tiktok.com/@anamgauna
-* Koo App - https://www.kooapp.com/profile/amgauna/
-* Tumblr - https://www.tumblr.com/amgauna/
-* Flickr - https://www.flickr.com/photos/amgauna/
+* <a href="https://github.com/amgauna/">GitHub</a> | <a href="https://dev.to/amgauna/">Dev Community</a> | 
+  <a href="https://www.behance.net/amgauna/">Adobe Behance</a> | <a href="https://www.linkedin.com/in/amgauna/">Linkedin</a> | 
+  <a href="https://twitter.com/amgauna/">X (Twitter)</a> | <a href="https://www.facebook.com/anagaunatech/">Facebook</a> | 
+  <a href="https://www.instagram.com/amgauna/">Instagram</a> | <a href="https://www.tiktok.com/@anamgauna">TikTok</a> | 
+  <a href="https://www.kooapp.com/profile/amgauna/">Koo App</a> | <a href="https://www.tumblr.com/amgauna/">Tumblr</a> | 
+  <a href="https://www.flickr.com/photos/amgauna/">Flickr</a>
 
 ---
 ### ✨ Microsoft Technical Forums (2010-2023)
