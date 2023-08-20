@@ -47,7 +47,7 @@
 * Software Engineering, Data Modeling, PDO, MVC, User Experience (UX), etc.
 * HTML5, CSS3, JavaScript, Bootstrap 5.3, PHP 8.2, JQuery, Node.JS, React.JS, Angular.JS, Vue.JS, TypeScript.
 * Apps with Java SE17 JDK, Java Server Pages, Python 5.3, C, C++, C#, etc.
-* Currently i am testing the online execution of several codes.
+* Currently I am studyind and testing the online execution of several codes.
 
 <div style="display: inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="auto" /> 
