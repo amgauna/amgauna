@@ -38,7 +38,11 @@
 * 2007-2008 - CCNA1 (Network Basic) & CCNA2 (Swith and Router) in Cisco Network Academy.
 
 ### ✨ Self-Taught Study
-* In 2015 I bought new books and I'm rereading handouts and tutorials: Information Security (ISO-27001, ISO-27002, ISO-27003), Project Management PMBook (PMI.Org), Cobit5 (Isaca.Org), Itil4 (Axelos.Org), Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, SQL, JQuery, Node.JS, React.JS, Angular.JS, Vue.JS, TypeScript, Java, Python, C, C++, C#, etc.
+* In 2015 I bought new books and I'm rereading handouts and tutorials.
+* Information Security (ISO-27001, ISO-27002, ISO-27003).
+* Project Management PMBook (PMI.Org), Cobit5 (Isaca.Org) & Itil4 (Axelos.Org).
+* Data Base: Microsoft SQL Server (TSQL), Oracle MySQL, MariaDB SQL.
+* Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, JQuery, Node.JS, React.JS, Angular.JS, Vue.JS, TypeScript, Java, Python, C, C++, C#, etc.
 * Currently i am testing the online execution of several codes.
 
 <div style="display: inline_block">
