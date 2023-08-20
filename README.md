@@ -39,14 +39,14 @@
 
 ---
 ### ✨ Social Media
+* <a href="https://dev.to/amgauna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/developer/developer-original.svg" width="30" height="auto" />Dev.To</a> |
 * <a href="https://github.com/amgauna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="auto" /></a> |
-  <a href="https://dev.to/amgauna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/developer/developer-original.svg" width="30" height="auto" />Dev.To</a> | 
   <a href="https://www.behance.net/amgauna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="30" height="auto" /></a> |
-  <a href="https://www.linkedin.com/in/amgauna/">Linkedin</a> | 
-  <a href="https://twitter.com/amgauna/">X (Twitter)</a> | <a href="https://www.facebook.com/anagaunatech/">Facebook</a> | 
-  <a href="https://www.instagram.com/amgauna/">Instagram</a> | <a href="https://www.tiktok.com/@anamgauna">TikTok</a> | 
-  <a href="https://www.kooapp.com/profile/amgauna/">Koo</a> | <a href="https://www.tumblr.com/amgauna/">Tumblr</a> | 
-  <a href="https://www.flickr.com/photos/amgauna/">Flickr</a>
+  <a href="https://www.linkedin.com/in/amgauna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="auto" />Linkedin</a> | 
+  <a href="https://twitter.com/amgauna/">X <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="auto" />(Twitter)</a> | <a href="https://www.facebook.com/anagaunatech/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="auto" />Facebook</a> | 
+  <a href="https://www.instagram.com/amgauna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" height="auto" />Instagram</a> | <a href="https://www.tiktok.com/@anamgauna"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg" width="30" height="auto" />TikTok</a> | 
+  <a href="https://www.kooapp.com/profile/amgauna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kooapp/kooapp-original.svg" width="30" height="auto" />Koo</a> | <a href="https://www.tumblr.com/amgauna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tumblr/tumblr-original.svg" width="30" height="auto" />Tumblr</a> | 
+  <a href="https://www.flickr.com/photos/amgauna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flickr/flickr-original.svg" width="30" height="auto" />Flickr</a>
 
 ---
 ### ✨ Microsoft Technical Forums (2010-2023)
