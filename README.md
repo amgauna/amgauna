@@ -34,6 +34,9 @@
 * 1980-1983 - Administration Technician (professional technical course lasting 3 years).
 * 1987-1988 - Computer Programming (professional technical course lasting 12 months).
 * 2000-2003 - Data Processing Technology (completed undergraduate course lasting 3 years).
+* 2001 - Microsoft Windows Server 2000 Courses (authorized by Microsoft Brasil). 
+* 2002 - Microsoft SQL Server 2000 Courses (authorized by Microsoft Brasil). 
+* 2007-2008 - CCNA1 (Network Basic) & CCNA2 (Swith and Router) in Cisco Network Academy.
 
 ### ✨ Self-Taught Study
 * In 2015 I bought new books and I'm rereading handouts and tutorials: Information Security, ISO 27001, ISO 27002, ISO 27003, PMI, Cobit, Itil, Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, SQL, JQuery , Angular.JS, Node.JS, Vue.JS, Java, Python, etc.
