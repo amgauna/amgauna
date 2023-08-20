@@ -20,7 +20,7 @@
 
 ### ✨ Currently Working
 * Windows Technical Support Analyst (1993 to December/2022).
-* Senior Systems Analyst, Data Analyst, Software Analyst, Web Developer, Front-end, Back-end, creating websites and blogs with own domain.
+* Senior Systems Analyst, Data Analyst, Software Analyst, Web Developer, Front-end, Back-end, creating Sites and Blogs.
 * Graphic Designer - Creating and editing images with Adobe Photoshop and Corel Draw. I use Adobe Behance.
 * Digital Marketing Analyst (Google Marketing Platform, Google Cloud, Google Maps APIs, AdSense, Analytics, Adwords, Google Developers APIs).
 
