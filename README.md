@@ -45,7 +45,7 @@
 * Data Base: Microsoft SQL Server (TSQL), Oracle MySQL, MariaDB SQL.
 * Microsoft Visual Studio Code, Notepad++, Wamp Server, Xamp Server.
 * Software Engineering, Data Modeling, PDO, MVC, User Experience (UX), etc.
-* HTML5, CSS3, JavaScript, PHP, JQuery, Node.JS, React, Angular, Vue, TypeScript.
+* HTML5, CSS3, JavaScript, Bootstrap 5.3, PHP 8.2, JQuery, Node.JS, React.JS, Angular.JS, Vue.JS, TypeScript.
 * Apps with Java SE17 JDK, Java Server Pages, Python 5.3, C, C++, C#, etc.
 * Currently i am testing the online execution of several codes.
 
