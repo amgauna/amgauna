@@ -35,10 +35,21 @@ In 2015 I bought new books and I'm rereading handouts and tutorials: Information
 <a href="https://github.com/amgauna/github-readme-stats" />
 <img width="350" height="auto" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&langs_count=30&username=amgauna&theme=default" /> </a>
 </div> 
+ 
+---
+⭐ <b> Github Stats: Total Contributions </b>
+
+<div class="right"> 
+<a href="https://github.com/amgauna/github-readme-stats" />
+<img width="450" height="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> </a>  
+<a href="https://github.com/amgauna/github-readme-stats" />
+<img width="310" height="auto" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> </a>
+</div>
 
 ---
 ⭐ <b> Minhas Redes sociais (entre em contato comigo) </b>
 
+<div class="row">
 <!-- ==============================================================================================  -->
     <!-- Bootstrap versão 5.3.1 -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
@@ -143,16 +154,7 @@ In 2015 I bought new books and I'm rereading handouts and tutorials: Information
         <a href="https://medium.com/@anagauna">
         <i class="fa fa-2x fa-fw fa-medium" style="font-size:25px;"></i></a>
 			    
-     </div> <!-- fim col-md-12 da rede social -->
-		
+     </div> <!-- fim col-md-12 da rede social -->		
 <!-- =================================================================================== -->
- 
----
-⭐ <b> Github Stats: Total Contributions </b>
 
-<div class="right"> 
-<a href="https://github.com/amgauna/github-readme-stats" />
-<img width="450" height="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> </a>  
-<a href="https://github.com/amgauna/github-readme-stats" />
-<img width="310" height="auto" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> </a>
-</div> 
+</div>
