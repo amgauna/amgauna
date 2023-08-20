@@ -19,7 +19,7 @@ In 1983, he completed the Administration Techniques course (a professional high 
 In 1987, he completed the Computer Programming course (technical course lasting 12 months).
 In 2003 I completed the Data Processing Technology course (3-year course).
 CRA-RJ: 03-03161, professional registration as Technologist in Data Processing.
-Since 1998 I have registered at http://registro.br managing some sites with their own domain registration on the internet.
+Since 1998 I have registered at Registro.BR managing some sites with their own domain registration on the internet.
 
 Currently, I'm working on the internet managing web projects, as a web developer, frontend, backend, creating websites and blogs with my own domain registration, graphic design, digital marketing (Google Marketing Platform), providing services, in Rio de Janeiro, RJ, Brazil.
 
