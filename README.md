@@ -8,7 +8,7 @@
 </a>
 </div>
 
-👩🏻‍💻 <b> Hi, I'm ANA MERCEDES GAUNA 💕 I love my 👧🏻🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰 </b>
+👩🏻‍💻 <b> Hi, I'm ANA MERCEDES GAUNA 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰✨ </b>
 
 <div class="col-1" wight="50%" align="justify"> 
 
