@@ -39,7 +39,7 @@
 
 ### ✨ Self-Taught Study
 * In 2015 I bought new books and I'm rereading handouts and tutorials.
-* Information Security (ISO-27001, ISO-27002, ISO-27003).
+* ABNT norms of Information Security (ISO-27001, ISO-27002, ISO-27003).
 * Project Management PMBook (PMI.Org), Cobit5 (Isaca.Org) & Itil4 (Axelos.Org).
 * Data Base: Microsoft SQL Server (TSQL), Oracle MySQL, MariaDB SQL.
 * Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, JQuery, Node.JS, React.JS, Angular.JS, Vue.JS, TypeScript, Java, Python, C, C++, C#, etc.
