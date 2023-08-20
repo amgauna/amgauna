@@ -8,13 +8,11 @@
 </a>
 </div>
 
-# 👩🏻‍💻 <b> Hi, I'm ANA MERCEDES GAUNA
-## 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰✨ </b>
-
-<div class="col-1" wight="50%" align="justify"> 
+# 👩🏻‍💻 Hi, I'm ANA MERCEDES GAUNA
 	
 ### About me
 I am Brazilian, woman, mother, I have an adult daughter. I live and work in the City of Rio de Janeiro, RJ, Brazil.
+💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰✨
 
 ### Profession
 * CRA-RJ:03-03161 (professional registration): Technologist in Data Processing / Senior Systems Analyst.
@@ -39,8 +37,6 @@ I am Brazilian, woman, mother, I have an adult daughter. I live and work in the 
 
 ### Self-Taught Study
 In 2015 I bought new books and I'm rereading handouts and tutorials: Information Security, ISO 27001, ISO 27002, ISO 27003, PMI, Cobit, Itil, Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, SQL, JQuery , Angular.JS, Node.JS, Vue.JS, Java, Python, etc. I'm testing the online execution of several codes.
-
-</div> 
 
 <div style="display: inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="auto" /> 
