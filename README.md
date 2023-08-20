@@ -33,7 +33,7 @@
 * 1995 - I started using the internet in Rio de Janeiro, RJ, Brazil.
 * 1998 - My first website with my own domain at Registro.BR.
 * Website - https://www.anagauna.eti.br and https://www.anagauna.dev.br
-* Blogger - https://mulhertech.blogspot.com/
+* Google Blogger - https://mulhertech.blogspot.com/
 * Wordpress - https://anagaunatech.wordpress.com/
 
 ---
