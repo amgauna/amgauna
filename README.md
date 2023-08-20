@@ -50,25 +50,6 @@ In 2015 I bought new books and I'm rereading handouts and tutorials: Information
 ⭐ <b> Minhas Redes sociais (entre em contato comigo) </b>
 
 <div class="row">
-<!-- ==============================================================================================  -->
-    <!-- Bootstrap versão 5.3.1 -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
-    
-    <!-- Fonte Awesome versão 5.13.1  -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/font-awesome.min.css">    
-<!-- ==============================================================================================  -->
-
-<!-- 2023 / Rede Social com Fontes Awesome <i> -->
-    <!--
-	color: #005aff; azul royal 
-	color: #e3f2fd; azul claro 
-	#C6E9FF; /* cor azul muito claro */ 
-    color: #C6E9FF; azul claro 
-    color: #3B5998; azul-escuro 
-	color: #55ACEE; azul-claro 
-    -->
-
-<style>@charset 'UTF-8';</style> 
 
 <!-- Faixa azul da rede social  -->
 <div class="col-12 justify-content-center" title="Rede Social"
