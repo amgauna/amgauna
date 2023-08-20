@@ -47,7 +47,7 @@
 * Facebook - https://www.facebook.com/anagaunatech/
 * Instagram - https://www.instagram.com/amgauna/
 * TikTok - https://www.tiktok.com/@anamgauna
-* Koo App - https://www.kooapp.com/profile/amgauna
+* Koo App - https://www.kooapp.com/profile/amgauna/
 * Tumblr - https://www.tumblr.com/amgauna/
 * Flickr - https://www.flickr.com/photos/amgauna/
 
