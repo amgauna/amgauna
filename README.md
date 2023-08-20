@@ -12,7 +12,7 @@
 
 <div class="col-1" wight="50%" align="justify"> 
 
-I am Brazilian, female, 58 years old, mother, I have an adult daughter. Since 1987 I work using a computer with a modem, I used IRC with several BBS in Brazil. Since 1995 I have been using the internet in Brazil. I work since 1985 until today, with services in the areas of information technology, administration area, marketing area, accounting area, for several companies. I live and work in the City of Rio de Janeiro, RJ, Brazil.
+I am Brazilian, female, 58 years old, mother, I have an adult daughter. Since 1987 I work using a computer with a modem, I used IRC with several BBS in Brazil. Since 1995 I have been using the internet in Brazil. I work since 1985 until today, with services in the areas of information technology, administration, marketing, accounting, for several companies. I live and work in the City of Rio de Janeiro, RJ, Brazil.
 💕 I love my 👧🏻🐶😺, and I like 🖥️💻📺🎦🎸🍔🍕🍰.
 
 In 1983, he completed the Administration Techniques course (a professional high school course lasting 3 years). In 1987, he completed the Computer Programming course (technical course lasting 12 months). In 2003 I completed the Data Processing Technology course (3-year course).
