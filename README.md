@@ -20,6 +20,22 @@ Currently, I'm working on the internet managing web projects, as a web developer
 
 In 2015 I bought new books and I'm rereading handouts and tutorials: Information Security, ISO 27001, ISO 27002, ISO 27003, PMI, Cobit, Itil, Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, SQL, JQuery, Angular.JS, Node.JS, Vue.JS, Java, Python, etc. I'm testing the online execution of several codes.
 </div>
+-------------------
+
+<div style="display: inline_block"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />              
+</div>
 
 ---
 ⭐ <b> Github Stats: Most Used Languages & Top Languages </b>
@@ -48,6 +64,16 @@ In 2015 I bought new books and I'm rereading handouts and tutorials: Information
 
 ---
 ⭐ <b> Minhas Redes sociais (entre em contato comigo) </b>
+
+
+          
+---
+ 
+<a href="https://www.linkedin.com/in/amgauna/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
+ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=amgauna@gmail.com)
+ ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=)
+
+-----------   
 
 [1]: [https://social.technet.microsoft.com/profile/amgauna/]
 [2]: [https://github.com/amgauna/]
