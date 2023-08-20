@@ -39,7 +39,7 @@
 * 1980-1983 - Administration Technician (professional technical course lasting 3 years).
 * 1987-1988 - Computer Programming (professional technical course lasting 12 months).
 * 2000-2003 - Data Processing Technology (completed undergraduate course lasting 3 years).
-* 2001-2002 - Microsoft Windows Server 2000 & Microsoft SQL Server 2000 Courses (Microsoft Brasil). 
+* 2001-2002 - Microsoft Windows Server 2000 & Microsoft SQL Server 2000 (Courses Microsoft Brasil). 
 * 2007-2008 - CCNA1 (Network Basic) & CCNA2 (Swith and Router) in Cisco Network Academy.
 
 ---
