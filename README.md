@@ -53,14 +53,8 @@ In 2015 I bought new books and I'm rereading handouts and tutorials: Information
 <!-- ==============================================================================================  -->
     <!-- Bootstrap versão 5.3.1 -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>  	
     
-	<!-- JQUERY 3.4.1 Slim-->
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
-  
-	<!-- Fonte Awesome versão 5.13.1  -->
+    <!-- Fonte Awesome versão 5.13.1  -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/font-awesome.min.css">    
 <!-- ==============================================================================================  -->
 
