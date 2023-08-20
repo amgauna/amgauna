@@ -33,6 +33,8 @@
 * 1995 - I started using the internet in Rio de Janeiro, RJ, Brazil.
 * 1998 - My first website with my own domain at Registro.BR.
 * 2010 to 2023 - I used the Microsoft Technet and Microsoft MSDN technical forums.
+* Forums Microsoft TechNet = <a href="https://social.technet.microsoft.com/profile/amgauna/">https://social.technet.microsoft.com/profile/amgauna/</a>
+* Forums Microsoft MSDN = <a href="https://social.msdn.microsoft.com/profile/amgauna/">https://social.msdn.microsoft.com/profile/amgauna/</a>
 
 ---
 ### ✨ Completed Courses
