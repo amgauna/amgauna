@@ -35,10 +35,12 @@
 * Website - https://www.anagauna.eti.br and https://www.anagauna.dev.br
 * Google Blogger - https://mulhertech.blogspot.com/
 * Wordpress - https://anagaunatech.wordpress.com/
+* Medium - https://medium.com/@anagauna
 
 ---
 ### ✨ Social Media
 * GitHUB - https://github.com/amgauna/
+* Dev Community - https://dev.to/amgauna/
 * X (Twitter) - https://twitter.com/amgauna/
 * Facebook - https://www.facebook.com/anagaunatech/
 * Instagram - https://www.instagram.com/amgauna/
