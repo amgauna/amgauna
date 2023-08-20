@@ -21,7 +21,7 @@
 
 ---
 ### ✨ Currently Working
-* Windows Technical Support Analyst, installation and configuration of various wireless equipment and applications, data backup, data restoration, computer assembly (1993 to 2022).
+* 1993 ato 2022 - Windows Technical Support Analyst, installation and configuration of various wireless equipment and applications, SQL data backup, SQL data restoration and computer assembly.
 * Senior Systems Analyst, Data Analyst, Software Analyst, Web Developer Sites & Blogs (Front-end/Back-end).
 * Graphic Designer - Creating and editing images with Adobe Photoshop and Corel Draw. I use Adobe Behance.
 * Digital Marketing Analyst (Google Marketing Platform: Google AdSense, Google AdWords, Google Analytics).
