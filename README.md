@@ -16,7 +16,7 @@
 
 ### ✨ Profession
 * CRA-RJ:03-03161 (professional registration): Technologist in Data Processing / Senior Systems Analyst.
-* Administration Technician (1985 until present), I work with services in the areas of information technology, administration, marketing, accounting, for several companies.
+* Administration Technician (1985 until present), I work with services in the areas of information technology, administration, marketing, accounting, for several companies in the City of Rio de Janeiro/RJ and City of São Paulo/SP, Brazil.
 
 ### ✨ Currently Working
 * Windows Technical Support Analyst (1993 to December/2022).
