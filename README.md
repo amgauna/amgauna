@@ -51,26 +51,33 @@ In 2015 I bought new books and I'm rereading handouts and tutorials: Information
 
 <div class="row">
       
-        <a href="https://social.technet.microsoft.com/profile/amgauna/">
-        <i class="fa fa-2x fa-fw fa-windows" style="font-size:25px;"></i></a>
+       <a href="https://social.technet.microsoft.com/profile/amgauna/">
+       <img loading="technet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+       </a>
 		
         <a href="https://github.com/amgauna/">
-        <i class="fa fa-2x fa-fw fa-github-alt" style="font-size:25px;"></i></a>
+        <img loading="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+	</a>
 
         <a href="https://twitter.com/amgauna/">
-        <i class="fa fa-2x fa-fw fa-twitter" style="font-size:25px;"></i></a>
+        <img loading="twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+	</a>
 			   
         <a href="https://www.facebook.com/anagaunatech/">
-        <i class="fa fa-2x fa-fw fa-facebook" aria-hidden="true"></i></a>
+        <img loading="facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+	</a>
 	
         <a href="https://instagram.com/amgauna/">
-        <i class="fa fa-2x fa-fw fa-instagram" style="font-size:25px;"></i></a>
+       <img loading="instagram" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+	</a>
 
         <a href="https://tumblr.com/amgauna/">
-        <i class="fa fa-2x fa-fw fa-tumblr" style="font-size:25px;"></i></a>
+        <img loading="tumblr" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+	</a>
             
         <a href="https://pt.linkedin.com/in/amgauna/">
-        <i class="fa fa-2x fa-fw fa-linkedin" style="font-size:25px;"></i></a>
+        <i class="fa fa-2x fa-fw fa-linkedin" style="font-size:25px;"></i>
+	</a>
 		
         <a href="https://api.whatsapp.com/send?phone=5521979371230">
         <i class="fa fa-2x fa-fw fa-whatsapp" aria-hidden="true"></i></a>
