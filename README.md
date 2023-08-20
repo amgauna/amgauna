@@ -12,6 +12,7 @@
 	
 ### About me
 I am Brazilian, woman, mother, I have an adult daughter. I live and work in the City of Rio de Janeiro, RJ, Brazil.
+
 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰✨
 
 ### Profession
