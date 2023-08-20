@@ -48,32 +48,13 @@ In 2015 I bought new books and I'm rereading handouts and tutorials: Information
 
 ---
 ⭐ <b> Minhas Redes sociais (entre em contato comigo) </b>
-      
-       <img loading="technet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-       <a href="https://social.technet.microsoft.com/profile/amgauna/">Facebook</a>
-		
-        <img loading="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-	<a href="https://github.com/amgauna/">GitHub</a>
 
-        <a href="https://twitter.com/amgauna/">
-        <img loading="twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-	</a>
-			   
-        <a href="https://www.facebook.com/anagaunatech/">
-        <img loading="facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-	</a>
-	
-        <a href="https://instagram.com/amgauna/">
-       <img loading="instagram" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-	</a>
-
-        <a href="https://tumblr.com/amgauna/">
-        <img loading="tumblr" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-	</a>
-            
-        <a href="https://pt.linkedin.com/in/amgauna/">
-        <i class="fa fa-2x fa-fw fa-linkedin" style="font-size:25px;"></i>
-	</a>
+[1]: [https://social.technet.microsoft.com/profile/amgauna/]
+[2]: [https://github.com/amgauna/]
+[3]: [https://www.facebook.com/anagaunatech/]
+[4]: [https://instagram.com/amgauna/"]
+[5]: [https://tumblr.com/amgauna/"]
+[6]: [https://pt.linkedin.com/in/amgauna/"]
 		
         <a href="https://api.whatsapp.com/send?phone=5521979371230">
         <i class="fa fa-2x fa-fw fa-whatsapp" aria-hidden="true"></i></a>
