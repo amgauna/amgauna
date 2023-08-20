@@ -43,7 +43,9 @@
 * Project Management PMBook (PMI.Org), Cobit5 (Isaca.Org) & Itil4 (Axelos.Org).
 * Data Base: Microsoft SQL Server (TSQL), Oracle MySQL, MariaDB SQL.
 * Microsoft Visual Studio Code, Notepad++, Wamp Server, Xamp Server.
-* Software Engineering, Data Modeling, PDO, MVC, HTML5, CSS3, JavaScript, PHP, JQuery, Node.JS, React.JS, Angular.JS, Vue.JS, TypeScript, Java, Python, C, C++, C#, etc.
+* Software Engineering, Data Modeling, PDO, MVC.
+* HTML5, CSS3, JavaScript, PHP, JQuery, Node.JS, React, Angular, Vue, TypeScript.
+* Apps with Java SE17 JDK, Java Server Pages, Python 5.3, C, C++, C#, etc.
 * Currently i am testing the online execution of several codes.
 
 <div style="display: inline_block">
