@@ -10,31 +10,31 @@
 
 # 👩🏻‍💻 Hi, I'm ANA MERCEDES GAUNA
 	
-### About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰✨
+### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
 I am Brazilian, woman, mother, I have an adult daughter. I live and work in the City of Rio de Janeiro, RJ, Brazil.
 
-### Profession
+### ✨ Profession
 * CRA-RJ:03-03161 (professional registration): Technologist in Data Processing / Senior Systems Analyst.
 * Administration Technician (1985 until present), I work with services in the areas of information technology, administration, marketing, accounting, for several companies.
 
-### currently working
+### ✨ Currently Working
 * Windows Technical Support Analyst (1993 to December/2022).
 * Senior Systems Analyst, Software Analyst, Web Developer, Front-end, Back-end, creating websites and blogs with own domain.
 * Graphic Designer - Creating and editing images with Adobe Photoshop and Corel Draw. I use Adobe Behance.
 * Digital Marketing Analyst (Google Marketing Platform, Google Cloud, Google Maps APIs, AdSense, Analytics, Adwords, Google Developers APIs).
 
-### Internet in Brazil
+### ✨ Internet in Brazil
   * 1987 to 1995 - I used several BBS with IRC server in Rio de Janeiro, RJ, Brazil.
 * 1995 - I started using the internet in Rio de Janeiro, RJ, Brazil.
 * 1998 - My first website with my own domain at Registro.BR.
 * 2010 to 2023 - I used the Microsoft Technet and Microsoft MSDN technical forums.
 
-### Completed Courses
+### ✨ Completed Courses
 * 1980-1983 - Administration Technician (professional technical course lasting 3 years).
 * 1987-1988 - Computer Programming (professional technical course lasting 12 months).
 * 2000-2003 - Data Processing Technology (3-year undergraduate course).
 
-### Self-Taught Study
+### ✨ Self-Taught Study
 In 2015 I bought new books and I'm rereading handouts and tutorials: Information Security, ISO 27001, ISO 27002, ISO 27003, PMI, Cobit, Itil, Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, SQL, JQuery , Angular.JS, Node.JS, Vue.JS, Java, Python, etc. I'm testing the online execution of several codes.
 
 <div style="display: inline_block">
@@ -54,7 +54,7 @@ In 2015 I bought new books and I'm rereading handouts and tutorials: Information
 </div>
 
 ---
-### ⭐ <b> Github Stats: Most Used Languages & Top Languages </b>
+### ⭐ Github Stats: Most Used Languages & Top Languages
 
 <div class="top-left"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
@@ -69,7 +69,7 @@ In 2015 I bought new books and I'm rereading handouts and tutorials: Information
 </div> 
  
 ---
-⭐ <b> Github Stats: Total Contributions </b>
+### ⭐ Github Stats: Total Contributions
 
 <div class="right"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
