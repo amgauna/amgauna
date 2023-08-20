@@ -49,28 +49,9 @@ In 2015 I bought new books and I'm rereading handouts and tutorials: Information
 ---
 ⭐ <b> Minhas Redes sociais (entre em contato comigo) </b>
 
-<div class="row">
-
-<!-- Faixa azul da rede social  -->
-<div class="col-12 justify-content-center" title="Rede Social"
-     style="background-color: #ffffff; color: purple; 
-            border: 0px solid blue;
-            margin: 0 0 0 0; padding: auto auto auto auto;
-            font-family: 'Verdana'; font-size: 12px; 
-            display: inline-block; /* linha horizontal */
-		    line-height: 0.123456789; /* tamanho de letra */ 
-	        letter-spacing: normal; /* espaçamento de letras */
-		    word-spacing: 2px; /* espaçamento de palavras */
-		    white-space: 2px; /* espaços em branco */		
-		    text-decoration: none; 
-            list-style: none; list-style-type: none;
-		    text-align: center;
-            align-content:center; 
-            align-self: center;		
-		    position: relative;">     
-     
-	 
-		<!-- MS-Technet -->
+<div class="container">
+      
+	<!-- MS-Technet -->
         <a href="https://social.technet.microsoft.com/profile/amgauna/">
         <i class="fa fa-2x fa-fw fa-windows" style="font-size:25px;"></i></a>
 		
