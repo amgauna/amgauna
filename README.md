@@ -32,6 +32,8 @@
 * 1987 to 1995 - I used several BBS with IRC server in Rio de Janeiro, RJ, Brazil.
 * 1995 - I started using the internet in Rio de Janeiro, RJ, Brazil.
 * 1998 - My first website with my own domain at Registro.BR.
+* Blogger - https://mulhertech.blogspot.com/
+* Wordpress - https://anagaunatech.wordpress.com/
 
 ---
 ### ✨ Social Media
@@ -41,11 +43,13 @@
 * Instagram - https://www.instagram.com/amgauna/
 * Linkedin - https://www.linkedin.com/in/amgauna/
 * TikTok - https://www.tiktok.com/@anamgauna
-* Tumblr - https://www.tumblr.com/amgauna
 * Adobe Behance - https://www.behance.net/amgauna/
+* Koo App - https://www.kooapp.com/profile/amgauna
+* Tumblr - https://www.tumblr.com/amgauna/
+* Flickr - https://www.flickr.com/photos/amgauna/
 
 ---
-### Microsoft Technical Forums (2010-2023)
+### ✨ Microsoft Technical Forums (2010-2023)
 * Since 2010 I used the Microsoft Technet and Microsoft MSDN technical forums.
 * Forums Microsoft TechNet - https://social.technet.microsoft.com/profile/amgauna/
 * Forums Microsoft MSDN - https://social.msdn.microsoft.com/profile/amgauna/
