@@ -49,8 +49,8 @@
 ---
 ### ✨ Microsoft Technical Forums (2010-2023)
 * Since 2010 I used the Microsoft Technet and Microsoft MSDN technical forums.
-* <a href="https://learn.microsoft.com/en-us/users/amgauna/">Microsoft Learn</a> |
-  Fórums <a href="https://social.technet.microsoft.com/profile/amgauna/">Microsoft Technet</a> e <a href="https://social.msdn.microsoft.com/profile/amgauna/">Microsoft MSDN</a> | <a href="https://answers.microsoft.com/pt-br/profile/54fbbb44-9dc0-44a4-90ec-bc55b88a9711/">Microsoft Community</a>
+* Courses <a href="https://learn.microsoft.com/en-us/users/amgauna/">Microsoft Learn</a> |
+  Fórums <a href="https://social.technet.microsoft.com/profile/amgauna/">Microsoft Technet</a> | Forums <a href="https://social.msdn.microsoft.com/profile/amgauna/">Microsoft MSDN</a> | <a href="https://answers.microsoft.com/pt-br/profile/54fbbb44-9dc0-44a4-90ec-bc55b88a9711/">Microsoft Community</a>
 
 ---
 ### ✨ Completed Courses
