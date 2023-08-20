@@ -12,7 +12,7 @@
 	
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
 * I am Brazilian, woman, mother, I have an adult daughter.
-* I live and work in the neighborhood of Botafogo, City of of Rio de Janeiro, RJ, Brazil.
+* I live and work in the South Zone of the City of of Rio de Janeiro, RJ, Brazil.
 
 ---
 ### ✨ Profession
