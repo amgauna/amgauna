@@ -21,7 +21,7 @@ In 2003 I completed the Data Processing Technology course (3-year course).
 CRA-RJ: 03-03161, professional registration as Technologist in Data Processing.
 Since 1998 I have registered at Registro.BR managing some sites with their own domain registration on the internet.
 
-Currently, I'm working on the internet managing web projects, as a web developer, frontend, backend, creating websites and blogs with my own domain registration, graphic design, digital marketing (Google Marketing Platform), providing services, in Rio de Janeiro, RJ, Brazil.
+Currently, I'm working on the internet managing web projects, as a web developer, frontend, backend, creating websites and blogs with my own domain registration, graphic design, digital marketing (Google Marketing Platform), in Rio de Janeiro, RJ, Brazil.
 
 I bought new books and am rereading handouts and tutorials: Information Security, ISO 27001, ISO 27002, ISO 27003, PMI, Cobit, Itil, Software Engineering, Data Modeling, HTML5, CSS3, JavaScript, PHP, SQL, JQuery, Angular.JS, Node.JS, Vue.JS, Java, Python, etc. I'm testing the online execution of several codes.
 </div>
