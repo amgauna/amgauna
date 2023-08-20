@@ -48,16 +48,12 @@ In 2015 I bought new books and I'm rereading handouts and tutorials: Information
 
 ---
 ⭐ <b> Minhas Redes sociais (entre em contato comigo) </b>
-
-<div class="row">
       
-       <a href="https://social.technet.microsoft.com/profile/amgauna/">
        <img loading="technet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-       </a>
+       <a href="https://social.technet.microsoft.com/profile/amgauna/">Facebook</a>
 		
-        <a href="https://github.com/amgauna/">
         <img loading="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-	</a>
+	<a href="https://github.com/amgauna/">GitHub</a>
 
         <a href="https://twitter.com/amgauna/">
         <img loading="twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
@@ -103,8 +99,4 @@ In 2015 I bought new books and I'm rereading handouts and tutorials: Information
 
         <a href="https://medium.com/@anagauna">
         <i class="fa fa-2x fa-fw fa-medium" style="font-size:25px;"></i></a>
-			    
-     </div> <!-- fim col-md-12 da rede social -->		
-<!-- =================================================================================== -->
-
-</div>
+			    	
