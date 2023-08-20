@@ -14,10 +14,12 @@
 * I am Brazilian, woman, mother, I have an adult daughter.
 * I live and work in the City of Rio de Janeiro, RJ, Brazil.
 
+---
 ### ✨ Profession
 * CRA-RJ:03-03161 (professional registration): Technologist in Data Processing / Senior Systems Analyst / Data Analyst.
 * Administration Technician (1985 until present), I work with services in the areas of information technology, administration, marketing, accounting, for several companies in the City of Rio de Janeiro/RJ and São Paulo/SP, Brazil.
 
+---
 ### ✨ Currently Working
 * Windows Technical Support Analyst (1993 to December/2022).
 * Senior Systems Analyst, Data Analyst, Software Analyst, Web Developer Sites & Blogs (Front-end/Back-end).
@@ -25,12 +27,14 @@
 * Digital Marketing Analyst (Google Marketing Platform: Google AdSense, Google AdWords, Google Analytics).
 * APIs - Google Cloud, Google Developers, Google Maps, Instagram API, Facebooks API, UOL PagSeguro API, etc.
 
+---
 ### ✨ Internet in Brazil
 * 1987 to 1995 - I used several BBS with IRC server in Rio de Janeiro, RJ, Brazil.
 * 1995 - I started using the internet in Rio de Janeiro, RJ, Brazil.
 * 1998 - My first website with my own domain at Registro.BR.
 * 2010 to 2023 - I used the Microsoft Technet and Microsoft MSDN technical forums.
 
+---
 ### ✨ Completed Courses
 * 1980-1983 - Administration Technician (professional technical course lasting 3 years).
 * 1987-1988 - Computer Programming (professional technical course lasting 12 months).
@@ -38,6 +42,7 @@
 * 2001-2002 - Microsoft Windows Server 2000 & Microsoft SQL Server 2000 Courses (Microsoft Brasil). 
 * 2007-2008 - CCNA1 (Network Basic) & CCNA2 (Swith and Router) in Cisco Network Academy.
 
+---
 ### ✨ Self-Taught Study
 * In 2015 I bought new books and I'm rereading handouts and tutorials.
 * ABNT norms of Information Security (ISO-27001, ISO-27002, ISO-27003).
