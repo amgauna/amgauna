@@ -27,7 +27,7 @@
 * Website - Ana Gauna Tech - https://www.anagauna.eti.br
 * Website - Ana Gauna Dev - https://www.anagauna.dev.br
 * Website - Amgauna Tecnologia Projetos - https://www.amgauna.com.br
-* Blog Blogger - MulherTech Blog - https://mulhertech.blogspot.com
+* Blog Google Blogger - MulherTech Blog - https://mulhertech.blogspot.com
 * Blog Wordpress - Ana Gauna Tech - https://anagaunatech.wordpress.com
 * Blog Medium @amgauna - https://medium.com/@anagauna
 
