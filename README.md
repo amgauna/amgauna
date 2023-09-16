@@ -54,10 +54,10 @@
 ---
 ### ✨ Microsoft Technical Forums (2010-2023)
 * Since 2010 I used the Microsoft Technet and Microsoft MSDN technical forums.
-* Microsoft Learn Courses - https://learn.microsoft.com/en-us/users/amgauna/
-* Microsoft Technet Forums - https://social.technet.microsoft.com/profile/amgauna/
-* Microsoft MSDN Forums - https://social.msdn.microsoft.com/profile/amgauna/
-* Microsoft Community - https://answers.microsoft.com/pt-br/profile/54fbbb44-9dc0-44a4-90ec-bc55b88a9711/
+* [Microsoft Technet Forums](https://social.technet.microsoft.com/profile/amgauna/)
+- [Microsoft MSDN Forums](https://social.msdn.microsoft.com/profile/amgauna/)
+* [Microsoft Learn Courses](https://learn.microsoft.com/en-us/users/amgauna/)
+- [Microsoft Community](https://answers.microsoft.com/pt-br/profile/54fbbb44-9dc0-44a4-90ec-bc55b88a9711/)
   
 ---
 ### ✨ Self-Taught Study
