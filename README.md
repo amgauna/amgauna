@@ -20,7 +20,10 @@
 
 ---
 ### ✨ Currently Working
-* IT Consultant / Project Manager / Senior Systems Analyst / Software Analyst / Data Analyst / Web Developer / Backend / Designer Graphic
+* IT Consultant / IT Project Manager / Data Analyst / Data Analytics
+* Tech Support Analyst / Office 365 Busineess / Windows11 / Windows Server / SQL Server / Power BI / Sharepoint
+* Web Designer / Designer Graphic / Corel Draw / Adobe Photoshop / Adobe Behance https://www.behance.net/amgauna/
+* Senior Systems Analyst / Software Analyst / Web Developer / Frontend / Backend 
 * Website anagauna.eti.br - <a href="https://www.anagauna.eti.br">www.anagauna.eti.br</a>
 * Website anagauna.dev.br - <a href="https://www.anagauna.dev.br">www.anagauna.dev.br</a>
 * Blog Blogger - MulherTech Blog - <a href="https://mulhertech.blogspot.com">[https://mulhertech.blogspot.com](https://mulhertech.blogspot.com)</a>  
