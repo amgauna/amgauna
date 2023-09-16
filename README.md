@@ -22,7 +22,7 @@
 ### ✨ Currently Working
 * IT Consultant / IT Project Manager / Data Analyst / Data Analytics
 * Tech Support Analyst / Office 365 Busineess / Windows11 / Windows Server / SQL Server / Power BI / Sharepoint
-* Web Designer / Designer Graphic / Corel Draw / Adobe Photoshop / Adobe Behance https://www.behance.net/amgauna/
+* Web Designer / Designer Graphic / Corel Draw / Adobe Photoshop  
 * Senior Systems Analyst / Software Analyst / Web Developer / Frontend / Backend 
 * Website - Ana Gauna Tech - https://www.anagauna.eti.br
 * Website - Ana Gauna Dev - https://www.anagauna.dev.br
@@ -30,6 +30,7 @@
 * Blog Google Blogger - MulherTech Blog - https://mulhertech.blogspot.com
 * Blog Wordpress - Ana Gauna Tech - https://anagaunatech.wordpress.com
 * Blog Medium @amgauna - https://medium.com/@anagauna
+* Adobe Behance @amgauna - https://www.behance.net/amgauna/
 
 ---
 ### ✨ Social Media
