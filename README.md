@@ -15,8 +15,8 @@
 * I live and work in the South Zone of the City of of Rio de Janeiro, RJ, Brazil.
 * CRA-RJ:03-03161 (professional registration): Technologist in Data Processing / Senior Systems Analyst / Data Analyst.
 * 1987 to 1995 - I used several BBS with IRC server in Rio de Janeiro City, RJ, Brazil.
-* 1995 - I started using the internet in Rio de Janeiro City, RJ, Brazil.
-* 1998 - I started using websites with domain at Registro.BR.
+* 1995 to present - I started using the internet in Rio de Janeiro City, RJ, Brazil.
+* 1998 to present - I started using websites with domain at Registro.BR.
 
 ---
 ### ✨ Currently Working
