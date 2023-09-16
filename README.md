@@ -13,19 +13,16 @@
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
 * I am Brazilian, woman, mother, I have an adult daughter.
 * I live and work in the South Zone of the City of of Rio de Janeiro, RJ, Brazil.
-
----
-### ✨ Profession
 * CRA-RJ:03-03161 (professional registration): Technologist in Data Processing / Senior Systems Analyst / Data Analyst.
-* Administration Technician (1985 until present), I work with services in the areas of information technology, administration, marketing, accounting, for several companies in the City of Rio de Janeiro/RJ and São Paulo/SP, Brazil.
 
 ---
 ### ✨ Currently Working
-* 1993 to 2022 - I worked with Windows Technical Support, installation and configuration of wireless equipment and applications, SQL data backup/restoration, computer assembly, management of technical projects, implementation of ERP systems, etc.
 * Senior Systems Analyst, Data Analyst, Software Analyst, Web Developer Sites & Blogs (Front-end/Back-end).
 * Graphic Designer - Creating and editing images with Adobe Photoshop and Corel Draw. I use Adobe Behance.
 * Digital Marketing Analyst (Google Marketing Platform: Google AdSense, Google AdWords, Google Analytics).
 * APIs - Google Cloud, Google Developers, Google Maps, Instagram API, Facebooks API, UOL PagSeguro API, etc.
+* I worked with Administration Technician, services in the areas of information technology, administration, marketing, accounting, for several companies in Brazil.
+* I worked with Windows Technical Support, installation and configuration of wireless equipment and applications, SQL data backup/restoration, computer assembly, management of technical projects, implementation of ERP systems, etc.
 
 ---
 ### ✨ Internet in Brazil
@@ -61,15 +58,7 @@
 * Since 2010 I used the Microsoft Technet and Microsoft MSDN technical forums.
 * Courses <a href="https://learn.microsoft.com/en-us/users/amgauna/">Microsoft Learn</a> |
   Fórums <a href="https://social.technet.microsoft.com/profile/amgauna/">Microsoft Technet</a> | <a href="https://social.msdn.microsoft.com/profile/amgauna/">Microsoft MSDN</a> | <a href="https://answers.microsoft.com/pt-br/profile/54fbbb44-9dc0-44a4-90ec-bc55b88a9711/">Microsoft Community</a>
-
----
-### ✨ Completed Courses
-* 1980-1983 - Administration Technician (professional technical course lasting 3 years).
-* 1987-1988 - Computer Programming (professional technical course lasting 12 months).
-* 2000-2003 - Data Processing Technology (completed undergraduate course lasting 3 years).
-* 2001-2002 - Microsoft Windows Server 2000 & Microsoft SQL Server 2000 (Courses Microsoft Brazil). 
-* 2007-2008 - CCNA1 (Network Basic) & CCNA2 (Swith and Router) in Cisco Network Academy.
-
+  
 ---
 ### ✨ Self-Taught Study
 * In 2015 I bought new books and I'm rereading handouts and tutorials.
