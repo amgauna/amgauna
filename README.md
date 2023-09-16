@@ -25,7 +25,7 @@
 * Website anagauna.dev.br - <a href="https://www.anagauna.dev.br">www.anagauna.dev.br</a>
 * Blog Blogger - MulherTech Blog - <a href="https://mulhertech.blogspot.com">[MulherTech](https://mulhertech.blogspot.com)</a>  
 * Blog Wordpress - Ana Gauna Tech - <a href="https://anagaunatech.wordpress.com">[AnaGaunaTech](https://anagaunatech.wordpress.com)</a>  
-* Blog Medium @amgauna - <a href="https://medium.com/@anagauna">[@anagauna](https://medium.com/@anagauna)</a>
+* Blog Medium @amgauna - <a href="https://medium.com/@anagauna">[medium.com/@anagauna](https://medium.com/@anagauna)</a>
 
 ---
 ### ✨ Social Media
