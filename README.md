@@ -24,11 +24,12 @@
 * Tech Support Analyst / Office 365 Busineess / Windows11 / Windows Server / SQL Server / Power BI / Sharepoint
 * Web Designer / Designer Graphic / Corel Draw / Adobe Photoshop / Adobe Behance https://www.behance.net/amgauna/
 * Senior Systems Analyst / Software Analyst / Web Developer / Frontend / Backend 
-* Website anagauna.eti.br - <a href="https://www.anagauna.eti.br">www.anagauna.eti.br</a>
-* Website anagauna.dev.br - <a href="https://www.anagauna.dev.br">www.anagauna.dev.br</a>
-* Blog Blogger - MulherTech Blog - <a href="https://mulhertech.blogspot.com">[https://mulhertech.blogspot.com](https://mulhertech.blogspot.com)</a>  
-* Blog Wordpress - Ana Gauna Tech - <a href="https://anagaunatech.wordpress.com">[https://anagaunatech.wordpress.com](https://anagaunatech.wordpress.com)</a>  
-* Blog Medium @amgauna - <a href="https://medium.com/@anagauna">[https://medium.com/@anagauna](https://medium.com/@anagauna)</a>
+* Website - Ana Gauna Tech - https://www.anagauna.eti.br
+* Website - Ana Gauna Dev - https://www.anagauna.dev.br
+* Website - Amgauna Tecnologia Projetos - https://www.amgauna.com.br
+* Blog Blogger - MulherTech Blog - https://mulhertech.blogspot.com
+* Blog Wordpress - Ana Gauna Tech - https://anagaunatech.wordpress.com
+* Blog Medium @amgauna - https://medium.com/@anagauna
 
 ---
 ### ✨ Social Media
