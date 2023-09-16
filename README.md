@@ -14,25 +14,18 @@
 * I am Brazilian, woman, mother, I have an adult daughter.
 * I live and work in the South Zone of the City of of Rio de Janeiro, RJ, Brazil.
 * CRA-RJ:03-03161 (professional registration): Technologist in Data Processing / Senior Systems Analyst / Data Analyst.
+* 1987 to 1995 - I used several BBS with IRC server in Rio de Janeiro City, RJ, Brazil.
+* 1995 - I started using the internet in Rio de Janeiro City, RJ, Brazil.
+* 1998 - I started using websites with domain at Registro.BR.
 
 ---
 ### ✨ Currently Working
-* Senior Systems Analyst, Data Analyst, Software Analyst, Web Developer Sites & Blogs (Front-end/Back-end).
-* Graphic Designer - Creating and editing images with Adobe Photoshop and Corel Draw. I use Adobe Behance.
-* Digital Marketing Analyst (Google Marketing Platform: Google AdSense, Google AdWords, Google Analytics).
-* APIs - Google Cloud, Google Developers, Google Maps, Instagram API, Facebooks API, UOL PagSeguro API, etc.
-* I worked with Administration Technician, services in the areas of information technology, administration, marketing, accounting, for several companies in Brazil.
-* I worked with Windows Technical Support, installation and configuration of wireless equipment and applications, SQL data backup/restoration, computer assembly, management of technical projects, implementation of ERP systems, etc.
-
----
-### ✨ Internet in Brazil
-* 1987 to 1995 - I used several BBS with IRC server in Rio de Janeiro, RJ, Brazil.
-* 1995 - I started using the internet in Rio de Janeiro, RJ, Brazil.
-* 1998 - My first website with my own domain at Registro.BR.
-* Website - <a href="https://www.anagauna.eti.br">anagauna.eti.br</a> and <a href="https://www.anagauna.dev.br">anagauna.dev.br</a>
-* Blog - Blogger <a href="https://mulhertech.blogspot.com">MulherTech</a> | 
-         Wordpress <a href="https://anagaunatech.wordpress.com">AnaGaunaTech</a> | 
-         Medium <a href="https://medium.com/@anagauna">@anagauna</a>
+* IT Consultant / Project Manager / Senior Systems Analyst / Software Analyst / Data Analyst / Web Developer / Backend / Designer Graphic
+* Website anagauna.eti.br - <a href="https://www.anagauna.eti.br">www.anagauna.eti.br</a>
+* Website anagauna.dev.br - <a href="https://www.anagauna.dev.br">www.anagauna.dev.br</a>
+* Blog Blogger - MulherTech Blog - <a href="https://mulhertech.blogspot.com">[MulherTech](https://mulhertech.blogspot.com)</a>  
+* Blog Wordpress - Ana Gauna Tech - <a href="https://anagaunatech.wordpress.com">[AnaGaunaTech](https://anagaunatech.wordpress.com)</a>  
+* Blog Medium @amgauna - <a href="https://medium.com/@anagauna">[@anagauna](https://medium.com/@anagauna)</a>
 
 ---
 ### ✨ Social Media
