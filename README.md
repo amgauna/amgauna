@@ -53,21 +53,13 @@
 ---
 ### ✨ Microsoft Technical Forums (2010-2023)
 * Since 2010 I used the Microsoft Technet and Microsoft MSDN technical forums.
-* Courses <a href="https://learn.microsoft.com/en-us/users/amgauna/">Microsoft Learn</a> |
-  Fórums <a href="https://social.technet.microsoft.com/profile/amgauna/">Microsoft Technet</a> | <a href="https://social.msdn.microsoft.com/profile/amgauna/">Microsoft MSDN</a> | <a href="https://answers.microsoft.com/pt-br/profile/54fbbb44-9dc0-44a4-90ec-bc55b88a9711/">Microsoft Community</a>
+* Microsoft Learn Courses - https://learn.microsoft.com/en-us/users/amgauna/
+* Microsoft Technet Forums - https://social.technet.microsoft.com/profile/amgauna/
+* Microsoft MSDN Forums - https://social.msdn.microsoft.com/profile/amgauna/
+* Microsoft Community - https://answers.microsoft.com/pt-br/profile/54fbbb44-9dc0-44a4-90ec-bc55b88a9711/
   
 ---
 ### ✨ Self-Taught Study
-* In 2015 I bought new books and I'm rereading handouts and tutorials.
-* ABNT norms of Information Security (ISO-27001, ISO-27002, ISO-27003).
-* Project Management PMBook (PMI.Org), Cobit5 (Isaca.Org) & Itil4 (Axelos.Org).
-* Data Base: Microsoft SQL Server (TSQL), Oracle MySQL, MariaDB SQL.
-* Microsoft Visual Studio Code, Notepad++, Wamp Server, Xamp Server.
-* Software Engineering, Data Modeling, PDO, MVC, User Experience (UX), etc.
-* HTML5, CSS3, JavaScript, Bootstrap 5.3, PHP 8.2, JQuery, Node.JS, React.JS, Angular.JS, Vue.JS, TypeScript.
-* Apps with Java SE17 JDK, Java Server Pages, Python 5.3, C, C++, C#, etc.
-* Currently I am studyind and testing the online execution of several codes.
-
 <div style="display: inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="auto" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="auto" />
