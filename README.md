@@ -25,7 +25,7 @@
 * Web Designer / Designer Graphic / Corel Draw / Adobe Photoshop / [Adobe Behance @amgauna](https://www.behance.net/amgauna/) 
 * Senior Systems Analyst / Software Analyst / Web Developer / Frontend / Backend 
 * Website - [Ana Gauna Tech](https://www.anagauna.eti.br) | [Ana Gauna Dev](https://www.anagauna.dev.br) | [Amgauna Tecnologia Projetos](https://www.amgauna.com.br)
-* Google Blogger [MulherTech Blog](https://mulhertech.blogspot.com) | Wordpress [Ana Gauna Tech](https://anagaunatech.wordpress.com) | Medium [@amgauna](https://medium.com/@anagauna)
+* Articles - Blogger [MulherTech Blog](https://mulhertech.blogspot.com) | Wordpress [Ana Gauna Tech](https://anagaunatech.wordpress.com) | Medium [@amgauna](https://medium.com/@anagauna)
 
 ---
 ### ✨ Social Media
