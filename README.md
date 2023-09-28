@@ -47,7 +47,7 @@
 * [Microsoft Technet](https://social.technet.microsoft.com/profile/amgauna/) | [Microsoft MSDN](https://social.msdn.microsoft.com/profile/amgauna/) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/amgauna/) | [Microsoft Community](https://answers.microsoft.com/pt-br/profile/54fbbb44-9dc0-44a4-90ec-bc55b88a9711/)
   
 ---
-### ✨ Self-Taught Study
+### ✨ Self-Taught Study (2015 to present)
 <div style="display: inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="auto" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="auto" />
