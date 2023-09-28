@@ -44,11 +44,6 @@
   <a href="https://www.kooapp.com/profile/amgauna/">Koo</a> |
   <a href="https://www.tumblr.com/amgauna/">Tumblr</a> | 
   <a href="https://www.flickr.com/photos/amgauna/">Flickr</a> | 
-  <a href="https://dev.to/amgauna/">DEV Community</a> 
-
----
-### ✨ Microsoft Technical Forums (2010-2023)
-* Since 2010 I used the Microsoft Technet and Microsoft MSDN technical forums.
 * [Microsoft Technet](https://social.technet.microsoft.com/profile/amgauna/) | [Microsoft MSDN](https://social.msdn.microsoft.com/profile/amgauna/) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/amgauna/) | [Microsoft Community](https://answers.microsoft.com/pt-br/profile/54fbbb44-9dc0-44a4-90ec-bc55b88a9711/)
   
 ---
