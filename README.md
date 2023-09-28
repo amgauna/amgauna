@@ -12,7 +12,7 @@
 	
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
 * I am Brazilian, woman, mother, I have an adult daughter.
-* I am an Administration and Information Technology professional with more than 25 years of experience. I live and work in the South Zone of the City of of Rio de Janeiro, RJ, Brazil.
+* I am a professional in Administration Techniques and Information Technology with over 25 years of experience. I live and work in the South Zone of the City of of Rio de Janeiro, RJ, Brazil.
 * CRA-RJ:03-03161 (professional registration): Technologist in Data Processing / Senior Systems Analyst / Data Analyst.
 * 1987 to 1995 - I used several BBS with IRC server in Rio de Janeiro City, RJ, Brazil.
 * 1995 to present - I started using the internet in Rio de Janeiro City, RJ, Brazil.
