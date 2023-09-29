@@ -16,7 +16,7 @@
 * CRA-RJ:03-03161 (professional registration): Technologist in Data Processing (Registration Date: 06/23/2016)
 
 ---
-### ✨ Currently Working
+### ✨ Currently Working (1985 to present)
 * Profession (1): IT Consultant / IT Project Manager / Data Analyst
 * Profession (2): Tech Support Analyst / Office365 Business / Windows11 / Windows Server / PowerBI / Sharepoint
 * Profession (3): Senior Systems Analyst / Software Analyst / WebDeveloper / Frontend / Backend 
