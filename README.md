@@ -11,7 +11,7 @@
 # 👩🏻‍💻 Hi, I'm ANA MERCEDES GAUNA
 	
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
-* I am Brazilian, woman, mother. I have an adult daughter. I live and work in the South Zone of the City of of Rio de Janeiro, RJ, Brazil.
+* I am Brazilian, woman, mother of an adult daughter. I live and work in the South Zone of the City of of Rio de Janeiro, RJ, Brazil.
 * I worked as an Administration Technician from 1985 until 1996. I am a professional in Information Technology with over 25 years of experience. I used BBS (IRC) in Brazil in the 90s. I have been working using the internet in Brazil since 1995. I have had websites at http.registro.br since 1998.
 * CRA-RJ:03-03161 (professional registration): Technologist in Data Processing (Registration Date: 06/23/2016)
 
