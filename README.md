@@ -13,20 +13,22 @@
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
 * I am Brazilian, woman, mother, I have an adult daughter.
 * I am a professional in Administration Techniques and Information Technology with over 25 years of experience. I live and work in the South Zone of the City of of Rio de Janeiro, RJ, Brazil.
-* CRA-RJ:03-03161 (professional registration): Technologist in Data Processing / Senior Systems Analyst / Data Analyst.
-* 🖥️ Site Ana Gauna Tech - https://www.anagauna.eti.br / 📧
-* 🖥️ Site Ana Gauna Dev - https://www.anagauna.dev.br / 📧
-* 🖥️ Google Blogger - MulherTech Blog https://mulhertech.blogspot.com
-* 🖥️ Wordpress - Ana Gauna Tech Blog - https://anagaunatech.wordpress.com/
+* CRA-RJ:03-03161 (professional registration): Technologist in Data Processing (Registration Date: 06/23/2016)
 
 ---
 ### ✨ Currently Working
-* IT Consultant / IT Project Manager / Data Analyst / Data Analytics
-* Tech Support Analyst / Office 365 Busineess / Windows11 / Windows Server / SQL Server / Power BI / Sharepoint
-* Web Designer / Designer Graphic / Corel Draw / Adobe Photoshop / [Adobe Behance @amgauna](https://www.behance.net/amgauna/) 
-* Senior Systems Analyst / Software Analyst / Web Developer / Frontend / Backend 
-* Website - [Ana Gauna Tech](https://www.anagauna.eti.br) | [Ana Gauna Dev](https://www.anagauna.dev.br) | [Amgauna Tecnologia Projetos](https://www.amgauna.com.br)
-* Articles - Blogger [MulherTech Blog](https://mulhertech.blogspot.com) | Wordpress [Ana Gauna Tech](https://anagaunatech.wordpress.com) | Medium [@amgauna](https://medium.com/@anagauna)
+* Profession (1): IT Consultant / IT Project Manager / Data Analyst
+* Profession (2): Tech Support Analyst / Office365 Business / Windows11 / Windows Server / PowerBI / Sharepoint
+* Profession (3): Senior Systems Analyst / Software Analyst / WebDeveloper / Frontend / Backend 
+* Profession (4): WebDesigner / Designer Graphic (Corel Draw / Adobe Photoshop)
+* Profession (5): Administration Technician, Business Analyst / Digital Marketing Analyst
+* 🖥️ Site Ana Gauna Tech 📧 https://www.anagauna.eti.br
+* 🖥️ Site Ana Gauna Dev 📧 https://www.anagauna.dev.br 
+* 🖥️ Site Amgauna Tecnologia Projetos https://www.amgauna.com.br
+* 🖥️ Blogger MulherTech Blog https://mulhertech.blogspot.com
+* 🖥️ Wordpress Ana Gauna Tech Blog https://anagaunatech.wordpress.com
+* 🖥️ Medium @amgauna https://medium.com/@anagauna
+* 🖥️ Adobe Behance @amgauna https://www.behance.net/amgauna/
 
 ---
 ### ✨ Social Media
