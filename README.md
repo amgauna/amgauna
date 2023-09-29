@@ -18,7 +18,7 @@
 ---
 ### ✨ Currently Working (1985 to present)
 * Profession (1): IT Consultant / IT Project Manager / Data Analyst
-* Profession (2): Tech Support Analyst / Office365 Business / Windows11 / Windows Server / PowerBI / Sharepoint
+* Profession (2): Tech Support Analyst (Office365 / Windows11 / Windows Server / PowerBI / Sharepoint)
 * Profession (3): Senior Systems Analyst / Software Analyst / WebDeveloper / Frontend / Backend 
 * Profession (4): WebDesigner / Designer Graphic (Corel Draw / Adobe Photoshop)
 * Profession (5): Administration Technician, Business Analyst / Digital Marketing Analyst
