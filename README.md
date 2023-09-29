@@ -22,9 +22,9 @@
 * Profession (3): Senior Systems Analyst / Software Analyst / WebDeveloper / Frontend / Backend 
 * Profession (4): WebDesigner / Designer Graphic (Corel Draw / Adobe Photoshop)
 * Profession (5): Administration Technician, Business Analyst / Digital Marketing Analyst
-* 🖥️ Site Ana Gauna Tech 📧 https://www.anagauna.eti.br
-* 🖥️ Site Ana Gauna Dev 📧 https://www.anagauna.dev.br 
-* 🖥️ Site Amgauna Tecnologia Projetos https://www.amgauna.com.br
+* 🖥️ Website Ana Gauna Tech 📧 https://www.anagauna.eti.br
+* 🖥️ Website Ana Gauna Dev 📧 https://www.anagauna.dev.br 
+* 🖥️ Website Amgauna Tecnologia Projetos https://www.amgauna.com.br
 * 🖥️ Blogger MulherTech Blog https://mulhertech.blogspot.com
 * 🖥️ Wordpress Ana Gauna Tech Blog https://anagaunatech.wordpress.com
 * 🖥️ Medium @amgauna https://medium.com/@anagauna
