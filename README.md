@@ -24,7 +24,7 @@
 * Profession (5): Administration Technician, Business Analyst / Digital Marketing Analyst
 * 🖥️ Website Ana Gauna Tech www.anagauna.eti.br 📧 anagauna@anagauna.eti.br
 * 🖥️ Website Ana Gauna Dev www.anagauna.dev.br 📧 anagauna.anagauna.dev.br
-* 🖥️ Blogger MulherTech Blog https://mulhertech.blogspot.com e www.mulhertech.com.br
+* 🖥️ Blogger MulherTech Blog https://mulhertech.blogspot.com and www.mulhertech.com.br
 * 🖥️ Wordpress Ana Gauna Tech Blog https://anagaunatech.wordpress.com
 * 🖥️ Medium @amgauna www.medium.com/@anagauna
 * 🖥️ Adobe Behance @amgauna www.behance.net/amgauna/
