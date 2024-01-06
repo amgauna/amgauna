@@ -30,25 +30,6 @@
 * 🖥️ Adobe Behance @amgauna www.behance.net/amgauna/
 
 ---
-### ✨ Social Media
-* <a href="https://github.com/amgauna/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="auto" /></a> 
-  <a href="https://www.behance.net/amgauna/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="20" height="auto" /></a> 
-  <a href="https://www.linkedin.com/in/amgauna/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="auto" /></a>  
-  <a href="https://twitter.com/amgauna/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20" height="auto" /></a> 
-  <a href="https://www.facebook.com/anagaunatech/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20" height="auto" /></a> | 
-  <a href="https://www.instagram.com/amgauna/">Instagram</a> |
-  <a href="https://www.tiktok.com/@anamgauna">TikTok</a> | 
-  <a href="https://www.kooapp.com/profile/amgauna/">Koo</a> |
-  <a href="https://www.tumblr.com/amgauna/">Tumblr</a> | 
-  <a href="https://www.flickr.com/photos/amgauna/">Flickr</a> | 
-* [Microsoft Technet](https://social.technet.microsoft.com/profile/amgauna/) | [Microsoft MSDN](https://social.msdn.microsoft.com/profile/amgauna/) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/amgauna/) | [Microsoft Community](https://answers.microsoft.com/pt-br/profile/54fbbb44-9dc0-44a4-90ec-bc55b88a9711/)
-  
----
 ### ✨ Self-Taught Study (2015 to present)
 <div style="display: inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="auto" /> 
