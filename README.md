@@ -13,7 +13,7 @@
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
 * I am Brazilian, woman, mother of an adult daughter. I live and work in the in the Neighborhood: Botafogo, south zone of the City: Rio de Janeiro, State: Rio de Janeiro, Brazil.
 * I worked as an Administration Technician from 1985 to 1996. I am a professional in Information Technology with over 25 years of experience. I used BBS (IRC) in Brazil in the 90s. I have been working using the internet in Brazil since 1995. I have had websites at https://cgi.br and https://registro.br since 1998.
-* CRA-RJ:03-03161 (professional registration): Technologist in Data Processing (Registration Date: 06/23/2016).
+* Professional registration CRA-RJ:03-03161 of Technologist in Data Processing (Registration Date: 06/23/2016).
 * Curso Superior de Tecnólogo em Processamento de Dados, realizado na FACHA - Faculdades Integradas Helio Alonso, curso presencial completo e concluído em 2003, na Cidade do Rio de Janeiro, RJ, Brasil.
 
 ---
