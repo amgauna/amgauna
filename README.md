@@ -16,8 +16,6 @@
 * Professional registration CRA-RJ:03-03161 of Technologist in Data Processing (Registration Date: 06/23/2016).
 * Curso Superior de Tecnólogo em Processamento de Dados, realizado na FACHA - Faculdades Integradas Helio Alonso, curso presencial completo e concluído em 2003, na Cidade do Rio de Janeiro, RJ, Brasil.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgauna&theme=discord" alt="Amgauna" /></a> </p>
-
 ---
 ### ✨ Self-Taught Study (2015 to present)
 <div style="display: inline_block">
@@ -42,6 +40,8 @@
 
 ---
 ### ✨ Github Stats: Most Used Languages & Top Languages
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgauna&theme=discord" alt="Amgauna" /></a> </p>
 
 <div class="top-left"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
