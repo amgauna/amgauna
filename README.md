@@ -43,14 +43,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgauna&theme=default" alt="Amgauna" /></a> </p>
 
-<div class="top-left"> 
+<div class="top-center"> 
+<a href="https://github.com/amgauna/github-readme-stats" align="left" />
+<img width="300" height="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> 
+</a>
 <a href="https://github.com/amgauna/github-readme-stats" align="right" />
 <img width="400" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> </a> 
-</div>
-
-<div class="top-right"> 
-<a href="https://github.com/amgauna/github-readme-stats" align="left" />
-<img width="300" height="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> </a>
 </div>
 
 <div class="top-left"> 
