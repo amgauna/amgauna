@@ -41,7 +41,7 @@
 ---
 ### ✨ Github Stats: Most Used Languages & Top Languages
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgauna&theme=discord" alt="Amgauna" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgauna&theme=default" alt="Amgauna" /></a> </p>
 
 <div class="top-left"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
