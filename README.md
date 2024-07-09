@@ -39,6 +39,19 @@
 </div>
 
 ---
+### ✨ Github Stats: Total Contributions
+
+<div class="stats1-right"> 
+<a href="https://github.com/amgauna/github-readme-stats" />
+<img width="400" height="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> </a> 
+</div>
+
+<div class="stats2-left"> 
+<a href="https://github.com/amgauna/github-readme-stats" />
+<img width="300" height="auto" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> </a>
+</div>
+
+---
 ### ✨ Github Stats: Most Used Languages & Top Languages
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgauna&theme=default" alt="Amgauna" /></a> </p>
@@ -57,16 +70,3 @@
 <a href="https://github.com/amgauna/github-readme-stats" />
 <img width="270" height="auto" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&langs_count=30&username=amgauna&theme=default" /> </a>
 </div> 
- 
----
-### ✨ Github Stats: Total Contributions
-
-<div class="right"> 
-<a href="https://github.com/amgauna/github-readme-stats" />
-<img width="400" height="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> </a> 
-</div>
-
-<div class="right"> 
-<a href="https://github.com/amgauna/github-readme-stats" />
-<img width="270" height="auto" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> </a>
-</div>
