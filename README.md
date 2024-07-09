@@ -8,8 +8,6 @@
 </a>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgauna&theme=discord" alt="Amgauna" /></a> </p>
-
 # 👩🏻‍💻 Hi, I'm ANA MERCEDES GAUNA
 	
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
@@ -18,23 +16,8 @@
 * Professional registration CRA-RJ:03-03161 of Technologist in Data Processing (Registration Date: 06/23/2016).
 * Curso Superior de Tecnólogo em Processamento de Dados, realizado na FACHA - Faculdades Integradas Helio Alonso, curso presencial completo e concluído em 2003, na Cidade do Rio de Janeiro, RJ, Brasil.
 
----
-### ✨ Currently Working (1985 to present)
-* Profession (1): IT Consultant / IT Project Manager / Data Analyst
-* Profession (2): Tech Support Analyst (Office365 / Windows11 / Windows Server / PowerBI / Sharepoint)
-* Profession (3): Senior Systems Analyst / Software Analyst / WebDeveloper / Frontend / Backend 
-* Profession (4): WebDesigner / Designer Graphic (Corel Draw / Adobe Photoshop)
-* Profession (5): Administration Technician / Business Analyst / Digital Marketing Analyst
-* 🖥️ Website Ana Gauna Tech www.anagauna.eti.br 📧 anagauna@anagauna.eti.br
-* 🖥️ Website Ana Gauna Dev www.anagauna.dev.br 📧 anagauna.anagauna.dev.br
-* 🖥️ Website MulhjerTech Management www.mulhertech.com.br 📧 anagauna.mulhertech.com.br
-* 🖥️ Blog Google Blogger - MulherTech Management https://mulhertech.blogspot.com 
-* 🖥️ Blog Wordpress - Ana Gauna Tech Blog https://anagaunatech.wordpress.com
-* 🖥️ Medium @amgauna www.medium.com/@anagauna
-* 🖥️ Adobe Behance @amgauna www.behance.net/amgauna/
-* 🖥️ TikTok @anamercedesgauna www.tiktok.com/@anamercedesgauna/
-* 🖥️ Tiktok @anagaunatech www.tiktok.com/@anagaunatech/
-* 🖥️ TikTok MulherTech www.tiktok.com/@mulhertech/ 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgauna&theme=discord" alt="Amgauna" /></a> </p>
+
 ---
 ### ✨ Self-Taught Study (2015 to present)
 <div style="display: inline_block">
