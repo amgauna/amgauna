@@ -39,20 +39,17 @@
 </div>
 
 ---
-### ✨ Github Stats: Total Contributions
+### ✨ Github Stats: Total Contributions & Top Languages
 
-<div class="stats1-right"> 
-<a href="https://github.com/amgauna/github-readme-stats" />
-<img width="400" height="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> </a> 
+<div class="stats1"> 
+<a href="https://github.com/amgauna/github-readme-stats" align="right" />
+<img width="400" height="auto" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> </a> 
 </div>
 
-<div class="stats2-left"> 
-<a href="https://github.com/amgauna/github-readme-stats" />
-<img width="300" height="auto" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> </a>
+<div class="stats2"> 
+<a href="https://github.com/amgauna/github-readme-stats" align="left" />
+<img width="300" height="auto" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default" /> </a>
 </div>
-
----
-### ✨ Github Stats: Most Used Languages & Top Languages
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgauna&theme=default" alt="Amgauna" /></a> </p>
 
