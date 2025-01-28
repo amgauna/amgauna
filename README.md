@@ -58,10 +58,6 @@
 
 <div class="top-right">
 <a href="https://github.com/amgauna/github-readme-stats" />
-<img width="270" height="auto" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default" /> </a>
+<img width="350" height="auto" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default" /> </a>
 </div>
 
-<div class="top-right"> 
-<a href="https://github.com/amgauna/github-readme-stats" />
-<img width="270" height="auto" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=amgauna&langs_count=30&theme=default" /> </a>
-</div> 
