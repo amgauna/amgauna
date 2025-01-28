@@ -8,7 +8,7 @@
 </a>
 </div>
 
-# 👩🏻‍💻 Hi, I'm ANA MERCEDES GAUNA
+# 👩🏻‍💻 Hi, I'm ANA GAUNA
 	
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
 * I am Brazilian, woman, mother of an adult daughter. I live and work in the in the Neighborhood: Botafogo, south zone of the City: Rio de Janeiro, State: Rio de Janeiro, Brazil. I worked as an Administration Technician from 1985 to 1996. I have been working using the internet in Brazil since 1995. I have had websites at https://cgi.br and https://registro.br since 1998.
