@@ -8,11 +8,14 @@
 </a>
 </div>
 
-# 👩🏻‍💻 Hi, I'm ANA GAUNA
+# 👩🏻‍💻 Hi, I'm '''ANA MERCEDES GAUNA - Tech Dev'''
 	
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
-* I am Brazilian, woman, mother of an adult daughter. I live and work in the in the Neighborhood: Botafogo, south zone of the City: Rio de Janeiro, State: Rio de Janeiro, Brazil. I worked as an Administration Technician from 1985 to 1996. I have been working using the internet in Brazil since 1995. I have had websites at https://cgi.br and https://registro.br since 1998.
-* Professional registration CRA-RJ:03-03161 of Technologist in Data Processing. Higher Course in Data Processing Technology, held at FACHA - Faculdades Integradas Helio Alonso, classroom course completed in 2003, in the City of Rio de Janeiro, RJ, Brazil.
+* I am Brazilian, woman, mother of an adult daughter. I live and work in the in the Neighborhood: Botafogo, south zone of the City of Rio de Janeiro, RJ, Brazil.
+* I am a Senior Data Processing Technologist, Professional Registration CRA-RJ:03-03161 of Conselho Regional de Administração of State of Rio de Janeiro, Brazil.
+* Higher Course in Data Processing Technology, held at FACHA - Faculdades Integradas Helio Alonso, classroom course completed in 2003, in the City of Rio de Janeiro, RJ, Brazil.
+* I have been working using the internet since 1996 with Technical Project Management, Information Technology, ERP Systems Implementation, Administration Techniques, Google Digital Marketing, APIs and Cloud Computing.
+* I have been working using websites at https://cgi.br and https://registro.br since 1998 in City of Rio de Janeiro, RJ, Brazil.
 
 ---
 ### ✨ Self-Taught Study (2015 to present)
