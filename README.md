@@ -17,6 +17,10 @@
 * I have been working using the internet since 1996 with Technical Project Management, Information Technology, ERP Systems Implementation, Administration Techniques, Google Digital Marketing, APIs and Cloud Computing.
 * I have been working using websites at https://cgi.br and https://registro.br since 1998 in City of Rio de Janeiro, RJ, Brazil.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=amgauna&theme=discord" alt="Amgauna" />
+</a> </p>
+
 ---
 ### ✨ Self-Taught Study (2015 to present)
 <div style="display: inline_block">
