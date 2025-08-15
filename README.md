@@ -8,13 +8,12 @@
 </a>
 </div>
 
-# 👩🏻‍💻 Hello!
+# 👩🏻‍💻 Ana Gauna Tech Dev (Rio de Janeiro, Brazil)
 	
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
-* I am Brazilian, woman, mother of an adult daughter. I live and work in the in the Neighborhood: Botafogo, south zone of the City of Rio de Janeiro, RJ, Brazil.
-* I am a Senior Data Processing Technologist, Professional Registration CRA-RJ:03-03161 of Conselho Regional de Administração of State of Rio de Janeiro, Brazil.
+* I´m a woman, an Brazilian, mother of an adult daughter. I´m a Senior Data Processing Technologist, CRA-RJ:03-03161 (Professional Registration) of Conselho Regional de Administração of Rio de Janeiro. I´m from Botafogo, City Rio de Janeiro, State RJ, Brazil.
 * Higher Course in Data Processing Technology, held at FACHA - Faculdades Integradas Helio Alonso, classroom course completed in 2003, in the City of Rio de Janeiro, RJ, Brazil.
-* I have been working using the internet since 1996 with Technical Project Management, Information Technology, ERP Systems Implementation, Administration Techniques, Google Digital Marketing, APIs and Cloud Computing.
+* I have been working using the internet since 1996-2025 with Technical Project Management, Information Technology, ERP Systems Implementation, Administration Techniques, Google Digital Marketing, APIs and Cloud Computing.
 * I have been working using websites at https://cgi.br and https://registro.br since 1998 in City of Rio de Janeiro, RJ, Brazil.
 
 ---
