@@ -8,7 +8,7 @@
 </a>
 </div>
 
-# 👩🏻‍💻 Hi, I'm '''ANA GAUNA'''
+# 👩🏻‍💻 Hi!!!
 	
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
 * I am Brazilian, woman, mother of an adult daughter. I live and work in the in the Neighborhood: Botafogo, south zone of the City of Rio de Janeiro, RJ, Brazil.
