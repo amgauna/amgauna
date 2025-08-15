@@ -12,8 +12,7 @@
 	
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
 * I´m a woman, an Brazilian, mother of an adult daughter. I´m from Botafogo, City Rio de Janeiro, State RJ, Brazil.
-* I´m a Data Processing Technologist, CRA-RJ:03-03161 (Professional Registration) of Conselho Regional de Administração of Rio de Janeiro. 
-* Higher Course in Data Processing Technology, held at FACHA - Faculdades Integradas Helio Alonso, classroom course completed in 2003.
+* I´m a Data Processing Technologist, CRA-RJ:03-03161 (Professional Registration) of Conselho Regional de Administração of Rio de Janeiro. Higher Course in Data Processing Technology, held at FACHA - Faculdades Integradas Helio Alonso, classroom course completed in 2003.
 * I have been working using the internet since 1996-2025 with Technical Project Management, Information Technology, ERP Systems Implementation, Administration Techniques, Google Digital Marketing, APIs and Cloud Computing. I have been working since 1998 using websites at https://cgi.br and https://registro.br
 
 ---
