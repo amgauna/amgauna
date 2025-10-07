@@ -8,7 +8,7 @@
 </a>
 </div>
 
-# 👩🏻‍💻 Ana Gauna Tech Dev
+# 👩🏻‍💻 Ana Gauna (Tech Dev) 
 	
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
 * I´m a woman, an Brazilian, mother of an adult daughter. I´m from Botafogo, City Rio de Janeiro, State RJ, Brazil.
