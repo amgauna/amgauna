@@ -1,7 +1,6 @@
 <div align="right">   
 <a href="https://github.com/amgauna/">
-<img src="https://img.shields.io/github/followers/amgauna?label=follow&style=social&link=https://www.github.com/amgauna/" 
- title="Follow me" alt="Followers" /> 
+<img src="https://img.shields.io/github/followers/amgauna?label=follow&style=social&link=https://www.github.com/amgauna/" title="Follow me" alt="Followers" /> 
 </a> 
 <a href="https://github.com/amgauna">
 <img src="https://komarev.com/ghpvc/?username=amgauna&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow&link=https://www.github.com/amgauna/" title="Profile views" alt="Profile views" /> 
@@ -66,6 +65,6 @@ ___
 
 <div align="right">
   <a href="https://wakatime.com/@c2eea5ba-3079-4fa5-8d83-15f10e89cc66">
-    <img src="https://wakatime.com/badge/amgauna/c2eea5ba-3079-4fa5-8d83-15f10e89cc66.svg?color=178600" alt="wakatime" />
+    <img src="https://wakatime.com/badge/user&style=social&link=https://www.github.com/amgauna/"&/c2eea5ba-3079-4fa5-8d83-15f10e89cc66.svg?color=178600" alt="wakatime" />
   </a>
 </div>
