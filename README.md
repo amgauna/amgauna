@@ -54,7 +54,7 @@
 
 <div class="top-left"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
-<img width="390" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=350" /> </a>
+<img width="350" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=350" /> </a>
 </div>
 
 <div class="top-right">
@@ -66,6 +66,6 @@
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true" />
+  <img width="360" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true" />
 </picture>
 ___
