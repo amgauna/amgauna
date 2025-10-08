@@ -69,8 +69,8 @@
 </div>
 
 <div align="center">
-  <a href="https://codestats.net/users/amgauna&link=https://www.github.com/amgauna" target="_blank">
-    <img src="https://codestats-readme.wegfan.cn/history-graph/amgauna&link=https://www.github.com/amgauna&?history_days=30&max_languages=12" alt="Code::Stats history graph" />
+  <a href="https://codestats.net/users/amgauna/&link=https://www.github.com/amgauna" target="_blank">
+    <img src="https://codestats-readme.wegfan.cn/history-graph/amgauna/&link=https://www.github.com/amgauna&?history_days=30&max_languages=12" alt="Code::Stats history graph" />
   </a>
 </div>
 ___
