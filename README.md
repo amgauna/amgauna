@@ -62,15 +62,11 @@
 <img width="390" height="auto" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default" /> </a>
 </div>
 
+[![Amgauna's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=radical#gh-light-mode-only)](https://github.com/amgauna/github-readme-stats#gh-light-mode-only)
+
 <div align="right">
   <a href="https://wakatime.com/@c2eea5ba-3079-4fa5-8d83-15f10e89cc66">
     <img src="https://wakatime.com/badge/user/c2eea5ba-3079-4fa5-8d83-15f10e89cc66.svg?color=178600" alt="wakatime" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://codestats.net/users/amgauna" target="_blank">
-    <img src="https://codestats-readme.wegfan.cn/history-graph/amgauna/?history_days=30&max_languages=12" alt="Code::Stats history graph" />
   </a>
 </div>
 ___
