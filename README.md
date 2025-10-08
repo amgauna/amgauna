@@ -68,3 +68,7 @@
   <source srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img width="380" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true" />
 </picture>
+
+ <!-- Activity Graph Compact -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amgauna&theme=radical&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed&custom_title=Atividade%20de%20Desenvolvimento" alt="Activity Graph" />
+ 
