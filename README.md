@@ -66,6 +66,6 @@ ___
 
 <div align="right">
   <a href="https://wakatime.com/@c2eea5ba-3079-4fa5-8d83-15f10e89cc66">
-    <img src="https://wakatime.com/badge/amgauna/c2eea5ba-3079-4fa5-8d83-15f10e89cc66.svg?color=178600" alt="wakatime" />
+    <img src="https://wakatime.com/badge/user=&style=social&link=https://www.github.com/amgauna/&c2eea5ba-3079-4fa5-8d83-15f10e89cc66.svg?color=178600" alt="wakatime" />
   </a>
 </div>
