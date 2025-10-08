@@ -1,0 +1,16 @@
+name: Wakatime Stats
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite
+
+jobs:
+  update-charts:
+    name: Update Wakatime Stats Charts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Fr4nk1inCs/wakatime-charts@master # ou outra ação de sua escolha
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Opcional, mas recomendado
+          
