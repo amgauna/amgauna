@@ -70,5 +70,5 @@
 </picture>
 
  <!-- Activity Graph Compact -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amgauna&theme=radical&time=month/year&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed&custom_title=Atividade%20de%20Desenvolvimento" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amgauna&theme=radical&period=year&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed&custom_title=Atividade%20de%20Desenvolvimento" alt="Activity Graph" />
  
