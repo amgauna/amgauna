@@ -62,3 +62,10 @@
 <img width="390" height="auto" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default" /> </a>
 </div>
 
+___
+
+<div align="right">
+  <a href="https://wakatime.com/@c2eea5ba-3079-4fa5-8d83-15f10e89cc66">
+    <img src="https://wakatime.com/badge/amgauna/c2eea5ba-3079-4fa5-8d83-15f10e89cc66.svg?color=178600" alt="wakatime" />
+  </a>
+</div>
