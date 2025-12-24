@@ -35,12 +35,12 @@
   
   // Git settings
   "git.autofetch": true,
-  "git.confirmSync": false,
+  "git.confirmSync": true,
   "git.enableSmartCommit": true,
   
   // Explorer settings
-  "explorer.confirmDelete": false,
-  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": true,
+  "explorer.confirmDragAndDrop": true,
   
   // Search settings
   "search.exclude": {
