@@ -16,7 +16,6 @@
     
     // GitHub specific
     "github.copilot",
-    "github.copilot-chat",
     
     // PDF viewer
     "tomoki1207.pdf"
