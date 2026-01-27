@@ -85,7 +85,7 @@
 </div>
 
 <picture> 
-  <source srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
   <img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true" />
 </picture>
 
