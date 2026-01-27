@@ -46,7 +46,7 @@
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/gemini3.png" width="150" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/manusai.png" width="150" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/metaai2.png" width="150" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/grokai1.jpeg" width="100" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/grokai1.jpeg" width="90" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/deepseek1.png" width="150" height="auto" /> 
 </div>
 
@@ -57,7 +57,7 @@
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/notebooklm2.png" width="120" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftdesigner1.png" width="140" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/openaisora2.png" width="150" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/capcut1.jpeg" width="120" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/capcut1.jpeg" width="100" height="auto" /> 
 </div>	
 
 ---
