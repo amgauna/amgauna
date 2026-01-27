@@ -45,9 +45,9 @@
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/chatgpt.png" width="90" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/gemini3.png" width="150" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/manusai.png" width="150" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/metaai1.jpeg" width="150" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/grokai3.png" width="150" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/deepseekai.png" width="150" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/metaai2.jpeg" width="150" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/grokai1.png" width="150" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/deepseek2.png" width="150" height="auto" /> 
 </div>
 
 ---
