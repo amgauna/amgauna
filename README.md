@@ -52,9 +52,9 @@
 🤖 Artificial Intelligence - Machine Learning Tools
 <div style="display: inline-flex; margin:auto; padding:auto;">
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio1.png" width="300" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/notebooklm1.png" width="150" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/notebooklm1.png" width="200" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/openai2.png" width="150" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/sora2.jpeg" width="200" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/sora2.jpeg" width="100" height="auto" /> 
 </div>	
 
 ---
