@@ -38,7 +38,7 @@
 </div>
 
 ---
-🤖 Artificial Intelligence - LLM Models
+### 🤖 Artificial Intelligence - LLM Models
 <div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftcopilot1.jpeg" width="90" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/gemini3.png" width="150" height="auto" /> 
@@ -51,14 +51,14 @@
 </div>
 
 ---
-🤖 Artificial Intelligence - Machine Learning Tools
+### 🤖 Artificial Intelligence - Machine Learning Tools
 <div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio3.jpeg" width="220" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/notebooklm2.png" width="100" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftdesigner1.png" width="100" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/openaisora2.png" width="100" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/capcut1.jpeg" width="100" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/canva2.jpeg" width="100" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/capcut1.jpeg" width="90" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/canva2.jpeg" width="90" height="auto" /> 
 </div>	
 
 ---
