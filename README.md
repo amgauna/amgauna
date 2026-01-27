@@ -84,11 +84,11 @@
 <img width="325" height="auto" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default" /> </a>
 </div>
 
-<picture> [![Amgauna's GitHub stats-Light]
+<picture> 
   <source srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img width="380" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true" />
 </picture>
 
  <!-- Activity Graph Compact -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amgauna&theme=default&period=year&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed&custom_title=Atividade%20de%20Desenvolvimento" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amgauna&theme=default&period=year&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed&custom_title=Atividade%20de%20Desenvolvimento" />
  
