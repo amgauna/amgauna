@@ -53,6 +53,7 @@
 <div style="display:inline-flex; margin:auto; padding:auto; align-items:center; height:100vh;">
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio1.png" width="270" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/notebooklm2.png" width="150" height="auto" /> 
+<img serc="https://github.com/amgauna/amgauna/blob/main/Image/microsoftdesigner1.png" width="150" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/openaisora2.png" width="150" height="auto" /> 
 </div>	
 
