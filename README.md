@@ -76,12 +76,12 @@
 
 <div class="top-left"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
-<img width="380" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=380&theme=default" /> </a>
+<img width="380" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=50&card_width=380&theme=default" /> </a>
 </div>
 
 <div class="top-right">
 <a href="https://github.com/amgauna/github-readme-stats" />
-<img width="380" height="150" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default" /> </a>
+<img width="380" height="180" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default" /> </a>
 </div>
 
 <picture> 
