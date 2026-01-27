@@ -43,10 +43,10 @@
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftcopilot1.jpeg" width="90" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/gemini3.png" width="150" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/claudeai1.png" width="90" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/chatgpt.png" width="90" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/chatgpt.png" width="70" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/manusai.png" width="150" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/metaai2.png" width="150" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/grokai1.jpeg" width="90" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/metaai2.png" width="100" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/grokai1.jpeg" width="70" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/deepseek1.png" width="150" height="auto" /> 
 </div>
 
@@ -54,9 +54,9 @@
 🤖 Artificial Intelligence - Machine Learning Tools
 <div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio3.jpeg" width="220" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/notebooklm2.png" width="120" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftdesigner1.png" width="140" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/openaisora2.png" width="150" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/notebooklm2.png" width="100" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftdesigner1.png" width="100" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/openaisora2.png" width="100" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/capcut1.jpeg" width="100" height="auto" /> 
 </div>	
 
