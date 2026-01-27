@@ -38,18 +38,24 @@
 </div>
 
 ---
-🤖 Artificial Intelligence and Machine Learning Tools
+🤖 Artificial Intelligence - LLM Models
 <div style="display: inline_block">
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftcopilot1.jpeg" width="50" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/goolegemini.png" width="50" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio3.png"  width="50" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/gemini3.png" width="50" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/claudeai1.png" width="50" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/openai.jpeg" width="50" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/chatgpt.png" width="50" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/soraopenai.jpeg" width="50" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/manusai.png" width="50" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/deepseekai.png" width="50" height="auto" /> 
 </div>
+
+---
+🤖 Artificial Intelligence - Machine Learning Tools
+<div style="display: inline_block">
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio3.png" width="50" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/notebooklm2.png" width="50" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/soraopenai.jpeg" width="50" height="auto" /> 
+</div>	
 
 ---
 ### ✨ Github Stats: Total Contributions & Top Languages
