@@ -17,7 +17,7 @@
 
 ---
 ### ✨ Self-Taught Study (2015 to present)
-<div style="display: inline-flex; margin:auto; padding:auto;">
+<div style="display:inline-flex; margin:auto; padding:auto; align-items:center; height:100vh;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="auto" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="auto" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="auto" />
@@ -39,7 +39,7 @@
 
 ---
 🤖 Artificial Intelligence - LLM Models
-<div style="display: inline-flex; margin:auto; padding:auto;">
+<div style="display:inline-flex; margin:auto; padding:auto; align-items:center; height:100vh;">
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftcopilot1.jpeg" width="90" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/claudeai1.png" width="90" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/chatgpt.png" width="90" height="auto" /> 
@@ -50,7 +50,7 @@
 
 ---
 🤖 Artificial Intelligence - Machine Learning Tools
-<div style="display: inline-flex; margin:auto; padding:auto;">
+<div style="display:inline-flex; margin:auto; padding:auto; align-items:center; height:100vh;">
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio1.png" width="300" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/notebooklm1.png" width="200" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/openai2.png" width="150" height="auto" /> 
