@@ -43,7 +43,7 @@
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftcopilot1.jpeg" width="90" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/gemini3.png" width="150" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/claudeai1.png" width="90" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/openai.jpeg" width="90" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/openai.jpeg" width="150" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/chatgpt.png" width="90" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/manusai.png" width="150" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/deepseekai.png" width="150" height="auto" /> 
@@ -52,9 +52,9 @@
 ---
 🤖 Artificial Intelligence - Machine Learning Tools
 <div style="display: inline_block">
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio3.png" width="150" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/notebooklm2.png" width="150" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/soraopenai.jpeg" width="90" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio3.png" width="190" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/notebooklm2.png" width="100" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/soraopenai.jpeg" width="190" height="auto" /> 
 </div>	
 
 ---
