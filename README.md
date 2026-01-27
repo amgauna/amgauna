@@ -59,8 +59,8 @@
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/googleveo3.png" width="100" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftdesigner1.png" width="100" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/openaisora2.png" width="100" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/capcut1.jpeg" width="90" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/canva2.jpeg" width="90" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/capcut1.jpeg" width="80" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/canva2.jpeg" width="80" height="auto" /> 
 </div>	
 
 ---
