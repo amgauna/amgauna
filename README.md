@@ -41,9 +41,9 @@
 🤖 Artificial Intelligence - LLM Models
 <div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftcopilot1.jpeg" width="90" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/gemini3.png" width="150" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/claudeai1.png" width="90" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/chatgpt.png" width="90" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/gemini3.png" width="150" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/manusai.png" width="150" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/metaai2.png" width="150" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/grokai1.jpeg" width="90" height="auto" /> 
