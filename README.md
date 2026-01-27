@@ -81,11 +81,11 @@
 
 <div class="top-right">
 <a href="https://github.com/amgauna/github-readme-stats" />
-<img width="350" height="150" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default" /> </a>
+<img width="380" height="150" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default" /> </a>
 </div>
 
 <picture> 
   <source srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true" />
+  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true" />
 </picture>
 
