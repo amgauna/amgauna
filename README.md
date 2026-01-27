@@ -76,19 +76,16 @@
 
 <div class="top-left"> 
 <a href="https://github.com/amgauna/github-readme-stats" />
-<img width="350" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=350&theme=default" /> </a>
+<img width="380" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=380&theme=default" /> </a>
 </div>
 
 <div class="top-right">
 <a href="https://github.com/amgauna/github-readme-stats" />
-<img width="325" height="auto" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default" /> </a>
+<img width="350" height="auto" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default" /> </a>
 </div>
 
 <picture> 
   <source srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true" />
+  <img width="350" height="auto" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true" />
 </picture>
 
- <!-- Activity Graph Compact -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amgauna&theme=light&period=year&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed&custom_title=Atividade%20de%20Desenvolvimento" />
- 
