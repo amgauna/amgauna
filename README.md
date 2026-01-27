@@ -40,15 +40,15 @@
 ---
 🤖 Artificial Intelligence and Machine Learning Tools
 <div style="display: inline_block">
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftcopilot1.jpeg" width="30" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/goolegemini.png" width="30" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio3.png"  width="30" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/claudeai.png" width="30" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/openai.jpeg" width="30" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/chatgpt.png" width="30" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/soraopenai.jpeg" width="30" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/manusai.png" width="30" height="auto" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/deepseekai.png" width="30" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftcopilot1.jpeg" width="50" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/goolegemini.png" width="50" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio3.png"  width="50" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/claudeai.png" width="50" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/openai.jpeg" width="50" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/chatgpt.png" width="50" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/soraopenai.jpeg" width="50" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/manusai.png" width="50" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/deepseekai.png" width="50" height="auto" /> 
 </div>
 
 ---
