@@ -53,7 +53,7 @@
 ---
 🤖 Artificial Intelligence - Machine Learning Tools
 <div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio3.png" width="300" height="auto" /> 
+<img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio3.jpg" width="300" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/notebooklm2.png" width="120" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftdesigner1.png" width="140" height="auto" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/openaisora2.png" width="150" height="auto" /> 
