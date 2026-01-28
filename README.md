@@ -32,6 +32,7 @@ Email: <a href="mailto:anagauna@anagauna.eti.br">anagauna@anagauna.eti.br</a>, W
 - https://TikTok.com/@amgauna <br>
 - https://Behance.com/amgauna <br>
 - https://anagauna-projetos.blogspot.com <br>
+- https://anagaunatech.wordpress.com <br>
 </div>
 
 
