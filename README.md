@@ -35,7 +35,7 @@ I have been working using the internet since 1996-2025 with Technical Project Ma
 
 ---
 ### ✨ Self-Taught Study (2015 to present)
-<div style="display:inline-flex; margin:auto; padding:auto; align-items:center; height:100vh;">
+<div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="auto" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="auto" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="auto" />
@@ -58,7 +58,7 @@ I have been working using the internet since 1996-2025 with Technical Project Ma
 
 ---
 ### 🤖 Artificial Intelligence - LLM Models
-<div style="display:inline-flex; margin:0; padding:9px; align-items:center; height:100vh;">
+<div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/gemini3.png" width="120" height="190" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/deepseek1.png" width="120" height="190" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/manusai.png" width="100" height="190" /> 
@@ -72,7 +72,7 @@ I have been working using the internet since 1996-2025 with Technical Project Ma
 
 ---
 ### 🤖 Artificial Intelligence - Machine Learning Tools
-<div style="display:inline-flex; margin:0; padding:9px; align-items:center; height:100vh;">
+<div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio3.jpeg" width="190" height="250" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/googlenanobananapro.jpeg" width="190" height="250" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/googleveo3.png" width="90" height="250" /> 
