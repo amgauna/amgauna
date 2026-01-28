@@ -13,7 +13,7 @@
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰 
 <div style="text-align:justify; content-align: justify;">
 	
-Hi, my name is <b>Ana M Gauna</b>. I am a woman, an Brazilian, a mother of an adult daughter, I am the mother of one white dog weighing 6 kilos, 1 caramel dog weighing 22 kilos and 1 black-white cat. I live and work in the Botafogo neighborhood, City of Rio de Janeiro, State of Rio de Janeiro, Brazil. <br>
+Hi, my name is <b>Ana M Gauna</b>. I am a woman, an Brazilian; a mother of an adult daughter, 1 white dog weighing 6 kilos, 1 caramel dog weighing 22 kilos and 1 black-white cat. I live and work in the Botafogo neighborhood, City of Rio de Janeiro, State of Rio de Janeiro, Brazil. <br>
 	
 I am working with Web Technology. I am studying <b>Prompt Engineering</b> and analyzing <b>LLM, generative artificial intelligence</b> app, AI Agents, AI Agentic, AI RAG Agents. <br>
 
