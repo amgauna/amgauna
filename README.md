@@ -15,7 +15,7 @@
 	
 Hi, my name is <b>Ana M Gauna</b>. I am a woman, an Brazilian; a mother of an adult daughter, 1 white dog weighing 6 kilos, 1 caramel dog weighing 22 kilos and 1 black-white cat. I live and work in the Botafogo neighborhood, City of Rio de Janeiro, State of Rio de Janeiro, Brazil. <br>
 	
-I am working with Web Technology. I am studying <b>Prompt Engineering</b> and analyzing <b>LLM, generative artificial intelligence</b> app, AI Agents, AI Agentic, AI RAG Agents. <br>
+I am working with Web Technology. I am studying <b>Prompt Engineering</b> and analyzing <b>LLM, generative artificial intelligence</b> app, AI Agents, AI Agentic, AI RAG Agents. I am analyzing <b>AI photo</b> editing apps, <b>AI video</b> editing apps, and <b>AI audio</b> editing apps that generate images using <b>generative artificial intelligence</b> filters. These AI apps need to include information in their <b>Metadata</b> indicating that they were generated using AI. <br>
 
 I am a <b>Microsoft Partners Cloud</b> partner, <b>CRA-RJ:03-03161</b> of <b>Data Processing Technologist</b>, professional registration of <b>Conselho Regional de Administração of Rio de Janeiro</b>. Higher Course in <b>Data Processing Technology</b>, held at <b>FACHA - Faculdades Integradas Helio Alonso</b>, classroom course completed in 2003. Email: <a href="mailto:anagauna@anagauna.eti.br">anagauna@anagauna.eti.br</a>, WhatsApp <a href="https://wa.me/5521979371230">+55 (21) 97937-1230</a>. <br>
 
