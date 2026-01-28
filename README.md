@@ -8,7 +8,7 @@
 </a>
 </div>
 
-# 👩🏻‍💻 Ana M Gauna (Tech Dev) 
+# 👩🏻‍💻 Hi, my name is <i>Ana M Gauna</i> (Tech Dev) 
 	
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰
 * I am a woman, an Brazilian, mother of an adult daughter. I live and work in the Botafogo neighborhood, City of Rio de Janeiro, State of Rio de Janeiro, Brazil.
