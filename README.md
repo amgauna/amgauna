@@ -11,7 +11,7 @@
 # 👩🏻‍💻 Ana M Gauna (Tech Dev) 
 	
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰 <div style="text-align:justify; content-align: justify;">
-* Hi, my name is <b>Ana M Gauna</b>. I am a woman, an Brazilian, mother of an adult daughter. I live and work in the Botafogo neighborhood, City of Rio de Janeiro, State of Rio de Janeiro, Brazil.
+* Hi, my name is <b>Ana M Gauna</b>. I am a woman, an Brazilian, a mother of an adult daughter, a mother of 2 dogs and 1 black-white cat. I live and work in the Botafogo neighborhood, City of Rio de Janeiro, State of Rio de Janeiro, Brazil.
 * I am a <b>Microsoft Partners Cloud</b> partner, <b>CRA-RJ:03-03161</b> of <b>Data Processing Technologist</b>, professional registration of <b>Conselho Regional de Administração of Rio de Janeiro</b>. Higher Course in <b>Data Processing Technology</b>, held at <b>FACHA - Faculdades Integradas Helio Alonso</b>, classroom course completed in 2003, Email: <a href="mailto:anagauna@anagauna.eti.br"></a>, WhatsApp <a href="https://wa.me/5521979371230">+55 (21) 97937-1230</a>, Website: www.anagauna.eti.br 
 * I have been working using the internet since 1996-2025 with Technical Project Management, Information Technology, ERP Systems Implementation, Administration Techniques, Google Digital Marketing, APIs and Cloud Computing. I have been working since 1998 using websites at https://cgi.br and https://registro.br
 </div>
