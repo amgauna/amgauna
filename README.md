@@ -33,6 +33,10 @@ I have been working using the internet since 1996-2025 with Technical Project Ma
 </div>
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=amgauna&theme=discord" alt="Amgauna" />
+</a> </p>
+
 ---
 ### ✨ Self-Taught Study (2015 to present)
 <div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
