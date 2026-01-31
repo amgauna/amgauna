@@ -105,8 +105,8 @@ I have been working using the internet since 1996-2025 with Technical Project Ma
 <img width="380" height="180" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default" /> </a>
 </div>
 
-<picture> 
+<a href="https://github.com/amgauna/github-readme-stats"> <picture> 
   <source srcset="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
   <img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true" />
-</picture>
+</picture> </a>
 
