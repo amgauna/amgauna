@@ -21,16 +21,16 @@ I am working with Web Technology. I am studying <b>Prompt Engineering</b> and an
 
 I have been working using the internet since 1996-2025 with Technical Project Management, Information Technology, ERP Systems Implementation, Administration Techniques, Google Digital Marketing, APIs and Cloud Computing. I have been working since 1998 using websites at https://cgi.br and https://registro.br. <br>
 
-- https://www.anagauna.eti.br <br>
-- https://www.anagauna.dev.br <br>
-- https://Instagram.com/amgauna <br>
-- https://Threads.com/@amgauna <br>
-- https://X.com/amgauna <br>
-- https://TikTok.com/@amgauna <br>
-- https://Behance.com/amgauna <br>
-- https://anagauna-projetos.blogspot.com <br>
-- https://anagaunatech.wordpress.com <br>
-- https://learn.microsoft.com/pt-br/users/amgauna/ <br>
+- Ana Gauna (Tech) = https://www.anagauna.eti.br <br>
+- Ana Gauna (Dev) =  https://www.anagauna.dev.br <br>
+- Ana Gauna (Instagram) = https://Instagram.com/amgauna <br>
+- Ana Gauna (ThReads) = https://Threads.com/@amgauna <br>
+- Ana Gauna (X Twitter) = https://X.com/amgauna <br>
+- Ana Gauna (TikTok) = https://TikTok.com/@amgauna <br>
+- Ana Gauna (Adobe Behance) = https://Behance.com/amgauna <br>
+- Ana Gauna (Blog Blogger) = https://anagauna-projetos.blogspot.com <br>
+- Ana Gauna (Blog Wordpress) = https://anagaunatech.wordpress.com <br>
+- Ana Gauna (Microsoft Learn) = https://learn.microsoft.com/pt-br/users/amgauna/ <br>
 </div>
 
 
