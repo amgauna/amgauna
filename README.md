@@ -8,7 +8,7 @@
 </a>
 </div>
 
-# 👩🏻‍💻 Ana M Gauna (Tech Dev) 
+# 👩🏻‍💻 Ana Gauna (Tech Dev) 
 	
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰 
 <div style="text-align:justify; content-align: justify;">
