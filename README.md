@@ -89,23 +89,29 @@ I have been working using the internet since 1996-2025 with Technical Project Ma
 ### ✨ Github Stats: Total Contributions & Top Languages
 
 <div class="top-center"> 
-<a href="https://github.com/amgauna/github-readme-stats" align="left" />
-<img width="300" height="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default"  /> 
-</a>
-<a href="https://github.com/amgauna/github-readme-stats" align="right" />
-<img width="450" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default" /> </a> 
+<a href="https://github.com/amgauna" align="left" />
+<img width="300" height="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default">
+(https://github.com/amgauna/forks-github-readme-stats) </a>
+	
+<a href="https://github.com/amgauna" align="right" />
+<img width="450" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default"> 
+(https://github.com/amgauna/forks-github-readme-stats) </a>
 </div>
 
 <div class="top-left"> 
-<a href="https://github.com/amgauna/github-readme-stats">
-<img width="380" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=380&theme=default" /> </a>
+<a href="https://github.com/amgauna">
+<img width="380" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=380&theme=default"> 
+(https://github.com/amgauna/forks-github-readme-stats) </a>
 </div>
 
 <div class="top-right">
-<a href="https://github.com/amgauna/github-readme-stats">
-<img width="380" height="180" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default" /> </a>
+<a href="https://github.com/amgauna">
+<img width="380" height="180" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default"> 
+(https://github.com/amgauna/forks-github-readme-stats) </a>
 </div>
 
-<a href="https://github.com/amgauna/github-readme-stats">
-  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default" media="(prefers-color-scheme: light)"> </a>
+<a href="https://github.com/amgauna">
+<img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=amgauna&show_icons=true&theme=default" media="(prefers-color-scheme: light)"> 
+(https://github.com/amgauna/forks-github-readme-stats) </a>
+
 
