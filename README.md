@@ -98,12 +98,12 @@ I have been working using the internet since 1996-2025 with Technical Project Ma
 
 <div class="top-left"> 
 <a href="https://github.com/amgauna">
-<img width="380" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=compact&langs_count=30&card_width=380&theme=default"></a>
+<img width="380" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgauna&layout=full&langs_count=50&card_width=380&theme=default"></a>
 </div>
 
 <div class="top-right">
 <a href="https://github.com/amgauna">
-<img width="380" height="180" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=30&theme=default"></a>
+<img width="380" height="180" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=50&theme=default"></a>
 </div>
 
 <a href="https://github.com/amgauna">
