@@ -86,7 +86,5 @@ Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática
 <a href="https://github.com/amgauna/github-readme-streak-stats" />
 <img src="https://streak-stats.demolab.com/?user=amgauna" align="left" /> </a>
 
-<a href="https://github.com/amgauna" />
-<img width="500" height="500" src="https://ionicabizau.github.io/github-profile-languages/api.html?user=amgauna" /> </a>
 
 
