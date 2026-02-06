@@ -13,24 +13,13 @@
 ### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰 
 <div style="text-align:justify; content-align: justify;">
 	
-Hi, my name is <b>Ana M Gauna</b>. I am a woman, an Brazilian; a mother of an adult daughter, 1 white dog weighing 6 kilos, 1 caramel dog weighing 22 kilos and 1 black-white cat. I live and work in the Botafogo neighborhood, City of Rio de Janeiro, State of Rio de Janeiro, Brazil. <br>
+Hello, my name is Ana Gauna. I am a Brazilian woman, mother of an adult daughter, mother of a white dog, mother of a caramel-colored dog, and mother of a black cat. I enjoy soap operas, movies, series, cinema, television, music, the internet, computers, etc. I know how to cook and sew clothes. I am from Rio de Janeiro, RJ, Brazil. <br>
 	
-I am working with Web Technology. I am studying <b>Prompt Engineering</b> and analyzing <b>LLM, generative artificial intelligence</b> app, AI Agents, AI Agentic, AI RAG Agents. I am analyzing <b>AI photo</b> editing apps, <b>AI video</b> editing apps, and <b>AI audio</b> editing apps that generate images using <b>generative artificial intelligence</b> filters. These AI apps need to include information in their <b>Metadata</b> indicating that they were generated using AI. <br>
+I work with Web Technologies. I am studying <b>Prompt Engineering</b> and analyzing <b>photo editing</b>, <b>video editing</b>, and <b>audio editing</b> applications that generate images using generative artificial intelligence filters. AI applications need to include in their <b>metadata</b> information indicating that they were generated using AI. Currently, I am analyzing: <b>LLM</b>, AI Agents, AI Agentic RAG, etc. <br>
 
-<b>CRA-RJ:03-03161</b> of <b>Data Processing Technologist</b>, professional registration of <b>Conselho Regional de Administração of Rio de Janeiro</b>. Higher Course in <b>Data Processing Technology</b>, held at <b>FACHA - Faculdades Integradas Helio Alonso</b>, classroom course completed in 2003. Email: <a href="mailto:anagauna@anagauna.eti.br">anagauna@anagauna.eti.br</a>, WhatsApp <a href="https://wa.me/5521979371230">+55 (21) 97937-1230</a>. <br>
+Professional Registration: CRA-RJ: 03-03161 as a Data Processing Technologist, issued by the Regional Administrative Council of Rio de Janeiro. Higher Education in Data Processing Technology, on-campus course completed in 2003, was carried out at FACHA - Faculdades Integradas Hélio Alonso, in the Municipality of Rio de Janeiro, RJ, Brazil. <br>
 
-I have been working using the internet since 1996-2025 with Technical Project Management, Information Technology, ERP Systems Implementation, Administration Techniques, Google Digital Marketing, APIs and Cloud Computing. I have been working since 1998 using websites at https://cgi.br and https://registro.br. <br>
-
-- Ana Gauna (Tech) = https://www.anagauna.eti.br <br>
-- Ana Gauna (Dev) =  https://www.anagauna.dev.br <br>
-- Ana Gauna (Instagram) = https://Instagram.com/amgauna <br>
-- Ana Gauna (ThReads) = https://Threads.com/@amgauna <br>
-- Ana Gauna (X Twitter) = https://X.com/amgauna <br>
-- Ana Gauna (TikTok) = https://TikTok.com/@amgauna <br>
-- Ana Gauna (Adobe Behance) = https://Behance.com/amgauna <br>
-- Ana Gauna (Blog Blogger) = https://anagauna-projetos.blogspot.com <br>
-- Ana Gauna (Blog Wordpress) = https://anagaunatech.wordpress.com <br>
-- Ana Gauna (Microsoft Learn) = https://learn.microsoft.com/pt-br/users/amgauna/ <br>
+Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática com internet desde 1995. Tenho experiência com gerenciamento de projetos de TI, serviços de Tecnologia da Informação, instalação e configuração de hardwares e softwares, rede wireless, montagem de computadores, implantação de sistemas ERP, utilizando técnicas de administração, marketing digital, técnico Windows, Web Developer, Web Designer, Graphic Designer, APIs do Google Developers e serviços de cloud computing. <br>
 </div>
 
 
