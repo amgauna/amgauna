@@ -77,11 +77,10 @@ Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática
 ---
 ### ✨ Estatísticas do GitHub: Total de contribuições e principais linguagens
 
-<a href="https://github.com/amgauna">
-<img width="300" height="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default"></a>
+<a href="https://github.com/amgauna"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?&langs_count=30&username=amgauna&theme=default"></a>
 
-<a href="https://github.com/amgauna">
-<img width="380" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=50&theme=default"></a>
+<a href="https://github.com/amgauna"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=50&theme=default"></a>
 
-[(https://github-readme-streak-stats.herokuapp.com/?&user=amgauna&short_numbers=true)](https://github.com/amgauna/github-readme-streak-stats/)
+<a href="(https://github.com/amgauna/github-readme-streak-stats/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&short_numbers=true"></a>
+
 
