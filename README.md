@@ -84,6 +84,6 @@ Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=50&theme=default" align="left" /> </a>
 
 <a href="https://github.com/amgauna/github-readme-streak-stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=amgauna&theme=default" align="left" /> </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&theme=default?" align="left" /> </a>
 
 
