@@ -10,21 +10,21 @@
 
 # 👩🏻‍💻 Ana Gauna (Tech Dev) 
 	
-### ✨ About me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰 
+### ✨ About Me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰 
 <div style="text-align:justify; content-align: justify;">
 	
-Hello, my name is Ana Gauna. I am a Brazilian woman, mother of an adult daughter, mother of a white dog, mother of a caramel-colored dog, and mother of a black cat. I enjoy soap operas, movies, series, cinema, television, music, the internet, computers, etc. I know how to cook and sew clothes. I am from Rio de Janeiro, RJ, Brazil. <br>
+Olá, meu nome é Ana Gauna. Sou brasileira, mãe de uma filha adulta, mãe de um cachorro branco, mãe de um cachorro caramelo e mãe de um gato preto. Gosto de novelas, filmes, séries, cinema, televisão, música, internet, computadores, etc. Eu sei cozinhar e costurar. Eu sou Carioca, do Municipio do Rio de Janeiro, RJ, Brasil. <br>
 	
-I work with Web Technologies. I am studying <b>Prompt Engineering</b> and analyzing <b>photo editing</b>, <b>video editing</b>, and <b>audio editing</b> applications that generate images using generative artificial intelligence filters. AI applications need to include in their <b>metadata</b> information indicating that they were generated using AI. Currently, I am analyzing: <b>LLM</b>, AI Agents, AI Agentic RAG, etc. <br>
+Eu sou profissional autônomo, Freelancer, MEI, trabalho com Tecnologias Web. Eu estou estudando a <b>Engenharia de Prompts</b> e analisando aplicativos de <b>edição de fotos</b>, <b>edição de vídeos</b> e <b>edição de áudio</b> que geram imagens com filtros de inteligência artificial generativa. Os aplicativos IA precisam incluir nos <b>metadados</b> a informação indicando que foram gerados utilizando IA. Atualmente, estou analisando: <b>LLM</b>, Agentes de IA, RAG Agente de IA, etc. <br>
 
-Professional Registration: CRA-RJ: 03-03161 as a Data Processing Technologist, issued by the Regional Administrative Council of Rio de Janeiro. Higher Education in Data Processing Technology, on-campus course completed in 2003, was carried out at FACHA - Faculdades Integradas Hélio Alonso, in the Municipality of Rio de Janeiro, RJ, Brazil. <br>
+Registro profissional: CRA-RJ: 03-03161 como Tecnólogo em Processamento de Dados, emitido pelo Conselho Regional de Administração do Rio de Janeiro. Formação Universitária em Tecnologia de Processamento de Dados, curso presencial concluído em 2003, realizado na FACHA - Faculdades Integradas Hélio Alonso, no Município do Rio de Janeiro, RJ, Brasil. <br>
 
 Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática com internet desde 1995. Tenho experiência com gerenciamento de projetos de TI, serviços de Tecnologia da Informação, instalação e configuração de hardwares e softwares, rede wireless, montagem de computadores, implantação de sistemas ERP, utilizando técnicas de administração, marketing digital, técnico Windows, Web Developer, Web Designer, Graphic Designer, APIs do Google Developers e serviços de cloud computing. <br>
 </div>
 
 
 ---
-### ✨ Self-Taught Study (2015 to present)
+### ✨ Estudo autodidata (2015 até o presente)
 <div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="auto" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="auto" />
@@ -47,7 +47,7 @@ Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática
 
 
 ---
-### 🤖 Artificial Intelligence - LLM Models
+### 🤖 Inteligência Artificial - Modelos LLM
 <div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/gemini3.png" width="120" height="190" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/deepseek1.png" width="120" height="190" /> 
@@ -61,7 +61,7 @@ Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática
 
 
 ---
-### 🤖 Artificial Intelligence - Machine Learning Tools
+### 🤖 Inteligência Artificial - Ferramentas de Aprendizado de Máquina
 <div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio3.jpeg" width="190" height="250" /> 
 <img src="https://github.com/amgauna/amgauna/blob/main/Image/googlenanobananapro.jpeg" width="190" height="250" /> 
@@ -75,7 +75,7 @@ Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática
 
 
 ---
-### ✨ Github Stats: Total Contributions & Top Languages
+### ✨ Estatísticas do GitHub: Total de contribuições e principais linguagens
 
 <div class="top-center"> 
 <a href="https://github.com/amgauna" align="left" />
