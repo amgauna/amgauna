@@ -83,13 +83,5 @@ Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática
 <a href="https://github.com/amgauna">
 <img width="380" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=amgauna&langs_count=50&theme=default"></a>
 
-<a href="https://github.com/amgauna/github-readme-streak-stats/">
-<img width="380" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=amgauna&short_numbers=true"></a>
-
-[![](https://github-readme-streak-stats.herokuapp.com?user=amgauna&short_numbers=true)](https://github.com/amgauna/github-readme-streak-stats/)
-
-[![](https://github-readme-streak-stats.herokuapp.com?top-langs?username=amgauna&layout=compact&langs_count=50&card_width=auto)](https://github.com/amgauna/)
-
-[![](https://github-readme-streak-stats.herokuapp.com?username=amgauna&show_icons=true&theme=default)](https://github.com/amgauna/)
-
+[![](https://github-readme-streak-stats.herokuapp.com?user=amgauna&short_numbers=true )](https://github.com/amgauna/github-readme-streak-stats)
 
