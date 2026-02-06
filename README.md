@@ -10,7 +10,7 @@
 
 # 👩🏻‍💻 Ana Gauna (Tech Dev) 
 	
-### ✨ About Me 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰 
+### ✨ Sobre Mim 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰 
 <div style="text-align:justify; content-align: justify;">
 	
 Olá, meu nome é Ana Gauna. Sou brasileira, mãe de uma filha adulta, mãe de um cachorro branco, mãe de um cachorro caramelo e mãe de um gato preto. Gosto de novelas, filmes, séries, cinema, televisão, música, internet, computadores, etc. Eu sei cozinhar e costurar. Eu sou Carioca, do Municipio do Rio de Janeiro, RJ, Brasil. <br>
