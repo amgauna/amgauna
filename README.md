@@ -8,7 +8,7 @@
 </a>
 </div>
 
-# 👩🏻‍💻 Ana Mercedes Gauna (Tech Dev) 
+# 👩🏻‍💻 Hello !!!
 	
 ### ✨ Sobre Mim 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰 
 <div style="text-align:justify; content-align: justify;">
