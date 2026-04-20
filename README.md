@@ -8,12 +8,12 @@
 </a>
 </div>
 
-# 👩🏻‍💻 Ana Gauna (Tech Dev) 
+# 👩🏻‍💻 Ana Mercedes Gauna (Tech Dev) 
 	
 ### ✨ Sobre Mim 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰 
 <div style="text-align:justify; content-align: justify;">
 	
-Olá, meu nome é Ana Gauna. Sou brasileira, mãe de uma filha adulta, mãe de um cachorro branco, mãe de um cachorro caramelo e mãe de um gato preto. Gosto de novelas, filmes, séries, cinema, televisão, música, internet, computadores, etc. Eu sei cozinhar e costurar. Eu sou Carioca, do Municipio do Rio de Janeiro, RJ, Brasil. <br>
+Olá, meu nome é Ana Mercedes Gauna. Sou brasileira, mãe de uma filha adulta, mãe de um cachorro branco, mãe de um cachorro caramelo e mãe de um gato preto. Gosto de novelas, filmes, séries, cinema, televisão, música, internet, computadores, etc. Eu sei cozinhar e costurar. Eu sou Carioca, do Municipio do Rio de Janeiro, RJ, Brasil. <br>
 	
 Eu sou profissional autônomo, Freelancer, MEI, trabalho com Tecnologias Web. Eu estou estudando a <b>Engenharia de Prompts</b> e analisando aplicativos de <b>edição de fotos</b>, <b>edição de vídeos</b> e <b>edição de áudio</b> que geram imagens com filtros de inteligência artificial generativa. Os aplicativos IA precisam incluir nos <b>metadados</b> a informação indicando que foram gerados utilizando IA. Atualmente, estou analisando: <b>LLM</b>, Agentes de IA, RAG Agente de IA, etc. <br>
 
