@@ -24,6 +24,10 @@ Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática
 
 * Curriculum Vitae (Resume): https://amgauna.github.io/
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=amgauna&theme=discord" alt="Amgauna" />
+</a> </p>
+
 ---
 ### ✨ Estudo autodidata (2015 até o presente)
 <div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
