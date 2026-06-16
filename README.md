@@ -23,6 +23,7 @@ Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática
 </div>
 
 * Curriculum Vitae (Resume) = https://amgauna.github.io/
+* Microsoft Learn = https://learn.microsoft.com/pt-br/users/amgauna/
 * HuggingFace = https://huggingface.co/amgauna
 * Google Developers Groups = https://gdg.community.dev/u/ana427/#/about
 * Google Developer Program = https://me.developers.google.com/u/amgauna
