@@ -1,0 +1,35 @@
+{
+  "folders": [
+    {
+      "name": "Ana Gauna Profile",
+      "path": "."
+    },
+    {
+      "name": "Certificados",
+      "path": "Certificados"
+    },
+    {
+      "name": "CyberSecurity",
+      "path": "CyberSecurity"
+    },
+    {
+      "name": "Microsoft",
+      "path": "Microsoft"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "yzhang.markdown-all-in-one",
+      "davidanson.vscode-markdownlint",
+      "eamodio.gitlens",
+      "github.vscode-pull-request-github",
+      "github.copilot",
+      "tomoki1207.pdf"
+    ]
+  }
+}
