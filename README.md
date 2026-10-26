@@ -15,7 +15,9 @@
 	
 Olá, meu nome é <strong>Ana Gauna</strong>. Eu sou Brasileira, sou mãe de uma filha adulta, sou mãe de um cachorro branco, sou mãe de um cachorro caramelo, sou mãe de um gato preto. Eu gosto de assistir na televisão novelas, filmes, séries, gosto de ir no cinema (de vez em quando), gosto de músicas (pop, rock e sertanejo), trabalho usando computadores com internet desde 1995 no Brasil. Eu sei cozinhar e costurar. Eu sou Carioca, estou estabelecida no Municipio do Rio de Janeiro, RJ, Brasil. <br>
 	
-Eu sou profissional autônomo, Freelancer, MEI, trabalho com Tecnologias Web. Eu estou estudando a <b>Engenharia de Prompts</b> e analisando aplicativos de <b>edição de fotos</b>, <b>edição de vídeos</b> e <b>edição de áudio</b> que geram imagens com filtros de inteligência artificial generativa. Os aplicativos IA precisam incluir nos <b>metadados</b> a informação indicando que foram gerados utilizando IA. Atualmente, estou analisando: <b>LLM</b>, Agentes de IA, RAG Agente de IA, etc. <br>
+Eu estou trabalhando desde 26 Outubro 2026 com Linux Ubuntu Desktop, Linux Mint Zeta, PHP 8.5, CSS3, JavaScript, Bootstrap 6, estou atualizando meu código velho de programação web aos poucos. 
+
+Eu sou profissional autônomo, Freelancer, MEI, desde 1998 trabalho com Tecnologias Web. Desde 2022 estou analisando aplicativos de <b>edição de fotos</b>, <b>edição de vídeos</b> e <b>edição de áudio</b> que geram imagens com filtros de inteligência artificial generativa. Resultado da minha análise: as empresas de Tecnologia precisam incluir dentro do <b>metadados</b> dos arquivos a informação indicando que foi gerado utilizando a inteligência artifical. Desde 2025 eu estou estudando a <b>Engenharia de Prompts</b>,  estou analisando: <b>modelos LLMs</b>, Agentes IA, Agentic AI, Agentes RAG, etc. <br>
 
 Registro profissional: CRA-RJ: 03-03161 como Tecnólogo em Processamento de Dados, emitido pelo Conselho Regional de Administração do Rio de Janeiro. Formação Universitária em Tecnologia de Processamento de Dados, curso presencial concluído em 2003, realizado na FACHA - Faculdades Integradas Hélio Alonso, no Município do Rio de Janeiro, RJ, Brasil. <br>
 
