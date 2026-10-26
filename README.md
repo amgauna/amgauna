@@ -24,6 +24,7 @@ Registro profissional: CRA-RJ: 03-03161 como Tecnólogo em Processamento de Dado
 Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática com internet desde 1995. Tenho experiência com gerenciamento de projetos de TI, serviços de Tecnologia da Informação, instalação e configuração de hardwares e softwares, rede wireless, montagem de computadores, implantação de sistemas ERP, utilizando técnicas de administração, marketing digital, técnico Windows, Web Developer, Web Designer, Graphic Designer, APIs do Google Developers e serviços de cloud computing. <br>
 </div>
 
+* Meus Websites: www.anagauna.eti.br , www.anagauna.dev.br , www.amgauna.com.br , www.amgauna.com 
 * Curriculum Vitae (Resume) = https://amgauna.github.io/
 * Microsoft Learn = https://learn.microsoft.com/pt-br/users/amgauna/
 * HuggingFace = https://huggingface.co/amgauna
