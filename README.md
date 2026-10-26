@@ -13,7 +13,7 @@
 ### ✨ Sobre Mim 💕🐶😺🖥️💻📺🎦🎸🍔🍕🌭🧁🍰 
 <div style="text-align:justify; content-align: justify;">
 	
-Olá, meu nome é <strong>Ana Mercedes Gauna</strong>. Sou brasileira, mãe de uma filha adulta, mãe de um cachorro branco, mãe de um cachorro caramelo e mãe de um gato preto. Gosto de novelas, filmes, séries, cinema, televisão, música, internet, computadores, etc. Eu sei cozinhar e costurar. Eu sou Carioca, do Municipio do Rio de Janeiro, RJ, Brasil. <br>
+Olá, meu nome é <strong>Ana Gauna</strong>. Eu sou Brasileira, sou mãe de uma filha adulta, sou mãe de um cachorro branco, sou mãe de um cachorro caramelo, sou mãe de um gato preto. Eu gosto de assistir na televisão novelas, filmes, séries, gosto de ir no cinema (de vez em quando), gosto de músicas (pop, rock e sertanejo), trabalho usando computadores com internet desde 1995 no Brasil. Eu sei cozinhar e costurar. Eu sou Carioca, estou estabelecida no Municipio do Rio de Janeiro, RJ, Brasil. <br>
 	
 Eu sou profissional autônomo, Freelancer, MEI, trabalho com Tecnologias Web. Eu estou estudando a <b>Engenharia de Prompts</b> e analisando aplicativos de <b>edição de fotos</b>, <b>edição de vídeos</b> e <b>edição de áudio</b> que geram imagens com filtros de inteligência artificial generativa. Os aplicativos IA precisam incluir nos <b>metadados</b> a informação indicando que foram gerados utilizando IA. Atualmente, estou analisando: <b>LLM</b>, Agentes de IA, RAG Agente de IA, etc. <br>
 
