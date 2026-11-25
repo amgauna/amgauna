@@ -67,7 +67,7 @@ Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática
 
 
 ---
-### 🤖 Inteligência Artificial - Ferramentas de Aprendizado de Máquina
+### 🤖 Inteligência Artificial - Ferramentas #AI
     * Google AI Studio.
 	* Google Nano Banana Pro.
 	* Google NotebooKLM.
