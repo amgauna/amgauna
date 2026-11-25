@@ -56,6 +56,7 @@ Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática
 
 ---
 ### 🤖 Inteligência Artificial - Modelos LLM
+
     * Microsoft Copilot 365.
     * Google Gemini 3.
     * OpenAI Chat-GPT3 , Chat-GPT4 , ChatGPT5.
@@ -63,16 +64,26 @@ Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática
     * XAI Grok3 , Grok4.
     * Manus AI.
     * Meta AI.
+	* Perplexity.
+	* Blackbox AI.
     * DeepSeek.
 
 
 ---
 ### 🤖 Inteligência Artificial - Ferramentas #AI
+
     * Google AI Studio.
+	* Google Gemini Notebook.
+	* Lovable: Build Apps with AI.
+	* Cava
+	
+---
+### 🤖 Edição Imagens #AI / Edição Videos #AI
+
+    * Microsoft Designer.
 	* Google Nano Banana Pro.
-	* Google NotebooKLM.
 	* Google VEO 3.
-	* Microsoft Designer.
+	* Google Flow.
 	* OpenAI Sora 2.
 	* Tiktok CapCut.	
 
