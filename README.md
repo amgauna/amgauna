@@ -57,28 +57,27 @@ Eu trabalho no Município do Rio de Janeiro, RJ, Brasil, utilizando informática
 ---
 ### 🤖 Inteligência Artificial - Modelos LLM
 <div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/gemini3.png" width="120" height="190" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/deepseek1.png" width="120" height="190" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/manusai.png" width="100" height="190" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/metaai2.png" width="100" height="190" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/claudeai1.png" width="90" height="190" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftcopilot1.jpeg" width="70" height="70" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/chatgpt.png" width="70" height="70" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/grokai1.jpeg" width="70" height="70" /> 
+    * Microsoft Copilot 365.
+    * Google Gemini 3.
+    * OpenAI Chat-GPT3 , Chat-GPT4 , ChatGPT5.
+    * Anthropic Claude Sonet , Claude Opus.
+    * XAI Grok3 , Grok4.
+    * Manus AI.
+    * Meta AI.
+    * DeepSeek.
 </div>
 
 
 ---
 ### 🤖 Inteligência Artificial - Ferramentas de Aprendizado de Máquina
 <div style="display:inline-flex; margin:0; padding:auto; align-items:center; height:100vh;">
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/googleaistudio3.jpeg" width="190" height="250" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/googlenanobananapro.jpeg" width="190" height="250" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/googleveo3.png" width="90" height="250" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/notebooklm2.png" width="90" height="250" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/microsoftdesigner1.png" width="90" height="250" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/openaisora2.png" width="90" height="90" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/capcut1.jpeg" width="70" height="70" /> 
-<img src="https://github.com/amgauna/amgauna/blob/main/Image/canva2.jpeg" width="70" height="70" /> 
+    * Google AI Studio.
+	* Google Nano Banana Pro.
+	* Google NotebooKLM.
+	* Google VEO 3.
+	* Microsoft Designer.
+	* OpenAI Sora 2.
+	* Tiktok CapCut.
 </div>	
 
 
